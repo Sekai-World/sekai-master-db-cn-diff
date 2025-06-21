@@ -818,5 +818,363 @@
         "resourceBoxId": 2061
       }
     ]
+  },
+  {
+    "id": 1090,
+    "startAt": 1749758400000,
+    "endAt": 1750017540000,
+    "assetbundleName": "restday2025_0613",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1254,
+        "limitedLoginBonusId": 1090,
+        "day": 1,
+        "resourceBoxId": 2053
+      },
+      {
+        "id": 1255,
+        "limitedLoginBonusId": 1090,
+        "day": 2,
+        "resourceBoxId": 2054
+      },
+      {
+        "id": 1256,
+        "limitedLoginBonusId": 1090,
+        "day": 3,
+        "resourceBoxId": 2062
+      }
+    ]
+  },
+  {
+    "id": 1091,
+    "startAt": 1754841600000,
+    "endAt": 1754927999000,
+    "assetbundleName": "birthday2025_01",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1257,
+        "limitedLoginBonusId": 1091,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1092,
+    "startAt": 1761494400000,
+    "endAt": 1761580799000,
+    "assetbundleName": "birthday2025_03",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1258,
+        "limitedLoginBonusId": 1092,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1093,
+    "startAt": 1767801600000,
+    "endAt": 1767887999000,
+    "assetbundleName": "birthday2026_04",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1259,
+        "limitedLoginBonusId": 1093,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1094,
+    "startAt": 1759593600000,
+    "endAt": 1759679999000,
+    "assetbundleName": "birthday2025_06",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1260,
+        "limitedLoginBonusId": 1094,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1095,
+    "startAt": 1773849600000,
+    "endAt": 1773935999000,
+    "assetbundleName": "birthday2026_07",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1261,
+        "limitedLoginBonusId": 1095,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1096,
+    "startAt": 1764950400000,
+    "endAt": 1765036799000,
+    "assetbundleName": "birthday2025_08",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1262,
+        "limitedLoginBonusId": 1096,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1097,
+    "startAt": 1772380800000,
+    "endAt": 1772467199000,
+    "assetbundleName": "birthday2026_09",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1263,
+        "limitedLoginBonusId": 1097,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1098,
+    "startAt": 1753459200000,
+    "endAt": 1753545599000,
+    "assetbundleName": "birthday2025_10",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1264,
+        "limitedLoginBonusId": 1098,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1099,
+    "startAt": 1762876800000,
+    "endAt": 1762963199000,
+    "assetbundleName": "birthday2025_11",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1265,
+        "limitedLoginBonusId": 1099,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1100,
+    "startAt": 1757347200000,
+    "endAt": 1757433599000,
+    "assetbundleName": "birthday2025_14",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1266,
+        "limitedLoginBonusId": 1100,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1101,
+    "startAt": 1752940800000,
+    "endAt": 1753027199000,
+    "assetbundleName": "birthday2025_15",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1267,
+        "limitedLoginBonusId": 1101,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1102,
+    "startAt": 1750694400000,
+    "endAt": 1750780799000,
+    "assetbundleName": "birthday2025_16",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1268,
+        "limitedLoginBonusId": 1102,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1103,
+    "startAt": 1770652800000,
+    "endAt": 1770739199000,
+    "assetbundleName": "birthday2026_17",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1269,
+        "limitedLoginBonusId": 1103,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1104,
+    "startAt": 1769443200000,
+    "endAt": 1769529599000,
+    "assetbundleName": "birthday2026_18",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1270,
+        "limitedLoginBonusId": 1104,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1105,
+    "startAt": 1756224000000,
+    "endAt": 1756310399000,
+    "assetbundleName": "birthday2025_20",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1271,
+        "limitedLoginBonusId": 1105,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1106,
+    "startAt": 1756569600000,
+    "endAt": 1756655999000,
+    "assetbundleName": "birthday2025_21",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1272,
+        "limitedLoginBonusId": 1106,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1107,
+    "startAt": 1766764800000,
+    "endAt": 1766851199000,
+    "assetbundleName": "birthday2025_22",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1273,
+        "limitedLoginBonusId": 1107,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1108,
+    "startAt": 1766764800000,
+    "endAt": 1766851199000,
+    "assetbundleName": "birthday2025_23",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1274,
+        "limitedLoginBonusId": 1108,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1109,
+    "startAt": 1769702400000,
+    "endAt": 1769788799000,
+    "assetbundleName": "birthday2026_24",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1275,
+        "limitedLoginBonusId": 1109,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1110,
+    "startAt": 1762272000000,
+    "endAt": 1762358399000,
+    "assetbundleName": "birthday2025_25",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1276,
+        "limitedLoginBonusId": 1110,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1111,
+    "startAt": 1771257600000,
+    "endAt": 1771343999000,
+    "assetbundleName": "birthday2026_26",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1277,
+        "limitedLoginBonusId": 1111,
+        "day": 1,
+        "resourceBoxId": 2036
+      }
+    ]
+  },
+  {
+    "id": 1112,
+    "startAt": 1750651200000,
+    "endAt": 1751659199000,
+    "assetbundleName": "100day_anniversary",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1278,
+        "limitedLoginBonusId": 1112,
+        "day": 1,
+        "resourceBoxId": 2063
+      },
+      {
+        "id": 1279,
+        "limitedLoginBonusId": 1112,
+        "day": 2,
+        "resourceBoxId": 2063
+      },
+      {
+        "id": 1280,
+        "limitedLoginBonusId": 1112,
+        "day": 3,
+        "resourceBoxId": 2063
+      },
+      {
+        "id": 1281,
+        "limitedLoginBonusId": 1112,
+        "day": 4,
+        "resourceBoxId": 2063
+      },
+      {
+        "id": 1282,
+        "limitedLoginBonusId": 1112,
+        "day": 5,
+        "resourceBoxId": 2063
+      }
+    ]
   }
 ]

@@ -102,6 +102,30 @@
     "gachaDisplayType": "having"
   },
   {
+    "id": 18,
+    "name": "[4周年纪念]绚烂节日招募专用券",
+    "assetbundleName": "anniversary_fes_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 19,
+    "name": "[4周年纪念]10连免费招募券",
+    "assetbundleName": "anniversary_free_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 20,
+    "name": "[邀请朋友]★4成员必出招募券",
+    "assetbundleName": "gacha_ticket_star4",
+    "gachaDisplayType": "having"
+  },
+  {
+    "id": 21,
+    "name": "★4成员必出招募券",
+    "assetbundleName": "gacha_ticket_star4",
+    "gachaDisplayType": "having"
+  },
+  {
     "id": 1000,
     "name": "“[Wonderlands×Showtime]\n连接世界活动支援招募”10连招募券",
     "assetbundleName": "anniversary_free_gacha_ticket",
@@ -112,5 +136,41 @@
     "name": "“[MORE MORE JUMP！]\n连接世界活动支援招募”10连招募券",
     "assetbundleName": "anniversary_free_gacha_ticket",
     "gachaDisplayType": "always"
+  },
+  {
+    "id": 1002,
+    "name": "“[Vivid BAD SQUAD]\n连接世界活动支援招募”10连招募券",
+    "assetbundleName": "anniversary_free_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 1003,
+    "name": "“[Leo\/need]\n连接世界活动支援招募”10连招募券",
+    "assetbundleName": "anniversary_free_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 1004,
+    "name": "“[25点，Nightcord见。]\n连接世界活动支援招募”10连招募券",
+    "assetbundleName": "anniversary_free_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 1005,
+    "name": "“[虚拟歌手]\n连接世界活动支援招募”10连招募券",
+    "assetbundleName": "anniversary_free_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 1006,
+    "name": "[百日庆典]10连招募券",
+    "assetbundleName": "anniversary_free_gacha_ticket",
+    "gachaDisplayType": "always"
+  },
+  {
+    "id": 1007,
+    "name": "★4成员必出招募券",
+    "assetbundleName": "gacha_ticket_star4",
+    "gachaDisplayType": "having"
   }
 ]
