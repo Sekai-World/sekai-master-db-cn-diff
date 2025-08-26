@@ -1672,6 +1672,30 @@
     "musicTag": "vocaloid"
   },
   {
+    "musicId": 190,
+    "musicTag": "all"
+  },
+  {
+    "musicId": 190,
+    "musicTag": "vocaloid"
+  },
+  {
+    "musicId": 191,
+    "musicTag": "all"
+  },
+  {
+    "musicId": 191,
+    "musicTag": "vocaloid"
+  },
+  {
+    "musicId": 192,
+    "musicTag": "all"
+  },
+  {
+    "musicId": 192,
+    "musicTag": "vocaloid"
+  },
+  {
     "musicId": 193,
     "musicTag": "all"
   },
@@ -3164,6 +3188,38 @@
     "musicTag": "theme_park"
   },
   {
+    "musicId": 347,
+    "musicTag": "all"
+  },
+  {
+    "musicId": 347,
+    "musicTag": "vocaloid"
+  },
+  {
+    "musicId": 348,
+    "musicTag": "all"
+  },
+  {
+    "musicId": 348,
+    "musicTag": "vocaloid"
+  },
+  {
+    "musicId": 349,
+    "musicTag": "all"
+  },
+  {
+    "musicId": 349,
+    "musicTag": "vocaloid"
+  },
+  {
+    "musicId": 350,
+    "musicTag": "all"
+  },
+  {
+    "musicId": 350,
+    "musicTag": "vocaloid"
+  },
+  {
     "musicId": 351,
     "musicTag": "all"
   },
@@ -3836,6 +3892,10 @@
     "musicTag": "all"
   },
   {
+    "musicId": 499,
+    "musicTag": "all"
+  },
+  {
     "musicId": 373,
     "musicTag": "street"
   },
@@ -3944,6 +4004,10 @@
     "musicTag": "all"
   },
   {
+    "musicId": 534,
+    "musicTag": "all"
+  },
+  {
     "musicId": 541,
     "musicTag": "all"
   },
@@ -3969,6 +4033,14 @@
   },
   {
     "musicId": 549,
+    "musicTag": "all"
+  },
+  {
+    "musicId": 648,
+    "musicTag": "all"
+  },
+  {
+    "musicId": 654,
     "musicTag": "all"
   },
   {
@@ -4590,6 +4662,26 @@
   {
     "musicId": 544,
     "musicTag": "idol"
+  },
+  {
+    "musicId": 499,
+    "musicTag": "theme_park"
+  },
+  {
+    "musicId": 534,
+    "musicTag": "light_music_club"
+  },
+  {
+    "musicId": 648,
+    "musicTag": "vocaloid"
+  },
+  {
+    "musicId": 648,
+    "musicTag": "other"
+  },
+  {
+    "musicId": 654,
+    "musicTag": "vocaloid"
   },
   {
     "musicId": 11001,

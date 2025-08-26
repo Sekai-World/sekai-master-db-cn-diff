@@ -34,7 +34,7 @@
   },
   {
     "id": 2,
-    "seq": 1220801,
+    "seq": 1221001,
     "releaseConditionId": 1,
     "categories": [
       {
@@ -169,7 +169,7 @@
   },
   {
     "id": 10,
-    "seq": 1320801,
+    "seq": 1321001,
     "releaseConditionId": 1,
     "categories": [
       {
@@ -205,7 +205,7 @@
   },
   {
     "id": 11,
-    "seq": 1322401,
+    "seq": 1322601,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -307,7 +307,7 @@
   },
   {
     "id": 18,
-    "seq": 1222201,
+    "seq": 1222401,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -373,7 +373,7 @@
   },
   {
     "id": 21,
-    "seq": 1522901,
+    "seq": 1523101,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -409,7 +409,7 @@
   },
   {
     "id": 22,
-    "seq": 1600701,
+    "seq": 1600801,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -475,7 +475,7 @@
   },
   {
     "id": 27,
-    "seq": 1400601,
+    "seq": 1400701,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -541,7 +541,7 @@
   },
   {
     "id": 36,
-    "seq": 1501001,
+    "seq": 1501101,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -610,7 +610,7 @@
   },
   {
     "id": 41,
-    "seq": 1520801,
+    "seq": 1521001,
     "releaseConditionId": 1,
     "categories": [
       {
@@ -679,7 +679,7 @@
   },
   {
     "id": 44,
-    "seq": 1122501,
+    "seq": 1122701,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -811,7 +811,7 @@
   },
   {
     "id": 48,
-    "seq": 1122301,
+    "seq": 1122501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -910,7 +910,7 @@
   },
   {
     "id": 51,
-    "seq": 2520801,
+    "seq": 2521001,
     "releaseConditionId": 1,
     "categories": [
       {
@@ -979,7 +979,7 @@
   },
   {
     "id": 54,
-    "seq": 2420801,
+    "seq": 2421001,
     "releaseConditionId": 1,
     "categories": [
       {
@@ -1048,7 +1048,7 @@
   },
   {
     "id": 57,
-    "seq": 2320801,
+    "seq": 2321001,
     "releaseConditionId": 1,
     "categories": [
       {
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 60,
-    "seq": 2620801,
+    "seq": 2621001,
     "releaseConditionId": 1,
     "categories": [
       {
@@ -1114,7 +1114,7 @@
   },
   {
     "id": 61,
-    "seq": 2601101,
+    "seq": 2600301,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -1130,8 +1130,8 @@
     "dancerCount": 3,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_061",
-    "publishedAt": 1634227200000,
-    "releasedAt": 1634227200000,
+    "publishedAt": 1602691200000,
+    "releasedAt": 1602691200000,
     "fillerSec": 9.005000114440918,
     "infos": [
       {
@@ -1318,7 +1318,7 @@
   },
   {
     "id": 68,
-    "seq": 1500801,
+    "seq": 1500901,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -1492,7 +1492,7 @@
   },
   {
     "id": 73,
-    "seq": 1300501,
+    "seq": 1300601,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -1561,7 +1561,7 @@
   },
   {
     "id": 75,
-    "seq": 1222101,
+    "seq": 1222301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -1597,7 +1597,7 @@
   },
   {
     "id": 76,
-    "seq": 2720801,
+    "seq": 2721001,
     "releaseConditionId": 50022,
     "categories": [
       {
@@ -1630,7 +1630,7 @@
   },
   {
     "id": 77,
-    "seq": 2720802,
+    "seq": 2721002,
     "releaseConditionId": 50023,
     "categories": [
       {
@@ -1699,7 +1699,7 @@
   },
   {
     "id": 81,
-    "seq": 1423701,
+    "seq": 1423901,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -1765,7 +1765,7 @@
   },
   {
     "id": 83,
-    "seq": 1100901,
+    "seq": 1101001,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -1798,7 +1798,7 @@
   },
   {
     "id": 84,
-    "seq": 1125301,
+    "seq": 1125501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -1831,7 +1831,7 @@
   },
   {
     "id": 85,
-    "seq": 1122101,
+    "seq": 1122301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -1864,7 +1864,7 @@
   },
   {
     "id": 86,
-    "seq": 1125302,
+    "seq": 1125502,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -1897,7 +1897,7 @@
   },
   {
     "id": 87,
-    "seq": 1323501,
+    "seq": 1323701,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -1933,7 +1933,7 @@
   },
   {
     "id": 88,
-    "seq": 1522101,
+    "seq": 1522301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -2002,7 +2002,7 @@
   },
   {
     "id": 90,
-    "seq": 2600301,
+    "seq": 2600401,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -2068,7 +2068,7 @@
   },
   {
     "id": 92,
-    "seq": 1623301,
+    "seq": 1623501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -2137,7 +2137,7 @@
   },
   {
     "id": 94,
-    "seq": 1622101,
+    "seq": 1622301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -2407,7 +2407,7 @@
   },
   {
     "id": 102,
-    "seq": 1425303,
+    "seq": 1425503,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -2539,7 +2539,7 @@
   },
   {
     "id": 106,
-    "seq": 1522102,
+    "seq": 1522302,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -2740,7 +2740,7 @@
   },
   {
     "id": 113,
-    "seq": 1122601,
+    "seq": 1122801,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -2773,7 +2773,7 @@
   },
   {
     "id": 114,
-    "seq": 1122801,
+    "seq": 1123001,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -2806,7 +2806,7 @@
   },
   {
     "id": 115,
-    "seq": 1123401,
+    "seq": 1123601,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -2941,7 +2941,7 @@
   },
   {
     "id": 119,
-    "seq": 1123001,
+    "seq": 1123201,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -3007,7 +3007,7 @@
   },
   {
     "id": 121,
-    "seq": 1324801,
+    "seq": 1325001,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -3109,7 +3109,7 @@
   },
   {
     "id": 124,
-    "seq": 1123201,
+    "seq": 1123401,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -3142,7 +3142,7 @@
   },
   {
     "id": 125,
-    "seq": 1625301,
+    "seq": 1625501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -3553,7 +3553,7 @@
   },
   {
     "id": 137,
-    "seq": 1122102,
+    "seq": 1122302,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -3586,7 +3586,7 @@
   },
   {
     "id": 138,
-    "seq": 1523901,
+    "seq": 1524101,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -3619,7 +3619,7 @@
   },
   {
     "id": 139,
-    "seq": 1625001,
+    "seq": 1625201,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -3889,7 +3889,7 @@
   },
   {
     "id": 147,
-    "seq": 1322101,
+    "seq": 1322301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -4060,7 +4060,7 @@
   },
   {
     "id": 152,
-    "seq": 1122103,
+    "seq": 1122303,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -4093,7 +4093,7 @@
   },
   {
     "id": 153,
-    "seq": 1131701,
+    "seq": 1132101,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -4126,7 +4126,7 @@
   },
   {
     "id": 154,
-    "seq": 1324001,
+    "seq": 1324201,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -4159,7 +4159,7 @@
   },
   {
     "id": 155,
-    "seq": 1231301,
+    "seq": 1231701,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -4258,7 +4258,7 @@
   },
   {
     "id": 158,
-    "seq": 1525301,
+    "seq": 1525501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -4594,7 +4594,7 @@
   },
   {
     "id": 168,
-    "seq": 1322102,
+    "seq": 1322302,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -4699,7 +4699,7 @@
   },
   {
     "id": 171,
-    "seq": 1222102,
+    "seq": 1222302,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -4732,7 +4732,7 @@
   },
   {
     "id": 172,
-    "seq": 1332501,
+    "seq": 1333701,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -4834,7 +4834,7 @@
   },
   {
     "id": 175,
-    "seq": 1123601,
+    "seq": 1123801,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -4969,7 +4969,7 @@
   },
   {
     "id": 179,
-    "seq": 1125101,
+    "seq": 1125301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -5038,7 +5038,7 @@
   },
   {
     "id": 181,
-    "seq": 1625302,
+    "seq": 1625502,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -5110,7 +5110,7 @@
   },
   {
     "id": 183,
-    "seq": 1522105,
+    "seq": 1522305,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -5176,7 +5176,7 @@
   },
   {
     "id": 185,
-    "seq": 1122104,
+    "seq": 1122305,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -5343,6 +5343,105 @@
     "isFullLength": false
   },
   {
+    "id": 190,
+    "seq": 1199903,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "悪ノ娘",
+    "pronunciation": "あくのむすめ",
+    "creatorArtistId": 105,
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_190",
+    "publishedAt": 4104964800000,
+    "releasedAt": 4104964800000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "恶之娘",
+        "creator": "mothy",
+        "lyricist": "mothy",
+        "composer": "mothy",
+        "arranger": "mothy"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 191,
+    "seq": 1199904,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "悪ノ召使",
+    "pronunciation": "あくのめしつかい",
+    "creatorArtistId": 105,
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_191",
+    "publishedAt": 4104964800000,
+    "releasedAt": 4104964800000,
+    "fillerSec": 7.5,
+    "infos": [
+      {
+        "title": "恶之侍从",
+        "creator": "mothy",
+        "lyricist": "mothy",
+        "composer": "mothy",
+        "arranger": "mothy"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 192,
+    "seq": 2199901,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "去り人達のワルツ",
+    "pronunciation": "さりびとたちのわるつ",
+    "creatorArtistId": 105,
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_192",
+    "publishedAt": 4104964800000,
+    "releasedAt": 4104964800000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "离别者们的华尔兹",
+        "creator": "mothy",
+        "lyricist": "mothy",
+        "composer": "mothy",
+        "arranger": "mothy"
+      }
+    ],
+    "isNewlyWrittenMusic": true,
+    "isFullLength": false
+  },
+  {
     "id": 193,
     "seq": 2307401,
     "releaseConditionId": 10,
@@ -5377,7 +5476,7 @@
   },
   {
     "id": 194,
-    "seq": 1625303,
+    "seq": 1625503,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -5515,7 +5614,7 @@
   },
   {
     "id": 198,
-    "seq": 1525302,
+    "seq": 1525502,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -5548,7 +5647,7 @@
   },
   {
     "id": 199,
-    "seq": 1225301,
+    "seq": 1225501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -5614,7 +5713,7 @@
   },
   {
     "id": 201,
-    "seq": 1525303,
+    "seq": 1525503,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -5647,7 +5746,7 @@
   },
   {
     "id": 202,
-    "seq": 1125303,
+    "seq": 1125503,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -5713,7 +5812,7 @@
   },
   {
     "id": 204,
-    "seq": 1624201,
+    "seq": 1624401,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -5779,7 +5878,7 @@
   },
   {
     "id": 206,
-    "seq": 1122105,
+    "seq": 1122306,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -5845,7 +5944,7 @@
   },
   {
     "id": 208,
-    "seq": 1222103,
+    "seq": 1222303,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -6217,7 +6316,7 @@
   },
   {
     "id": 219,
-    "seq": 1123101,
+    "seq": 1123301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -6250,7 +6349,7 @@
   },
   {
     "id": 220,
-    "seq": 1109001,
+    "seq": 1114801,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -6283,7 +6382,7 @@
   },
   {
     "id": 221,
-    "seq": 1123801,
+    "seq": 1124001,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -6316,7 +6415,7 @@
   },
   {
     "id": 222,
-    "seq": 1122106,
+    "seq": 1122307,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -6415,7 +6514,7 @@
   },
   {
     "id": 225,
-    "seq": 1525304,
+    "seq": 1525504,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -6448,7 +6547,7 @@
   },
   {
     "id": 226,
-    "seq": 1225302,
+    "seq": 1225502,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -6547,7 +6646,7 @@
   },
   {
     "id": 229,
-    "seq": 1125304,
+    "seq": 1125504,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -6949,7 +7048,7 @@
   },
   {
     "id": 242,
-    "seq": 1322105,
+    "seq": 1322305,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -6982,7 +7081,7 @@
   },
   {
     "id": 243,
-    "seq": 1225303,
+    "seq": 1225503,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -7048,7 +7147,7 @@
   },
   {
     "id": 245,
-    "seq": 1425304,
+    "seq": 1425504,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -7180,7 +7279,7 @@
   },
   {
     "id": 249,
-    "seq": 1124301,
+    "seq": 1124501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -7213,7 +7312,7 @@
   },
   {
     "id": 250,
-    "seq": 1122109,
+    "seq": 1122310,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -7312,7 +7411,7 @@
   },
   {
     "id": 253,
-    "seq": 1422105,
+    "seq": 1422305,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -7480,7 +7579,7 @@
   },
   {
     "id": 258,
-    "seq": 1325201,
+    "seq": 1325401,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -7612,7 +7711,7 @@
   },
   {
     "id": 262,
-    "seq": 1425305,
+    "seq": 1425505,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -7711,7 +7810,7 @@
   },
   {
     "id": 265,
-    "seq": 1122110,
+    "seq": 1122311,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -7846,7 +7945,7 @@
   },
   {
     "id": 269,
-    "seq": 1325301,
+    "seq": 1325501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -7879,7 +7978,7 @@
   },
   {
     "id": 270,
-    "seq": 1622102,
+    "seq": 1622302,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -7945,7 +8044,7 @@
   },
   {
     "id": 272,
-    "seq": 1625304,
+    "seq": 1625504,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8014,7 +8113,7 @@
   },
   {
     "id": 274,
-    "seq": 1122111,
+    "seq": 1122312,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8047,7 +8146,7 @@
   },
   {
     "id": 275,
-    "seq": 1125305,
+    "seq": 1125505,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8146,7 +8245,7 @@
   },
   {
     "id": 278,
-    "seq": 1125306,
+    "seq": 1125506,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8179,7 +8278,7 @@
   },
   {
     "id": 279,
-    "seq": 1124101,
+    "seq": 1124301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8344,7 +8443,7 @@
   },
   {
     "id": 284,
-    "seq": 1122112,
+    "seq": 1122313,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8410,7 +8509,7 @@
   },
   {
     "id": 286,
-    "seq": 1224901,
+    "seq": 1225101,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8476,7 +8575,7 @@
   },
   {
     "id": 288,
-    "seq": 1125307,
+    "seq": 1125507,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8509,7 +8608,7 @@
   },
   {
     "id": 289,
-    "seq": 1225304,
+    "seq": 1225504,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8542,7 +8641,7 @@
   },
   {
     "id": 291,
-    "seq": 1425306,
+    "seq": 1425506,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8578,7 +8677,7 @@
   },
   {
     "id": 292,
-    "seq": 1122113,
+    "seq": 1122314,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8710,7 +8809,7 @@
   },
   {
     "id": 296,
-    "seq": 1122114,
+    "seq": 1122315,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8743,7 +8842,7 @@
   },
   {
     "id": 297,
-    "seq": 1122115,
+    "seq": 1122316,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8776,7 +8875,7 @@
   },
   {
     "id": 298,
-    "seq": 1525305,
+    "seq": 1525505,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8809,7 +8908,7 @@
   },
   {
     "id": 299,
-    "seq": 1425307,
+    "seq": 1425507,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -8875,7 +8974,7 @@
   },
   {
     "id": 301,
-    "seq": 1131501,
+    "seq": 1131901,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -9007,7 +9106,7 @@
   },
   {
     "id": 305,
-    "seq": 1122116,
+    "seq": 1122317,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -9139,7 +9238,7 @@
   },
   {
     "id": 309,
-    "seq": 1199903,
+    "seq": 1132301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -9155,8 +9254,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_309",
-    "publishedAt": 4104964800000,
-    "releasedAt": 4104964800000,
+    "publishedAt": 1757142000000,
+    "releasedAt": 1757142000000,
     "fillerSec": 9.0,
     "infos": [
       {
@@ -9304,7 +9403,7 @@
   },
   {
     "id": 314,
-    "seq": 1122117,
+    "seq": 1122318,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -9337,7 +9436,7 @@
   },
   {
     "id": 315,
-    "seq": 1125801,
+    "seq": 1126001,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -9469,7 +9568,7 @@
   },
   {
     "id": 319,
-    "seq": 1122118,
+    "seq": 1122319,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -9670,7 +9769,7 @@
   },
   {
     "id": 325,
-    "seq": 1126601,
+    "seq": 1126801,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -9703,7 +9802,7 @@
   },
   {
     "id": 326,
-    "seq": 1122119,
+    "seq": 1122320,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -9769,7 +9868,7 @@
   },
   {
     "id": 328,
-    "seq": 1130101,
+    "seq": 1130501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -9868,7 +9967,7 @@
   },
   {
     "id": 331,
-    "seq": 1131801,
+    "seq": 1132201,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -10033,7 +10132,7 @@
   },
   {
     "id": 336,
-    "seq": 2721801,
+    "seq": 2722001,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -10099,7 +10198,7 @@
   },
   {
     "id": 338,
-    "seq": 1124401,
+    "seq": 1124601,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -10198,7 +10297,7 @@
   },
   {
     "id": 341,
-    "seq": 1127101,
+    "seq": 1127301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -10297,7 +10396,7 @@
   },
   {
     "id": 344,
-    "seq": 1425308,
+    "seq": 1425508,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -10398,6 +10497,138 @@
     "isFullLength": false
   },
   {
+    "id": 347,
+    "seq": 1199905,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "円尾坂の仕立屋",
+    "pronunciation": "えんびざかのしたてや",
+    "creatorArtistId": 105,
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_347",
+    "publishedAt": 4104964800000,
+    "releasedAt": 4104964800000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "圆尾坂的裁缝店",
+        "creator": "mothy",
+        "lyricist": "mothy",
+        "composer": "mothy",
+        "arranger": "mothy"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 348,
+    "seq": 1199906,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "悪徳のジャッジメント",
+    "pronunciation": "あくとくのじゃっじめんと",
+    "creatorArtistId": 105,
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_348",
+    "publishedAt": 4104964800000,
+    "releasedAt": 4104964800000,
+    "fillerSec": 9.0,
+    "infos": [
+      {
+        "title": "恶德的法官",
+        "creator": "mothy",
+        "lyricist": "mothy",
+        "composer": "mothy",
+        "arranger": "mothy"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 349,
+    "seq": 1199907,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "悪食娘コンチータ",
+    "pronunciation": "あくじきむすめこんちーた",
+    "creatorArtistId": 105,
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_349",
+    "publishedAt": 4104964800000,
+    "releasedAt": 4104964800000,
+    "fillerSec": 9.006699562072754,
+    "infos": [
+      {
+        "title": "恶食娘空琪塔",
+        "creator": "mothy",
+        "lyricist": "mothy",
+        "composer": "mothy",
+        "arranger": "mothy"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 350,
+    "seq": 1199908,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "image"
+      }
+    ],
+    "title": "眠らせ姫からの贈り物",
+    "pronunciation": "ねむらせひめからのおくりもの",
+    "creatorArtistId": 105,
+    "lyricist": "mothy",
+    "composer": "mothy",
+    "arranger": "mothy",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_350",
+    "publishedAt": 4104964800000,
+    "releasedAt": 4104964800000,
+    "fillerSec": 9.476200103759766,
+    "infos": [
+      {
+        "title": "安眠公主的赠礼",
+        "creator": "mothy",
+        "lyricist": "mothy",
+        "composer": "mothy",
+        "arranger": "mothy"
+      }
+    ],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 351,
     "seq": 2216701,
     "releaseConditionId": 10,
@@ -10432,7 +10663,7 @@
   },
   {
     "id": 352,
-    "seq": 1625305,
+    "seq": 1625505,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -10531,7 +10762,7 @@
   },
   {
     "id": 355,
-    "seq": 1325302,
+    "seq": 1325503,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -10597,7 +10828,7 @@
   },
   {
     "id": 357,
-    "seq": 1125308,
+    "seq": 1125508,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -10630,7 +10861,7 @@
   },
   {
     "id": 358,
-    "seq": 1622103,
+    "seq": 1622303,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -10864,7 +11095,7 @@
   },
   {
     "id": 365,
-    "seq": 1425701,
+    "seq": 1425901,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -10933,7 +11164,7 @@
   },
   {
     "id": 367,
-    "seq": 1527101,
+    "seq": 1527301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -10999,7 +11230,7 @@
   },
   {
     "id": 369,
-    "seq": 1326501,
+    "seq": 1326701,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11065,7 +11296,7 @@
   },
   {
     "id": 372,
-    "seq": 1226401,
+    "seq": 1226601,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11197,7 +11428,7 @@
   },
   {
     "id": 376,
-    "seq": 1526301,
+    "seq": 1526501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11230,7 +11461,7 @@
   },
   {
     "id": 377,
-    "seq": 1327101,
+    "seq": 1327301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11263,7 +11494,7 @@
   },
   {
     "id": 378,
-    "seq": 1627101,
+    "seq": 1627301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11296,7 +11527,7 @@
   },
   {
     "id": 379,
-    "seq": 1122120,
+    "seq": 1122321,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11362,7 +11593,7 @@
   },
   {
     "id": 381,
-    "seq": 1122121,
+    "seq": 1122322,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11599,7 +11830,7 @@
   },
   {
     "id": 391,
-    "seq": 1627102,
+    "seq": 1627302,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11632,7 +11863,7 @@
   },
   {
     "id": 392,
-    "seq": 1425601,
+    "seq": 1425801,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11665,7 +11896,7 @@
   },
   {
     "id": 393,
-    "seq": 2125301,
+    "seq": 2125501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11731,7 +11962,7 @@
   },
   {
     "id": 395,
-    "seq": 1222105,
+    "seq": 1222305,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11764,7 +11995,7 @@
   },
   {
     "id": 396,
-    "seq": 1228401,
+    "seq": 1228601,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11797,7 +12028,7 @@
   },
   {
     "id": 397,
-    "seq": 2520501,
+    "seq": 2520601,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -11869,7 +12100,7 @@
   },
   {
     "id": 399,
-    "seq": 1125309,
+    "seq": 1125509,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11902,7 +12133,7 @@
   },
   {
     "id": 400,
-    "seq": 2325301,
+    "seq": 2325501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11935,7 +12166,7 @@
   },
   {
     "id": 401,
-    "seq": 1125310,
+    "seq": 1125510,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -11968,7 +12199,7 @@
   },
   {
     "id": 402,
-    "seq": 1627103,
+    "seq": 1627303,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12034,7 +12265,7 @@
   },
   {
     "id": 404,
-    "seq": 2422701,
+    "seq": 2422901,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -12070,7 +12301,7 @@
   },
   {
     "id": 405,
-    "seq": 2320901,
+    "seq": 2321101,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -12106,7 +12337,7 @@
   },
   {
     "id": 406,
-    "seq": 2127101,
+    "seq": 2127301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12139,7 +12370,7 @@
   },
   {
     "id": 407,
-    "seq": 1227101,
+    "seq": 1227301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12172,7 +12403,7 @@
   },
   {
     "id": 408,
-    "seq": 1125311,
+    "seq": 1125511,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12205,7 +12436,7 @@
   },
   {
     "id": 409,
-    "seq": 2620701,
+    "seq": 2620901,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -12241,7 +12472,7 @@
   },
   {
     "id": 410,
-    "seq": 1427101,
+    "seq": 1427301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12274,7 +12505,7 @@
   },
   {
     "id": 411,
-    "seq": 2521101,
+    "seq": 2521301,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -12310,7 +12541,7 @@
   },
   {
     "id": 412,
-    "seq": 1127001,
+    "seq": 1127201,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12343,7 +12574,7 @@
   },
   {
     "id": 413,
-    "seq": 1327102,
+    "seq": 1327302,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12376,7 +12607,7 @@
   },
   {
     "id": 414,
-    "seq": 1125312,
+    "seq": 1125512,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12409,7 +12640,7 @@
   },
   {
     "id": 415,
-    "seq": 1125313,
+    "seq": 1125513,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12442,7 +12673,7 @@
   },
   {
     "id": 416,
-    "seq": 2127102,
+    "seq": 2127302,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12475,7 +12706,7 @@
   },
   {
     "id": 417,
-    "seq": 1327103,
+    "seq": 1327303,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12508,7 +12739,7 @@
   },
   {
     "id": 418,
-    "seq": 1427102,
+    "seq": 1427302,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12610,7 +12841,7 @@
   },
   {
     "id": 423,
-    "seq": 2221201,
+    "seq": 2221401,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -12646,7 +12877,7 @@
   },
   {
     "id": 424,
-    "seq": 2221301,
+    "seq": 2221501,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -12682,7 +12913,7 @@
   },
   {
     "id": 425,
-    "seq": 1127102,
+    "seq": 1127302,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12715,7 +12946,7 @@
   },
   {
     "id": 426,
-    "seq": 1127103,
+    "seq": 1127303,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12748,7 +12979,7 @@
   },
   {
     "id": 427,
-    "seq": 2127103,
+    "seq": 2127303,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12767,13 +12998,21 @@
     "publishedAt": 1752044400000,
     "releasedAt": 1752044400000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "幽光、1\/fのゆらめき",
+        "creator": "卯花ロク",
+        "lyricist": "卯花ロク",
+        "composer": "卯花ロク",
+        "arranger": "卯花ロク"
+      }
+    ],
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
   {
     "id": 428,
-    "seq": 2128301,
+    "seq": 2128501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12839,7 +13078,7 @@
   },
   {
     "id": 430,
-    "seq": 1127104,
+    "seq": 1127304,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12872,7 +13111,7 @@
   },
   {
     "id": 431,
-    "seq": 1327104,
+    "seq": 1327304,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12891,13 +13130,21 @@
     "publishedAt": 1752044400000,
     "releasedAt": 1752044400000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "flos",
+        "creator": "R Sound Design",
+        "lyricist": "R Sound Design",
+        "composer": "R Sound Design",
+        "arranger": "R Sound Design"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 432,
-    "seq": 1527102,
+    "seq": 1527302,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12930,7 +13177,7 @@
   },
   {
     "id": 433,
-    "seq": 1127105,
+    "seq": 1127305,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12963,7 +13210,7 @@
   },
   {
     "id": 434,
-    "seq": 1527103,
+    "seq": 1527303,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -12982,13 +13229,21 @@
     "publishedAt": 1752044400000,
     "releasedAt": 1752044400000,
     "fillerSec": 7.5,
-    "infos": [],
+    "infos": [
+      {
+        "title": "1000年生きてる",
+        "creator": "いよわ",
+        "lyricist": "いよわ",
+        "composer": "いよわ",
+        "arranger": "いよわ"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 435,
-    "seq": 1127106,
+    "seq": 1127306,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13021,7 +13276,7 @@
   },
   {
     "id": 436,
-    "seq": 1527104,
+    "seq": 1527304,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13054,7 +13309,7 @@
   },
   {
     "id": 437,
-    "seq": 1427103,
+    "seq": 1427303,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13087,7 +13342,7 @@
   },
   {
     "id": 438,
-    "seq": 1227102,
+    "seq": 1227302,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13120,7 +13375,7 @@
   },
   {
     "id": 439,
-    "seq": 1127107,
+    "seq": 1127307,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13153,7 +13408,7 @@
   },
   {
     "id": 440,
-    "seq": 2127104,
+    "seq": 2127304,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13186,7 +13441,7 @@
   },
   {
     "id": 441,
-    "seq": 1427801,
+    "seq": 1428001,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13205,13 +13460,21 @@
     "publishedAt": 1752562800000,
     "releasedAt": 1752562800000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "酔いどれ知らず",
+        "creator": "Kanaria",
+        "lyricist": "Kanaria",
+        "composer": "Kanaria",
+        "arranger": "Kanaria"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 442,
-    "seq": 2225401,
+    "seq": 2225601,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -13247,7 +13510,7 @@
   },
   {
     "id": 443,
-    "seq": 1229401,
+    "seq": 1229601,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13280,7 +13543,7 @@
   },
   {
     "id": 444,
-    "seq": 1127108,
+    "seq": 1127308,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13313,7 +13576,7 @@
   },
   {
     "id": 446,
-    "seq": 1127109,
+    "seq": 1127309,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13445,7 +13708,7 @@
   },
   {
     "id": 450,
-    "seq": 2526201,
+    "seq": 2526401,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -13481,7 +13744,7 @@
   },
   {
     "id": 451,
-    "seq": 1628501,
+    "seq": 1628701,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13514,7 +13777,7 @@
   },
   {
     "id": 452,
-    "seq": 2521001,
+    "seq": 2521201,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -13547,7 +13810,7 @@
   },
   {
     "id": 454,
-    "seq": 1127201,
+    "seq": 1127401,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13566,13 +13829,21 @@
     "publishedAt": 1752130800000,
     "releasedAt": 1752130800000,
     "fillerSec": 7.800000190734863,
-    "infos": [],
+    "infos": [
+      {
+        "title": "Electric Angel",
+        "creator": "ヤスオ",
+        "lyricist": "ヤスオ",
+        "composer": "ヤスオ",
+        "arranger": "ヤスオ"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 455,
-    "seq": 1627104,
+    "seq": 1627304,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13591,13 +13862,21 @@
     "publishedAt": 1752044400000,
     "releasedAt": 1752044400000,
     "fillerSec": 7.428100109100342,
-    "infos": [],
+    "infos": [
+      {
+        "title": "大人渣",
+        "creator": "なきそ",
+        "lyricist": "なきそ",
+        "composer": "なきそ",
+        "arranger": "なきそ"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 456,
-    "seq": 1227103,
+    "seq": 1227303,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13616,13 +13895,21 @@
     "publishedAt": 1752044400000,
     "releasedAt": 1752044400000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "幾望の月",
+        "creator": "なきゃむりゃ",
+        "lyricist": "なきゃむりゃ",
+        "composer": "なきゃむりゃ",
+        "arranger": "なきゃむりゃ"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 457,
-    "seq": 2326701,
+    "seq": 2326901,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -13658,7 +13945,7 @@
   },
   {
     "id": 458,
-    "seq": 1228801,
+    "seq": 1229001,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13691,7 +13978,7 @@
   },
   {
     "id": 460,
-    "seq": 2129101,
+    "seq": 2129301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13724,7 +14011,7 @@
   },
   {
     "id": 461,
-    "seq": 1127110,
+    "seq": 1127310,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13757,7 +14044,7 @@
   },
   {
     "id": 462,
-    "seq": 1127301,
+    "seq": 1127501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13776,13 +14063,21 @@
     "publishedAt": 1752217200000,
     "releasedAt": 1752217200000,
     "fillerSec": 8.310400009155273,
-    "infos": [],
+    "infos": [
+      {
+        "title": "Red Land Marker",
+        "creator": "Twinfield",
+        "lyricist": "Twinfield",
+        "composer": "Twinfield",
+        "arranger": "Twinfield"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 463,
-    "seq": 1127111,
+    "seq": 1127311,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13815,7 +14110,7 @@
   },
   {
     "id": 465,
-    "seq": 2127105,
+    "seq": 2127305,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13834,13 +14129,21 @@
     "publishedAt": 1752044400000,
     "releasedAt": 1752044400000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "嬢王",
+        "creator": "八王子P",
+        "lyricist": "q*Left",
+        "composer": "八王子P",
+        "arranger": "八王子P"
+      }
+    ],
     "isNewlyWrittenMusic": true,
     "isFullLength": false
   },
   {
     "id": 466,
-    "seq": 1127601,
+    "seq": 1127801,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13859,13 +14162,21 @@
     "publishedAt": 1752390000000,
     "releasedAt": 1752390000000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "石榴石之泪",
+        "creator": "香椎モイミ",
+        "lyricist": "香椎モイミ",
+        "composer": "香椎モイミ",
+        "arranger": "香椎モイミ"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 467,
-    "seq": 1127501,
+    "seq": 1127701,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13884,13 +14195,21 @@
     "publishedAt": 1752303600000,
     "releasedAt": 1752303600000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "あいのうた",
+        "creator": "大漠波新",
+        "lyricist": "大漠波新",
+        "composer": "大漠波新",
+        "arranger": "大漠波新"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 468,
-    "seq": 1127112,
+    "seq": 1127312,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13923,7 +14242,7 @@
   },
   {
     "id": 469,
-    "seq": 1627105,
+    "seq": 1627305,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -13956,7 +14275,7 @@
   },
   {
     "id": 470,
-    "seq": 1131601,
+    "seq": 1132001,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -13989,7 +14308,7 @@
   },
   {
     "id": 471,
-    "seq": 2427401,
+    "seq": 2427601,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -14025,7 +14344,7 @@
   },
   {
     "id": 472,
-    "seq": 2528201,
+    "seq": 2528401,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -14061,7 +14380,7 @@
   },
   {
     "id": 473,
-    "seq": 1629501,
+    "seq": 1629801,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14094,7 +14413,7 @@
   },
   {
     "id": 474,
-    "seq": 2329901,
+    "seq": 2330301,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -14127,7 +14446,7 @@
   },
   {
     "id": 475,
-    "seq": 1530401,
+    "seq": 1530801,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14160,7 +14479,7 @@
   },
   {
     "id": 476,
-    "seq": 1627701,
+    "seq": 1627901,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14193,7 +14512,7 @@
   },
   {
     "id": 477,
-    "seq": 1230901,
+    "seq": 1231301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14226,7 +14545,7 @@
   },
   {
     "id": 478,
-    "seq": 2432401,
+    "seq": 2433601,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -14259,7 +14578,7 @@
   },
   {
     "id": 480,
-    "seq": 1528101,
+    "seq": 1528301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14292,7 +14611,7 @@
   },
   {
     "id": 481,
-    "seq": 1127113,
+    "seq": 1127313,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14325,7 +14644,7 @@
   },
   {
     "id": 482,
-    "seq": 1328701,
+    "seq": 1328901,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14358,7 +14677,7 @@
   },
   {
     "id": 483,
-    "seq": 1127114,
+    "seq": 1127314,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14391,7 +14710,7 @@
   },
   {
     "id": 485,
-    "seq": 1122201,
+    "seq": 1122401,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14424,7 +14743,7 @@
   },
   {
     "id": 486,
-    "seq": 1127901,
+    "seq": 1128101,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14443,13 +14762,21 @@
     "publishedAt": 1752649200000,
     "releasedAt": 1752649200000,
     "fillerSec": 8.164999961853027,
-    "infos": [],
+    "infos": [
+      {
+        "title": "おぎゃりないざー",
+        "creator": "Ponchi♪",
+        "lyricist": "Ponchi♪",
+        "composer": "Ponchi♪",
+        "arranger": "Ponchi♪"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 487,
-    "seq": 1129301,
+    "seq": 1129501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14482,7 +14809,7 @@
   },
   {
     "id": 488,
-    "seq": 1199912,
+    "seq": 1199917,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14515,7 +14842,7 @@
   },
   {
     "id": 489,
-    "seq": 2732001,
+    "seq": 2732801,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -14548,7 +14875,7 @@
   },
   {
     "id": 492,
-    "seq": 2624601,
+    "seq": 2624801,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -14581,7 +14908,7 @@
   },
   {
     "id": 493,
-    "seq": 1528901,
+    "seq": 1529101,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14614,7 +14941,7 @@
   },
   {
     "id": 494,
-    "seq": 1329201,
+    "seq": 1329401,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14647,7 +14974,7 @@
   },
   {
     "id": 495,
-    "seq": 1330501,
+    "seq": 1330901,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14680,7 +15007,7 @@
   },
   {
     "id": 496,
-    "seq": 1128001,
+    "seq": 1128201,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14699,13 +15026,21 @@
     "publishedAt": 1752735600000,
     "releasedAt": 1752735600000,
     "fillerSec": 9.0,
-    "infos": [],
+    "infos": [
+      {
+        "title": "シルバーコレクター",
+        "creator": "Shu",
+        "lyricist": "Shu",
+        "composer": "Shu",
+        "arranger": "Shu"
+      }
+    ],
     "isNewlyWrittenMusic": false,
     "isFullLength": false
   },
   {
     "id": 497,
-    "seq": 2425501,
+    "seq": 2425701,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -14737,8 +15072,33 @@
     "isFullLength": false
   },
   {
+    "id": 499,
+    "seq": 1533301,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "mv"
+      }
+    ],
+    "title": "混沌ブギ",
+    "pronunciation": "こんとんぶぎ",
+    "creatorArtistId": 119,
+    "lyricist": "jon-YAKITORY",
+    "composer": "jon-YAKITORY",
+    "arranger": "jon-YAKITORY",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_499",
+    "publishedAt": 1759388400000,
+    "releasedAt": 1759388400000,
+    "fillerSec": 9.315799713134766,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 501,
-    "seq": 1626001,
+    "seq": 1626201,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14771,7 +15131,7 @@
   },
   {
     "id": 502,
-    "seq": 1126101,
+    "seq": 1126301,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14804,7 +15164,7 @@
   },
   {
     "id": 503,
-    "seq": 3725901,
+    "seq": 3726101,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14837,7 +15197,7 @@
   },
   {
     "id": 504,
-    "seq": 1128601,
+    "seq": 1128801,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14870,7 +15230,7 @@
   },
   {
     "id": 505,
-    "seq": 1431401,
+    "seq": 1431801,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14903,7 +15263,7 @@
   },
   {
     "id": 506,
-    "seq": 1530201,
+    "seq": 1530601,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -14936,7 +15296,7 @@
   },
   {
     "id": 507,
-    "seq": 2626801,
+    "seq": 2627001,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -14969,7 +15329,7 @@
   },
   {
     "id": 511,
-    "seq": 1331101,
+    "seq": 1331501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15002,7 +15362,7 @@
   },
   {
     "id": 512,
-    "seq": 1129001,
+    "seq": 1129201,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15035,7 +15395,7 @@
   },
   {
     "id": 515,
-    "seq": 1129601,
+    "seq": 1129901,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15068,7 +15428,7 @@
   },
   {
     "id": 516,
-    "seq": 1129701,
+    "seq": 1130001,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15101,7 +15461,7 @@
   },
   {
     "id": 517,
-    "seq": 1199914,
+    "seq": 1129701,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15117,8 +15477,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_517",
-    "publishedAt": 4104964800000,
-    "releasedAt": 4104964800000,
+    "publishedAt": 1753945200000,
+    "releasedAt": 1753945200000,
     "fillerSec": 9.517200469970703,
     "infos": [
       {
@@ -15134,7 +15494,7 @@
   },
   {
     "id": 519,
-    "seq": 2127106,
+    "seq": 2127306,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15200,7 +15560,7 @@
   },
   {
     "id": 523,
-    "seq": 1199915,
+    "seq": 1132401,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15216,8 +15576,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_523",
-    "publishedAt": 4104964800000,
-    "releasedAt": 4104964800000,
+    "publishedAt": 1757487600000,
+    "releasedAt": 1757487600000,
     "fillerSec": 9.0,
     "infos": [
       {
@@ -15233,7 +15593,7 @@
   },
   {
     "id": 524,
-    "seq": 2231901,
+    "seq": 2232701,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -15266,7 +15626,7 @@
   },
   {
     "id": 525,
-    "seq": 1130301,
+    "seq": 1130701,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15299,7 +15659,7 @@
   },
   {
     "id": 526,
-    "seq": 1130001,
+    "seq": 1130401,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15332,7 +15692,7 @@
   },
   {
     "id": 527,
-    "seq": 2130801,
+    "seq": 2131201,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15365,7 +15725,7 @@
   },
   {
     "id": 529,
-    "seq": 1130601,
+    "seq": 1131001,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15398,7 +15758,7 @@
   },
   {
     "id": 530,
-    "seq": 1399905,
+    "seq": 1333101,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15414,8 +15774,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_530",
-    "publishedAt": 4104964800000,
-    "releasedAt": 4104964800000,
+    "publishedAt": 1759215600000,
+    "releasedAt": 1759215600000,
     "fillerSec": 9.0,
     "infos": [
       {
@@ -15431,7 +15791,7 @@
   },
   {
     "id": 531,
-    "seq": 1131001,
+    "seq": 1131401,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15464,7 +15824,7 @@
   },
   {
     "id": 532,
-    "seq": 1130701,
+    "seq": 1131101,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15497,7 +15857,7 @@
   },
   {
     "id": 533,
-    "seq": 1599904,
+    "seq": 1532501,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15513,8 +15873,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_533",
-    "publishedAt": 4104964800000,
-    "releasedAt": 4104964800000,
+    "publishedAt": 1757919600000,
+    "releasedAt": 1757919600000,
     "fillerSec": 9.0,
     "infos": [
       {
@@ -15529,8 +15889,33 @@
     "isFullLength": false
   },
   {
+    "id": 534,
+    "seq": 1233001,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "ワールド・ランプシェード [reunion]",
+    "pronunciation": "わーるど らんぷしぇーど りゆにおん",
+    "creatorArtistId": 134,
+    "lyricist": "buzzG",
+    "composer": "buzzG",
+    "arranger": "-",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_534",
+    "publishedAt": 1759129200000,
+    "releasedAt": 1759129200000,
+    "fillerSec": 8.067399978637695,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 541,
-    "seq": 1131201,
+    "seq": 1131601,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15563,7 +15948,7 @@
   },
   {
     "id": 542,
-    "seq": 1199918,
+    "seq": 1132601,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15579,8 +15964,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_542",
-    "publishedAt": 4104964800000,
-    "releasedAt": 4104964800000,
+    "publishedAt": 1758265200000,
+    "releasedAt": 1758265200000,
     "fillerSec": 9.0,
     "infos": [
       {
@@ -15596,7 +15981,7 @@
   },
   {
     "id": 543,
-    "seq": 2199901,
+    "seq": 2132901,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15612,8 +15997,8 @@
     "dancerCount": 1,
     "selfDancerPosition": 0,
     "assetbundleName": "jacket_s_543",
-    "publishedAt": 4104964800000,
-    "releasedAt": 4104964800000,
+    "publishedAt": 1759042800000,
+    "releasedAt": 1759042800000,
     "fillerSec": 8.466699600219727,
     "infos": [
       {
@@ -15662,7 +16047,7 @@
   },
   {
     "id": 545,
-    "seq": 1199919,
+    "seq": 1199922,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15695,7 +16080,7 @@
   },
   {
     "id": 546,
-    "seq": 2232601,
+    "seq": 2233801,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -15728,7 +16113,7 @@
   },
   {
     "id": 549,
-    "seq": 2632301,
+    "seq": 2633501,
     "releaseConditionId": 10,
     "categories": [
       {
@@ -15760,8 +16145,59 @@
     "isFullLength": false
   },
   {
+    "id": 648,
+    "seq": 99999704,
+    "releaseConditionId": 10,
+    "categories": [
+      {
+        "musicCategoryName": "mv_2d"
+      }
+    ],
+    "title": "Life Will Change",
+    "pronunciation": "らいふうぃるちぇんじ",
+    "creatorArtistId": 289,
+    "lyricist": "Benjamin Franklin",
+    "composer": "目黒将司",
+    "arranger": "ぬゆり",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_648",
+    "publishedAt": 1754280000000,
+    "releasedAt": 1754280000000,
+    "fillerSec": 7.758600234985352,
+    "infos": [],
+    "musicCollaborationId": 9,
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
+    "id": 654,
+    "seq": 99999710,
+    "releaseConditionId": 5,
+    "categories": [
+      {
+        "musicCategoryName": "original"
+      }
+    ],
+    "title": "ラストラス",
+    "pronunciation": "らすとらす",
+    "creatorArtistId": 99,
+    "lyricist": "*Luna",
+    "composer": "*Luna",
+    "arranger": "-",
+    "dancerCount": 1,
+    "selfDancerPosition": 0,
+    "assetbundleName": "jacket_s_654",
+    "publishedAt": 1756450800000,
+    "releasedAt": 1756450800000,
+    "fillerSec": 9.0,
+    "infos": [],
+    "isNewlyWrittenMusic": false,
+    "isFullLength": false
+  },
+  {
     "id": 11001,
-    "seq": 1121601,
+    "seq": 1124302,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15795,7 +16231,7 @@
   },
   {
     "id": 11002,
-    "seq": 1121901,
+    "seq": 1124602,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15829,7 +16265,7 @@
   },
   {
     "id": 11003,
-    "seq": 1121701,
+    "seq": 1124401,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15863,7 +16299,7 @@
   },
   {
     "id": 11004,
-    "seq": 1121401,
+    "seq": 1124101,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15897,7 +16333,7 @@
   },
   {
     "id": 11005,
-    "seq": 1122001,
+    "seq": 1124701,
     "releaseConditionId": 5,
     "categories": [
       {
@@ -15931,7 +16367,7 @@
   },
   {
     "id": 11006,
-    "seq": 1121501,
+    "seq": 1124201,
     "releaseConditionId": 5,
     "categories": [
       {

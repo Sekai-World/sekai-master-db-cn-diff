@@ -1,5 +1,19 @@
 [
   {
+    "id": 131,
+    "startAt": 1754280000000,
+    "endAt": 1755100799000,
+    "assetbundleName": "persona5royal_collab_2025",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 274,
+        "limitedLoginBonusId": 131,
+        "day": 1,
+        "resourceBoxId": 171
+      }
+    ]
+  },
+  {
     "id": 1058,
     "startAt": 1740794400000,
     "endAt": 1749931199000,
@@ -508,32 +522,6 @@
       {
         "id": 1222,
         "limitedLoginBonusId": 1074,
-        "day": 3,
-        "resourceBoxId": 2052
-      }
-    ]
-  },
-  {
-    "id": 1075,
-    "startAt": 1754596800000,
-    "endAt": 1754855999000,
-    "assetbundleName": "restday2025_weekend",
-    "limitedLoginBonusDetails": [
-      {
-        "id": 1223,
-        "limitedLoginBonusId": 1075,
-        "day": 1,
-        "resourceBoxId": 2050
-      },
-      {
-        "id": 1224,
-        "limitedLoginBonusId": 1075,
-        "day": 2,
-        "resourceBoxId": 2051
-      },
-      {
-        "id": 1225,
-        "limitedLoginBonusId": 1075,
         "day": 3,
         "resourceBoxId": 2052
       }
@@ -1065,7 +1053,7 @@
         "id": 1272,
         "limitedLoginBonusId": 1106,
         "day": 1,
-        "resourceBoxId": 2036
+        "resourceBoxId": 2079
       }
     ]
   },
@@ -1079,7 +1067,7 @@
         "id": 1273,
         "limitedLoginBonusId": 1107,
         "day": 1,
-        "resourceBoxId": 2036
+        "resourceBoxId": 2079
       }
     ]
   },
@@ -1093,7 +1081,7 @@
         "id": 1274,
         "limitedLoginBonusId": 1108,
         "day": 1,
-        "resourceBoxId": 2036
+        "resourceBoxId": 2079
       }
     ]
   },
@@ -1107,7 +1095,7 @@
         "id": 1275,
         "limitedLoginBonusId": 1109,
         "day": 1,
-        "resourceBoxId": 2036
+        "resourceBoxId": 2079
       }
     ]
   },
@@ -1121,7 +1109,7 @@
         "id": 1276,
         "limitedLoginBonusId": 1110,
         "day": 1,
-        "resourceBoxId": 2036
+        "resourceBoxId": 2079
       }
     ]
   },
@@ -1135,7 +1123,7 @@
         "id": 1277,
         "limitedLoginBonusId": 1111,
         "day": 1,
-        "resourceBoxId": 2036
+        "resourceBoxId": 2079
       }
     ]
   },
@@ -1324,6 +1312,186 @@
         "limitedLoginBonusId": 1118,
         "day": 1,
         "resourceBoxId": 2077
+      }
+    ]
+  },
+  {
+    "id": 1119,
+    "startAt": 1754596800000,
+    "endAt": 1754855999000,
+    "assetbundleName": "restday2025_0808",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1300,
+        "limitedLoginBonusId": 1119,
+        "day": 1,
+        "resourceBoxId": 2053
+      },
+      {
+        "id": 1301,
+        "limitedLoginBonusId": 1119,
+        "day": 2,
+        "resourceBoxId": 2054
+      },
+      {
+        "id": 1302,
+        "limitedLoginBonusId": 1119,
+        "day": 3,
+        "resourceBoxId": 2078
+      }
+    ]
+  },
+  {
+    "id": 1120,
+    "startAt": 1756699200000,
+    "endAt": 1757519999000,
+    "assetbundleName": "sekai2025_0812",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1303,
+        "limitedLoginBonusId": 1120,
+        "day": 1,
+        "resourceBoxId": 2080
+      },
+      {
+        "id": 1304,
+        "limitedLoginBonusId": 1120,
+        "day": 2,
+        "resourceBoxId": 2081
+      },
+      {
+        "id": 1305,
+        "limitedLoginBonusId": 1120,
+        "day": 3,
+        "resourceBoxId": 2082
+      },
+      {
+        "id": 1306,
+        "limitedLoginBonusId": 1120,
+        "day": 4,
+        "resourceBoxId": 2083
+      },
+      {
+        "id": 1307,
+        "limitedLoginBonusId": 1120,
+        "day": 5,
+        "resourceBoxId": 2084
+      },
+      {
+        "id": 1308,
+        "limitedLoginBonusId": 1120,
+        "day": 6,
+        "resourceBoxId": 2085
+      },
+      {
+        "id": 1309,
+        "limitedLoginBonusId": 1120,
+        "day": 7,
+        "resourceBoxId": 2086
+      }
+    ]
+  },
+  {
+    "id": 1121,
+    "startAt": 1757620800000,
+    "endAt": 1757879999000,
+    "assetbundleName": "restday2025_0912",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1310,
+        "limitedLoginBonusId": 1121,
+        "day": 1,
+        "resourceBoxId": 2053
+      },
+      {
+        "id": 1311,
+        "limitedLoginBonusId": 1121,
+        "day": 2,
+        "resourceBoxId": 2054
+      },
+      {
+        "id": 1312,
+        "limitedLoginBonusId": 1121,
+        "day": 3,
+        "resourceBoxId": 2087
+      }
+    ]
+  },
+  {
+    "id": 1122,
+    "startAt": 1755748800000,
+    "endAt": 1756310340000,
+    "assetbundleName": "summer2025_0821",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1313,
+        "limitedLoginBonusId": 1122,
+        "day": 1,
+        "resourceBoxId": 2088
+      },
+      {
+        "id": 1314,
+        "limitedLoginBonusId": 1122,
+        "day": 2,
+        "resourceBoxId": 2089
+      },
+      {
+        "id": 1315,
+        "limitedLoginBonusId": 1122,
+        "day": 3,
+        "resourceBoxId": 2090
+      },
+      {
+        "id": 1316,
+        "limitedLoginBonusId": 1122,
+        "day": 4,
+        "resourceBoxId": 2091
+      },
+      {
+        "id": 1317,
+        "limitedLoginBonusId": 1122,
+        "day": 5,
+        "resourceBoxId": 2092
+      }
+    ]
+  },
+  {
+    "id": 1123,
+    "startAt": 1756440000000,
+    "endAt": 1756655999000,
+    "assetbundleName": "magicalmirai_2025",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1318,
+        "limitedLoginBonusId": 1123,
+        "day": 1,
+        "resourceBoxId": 2093
+      }
+    ]
+  },
+  {
+    "id": 1124,
+    "startAt": 1755201600000,
+    "endAt": 1755547199000,
+    "assetbundleName": "restday2025_weekend",
+    "limitedLoginBonusDetails": [
+      {
+        "id": 1319,
+        "limitedLoginBonusId": 1124,
+        "day": 1,
+        "resourceBoxId": 2050
+      },
+      {
+        "id": 1320,
+        "limitedLoginBonusId": 1124,
+        "day": 2,
+        "resourceBoxId": 2051
+      },
+      {
+        "id": 1321,
+        "limitedLoginBonusId": 1124,
+        "day": 3,
+        "resourceBoxId": 2052
       }
     ]
   }
