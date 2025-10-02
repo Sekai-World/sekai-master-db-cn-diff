@@ -680,8 +680,8 @@
   {
     "id": 42,
     "assetbundleName": "special-story",
-    "startAt": 1758729600000,
-    "endAt": 1758815999000,
+    "startAt": 1758470400000,
+    "endAt": 1758556799000,
     "episodes": [
       {
         "id": 47,
@@ -701,8 +701,8 @@
   {
     "id": 43,
     "assetbundleName": "special-story",
-    "startAt": 1758816000000,
-    "endAt": 1758902399000,
+    "startAt": 1758556800000,
+    "endAt": 1758643199000,
     "episodes": [
       {
         "id": 48,
@@ -722,8 +722,8 @@
   {
     "id": 44,
     "assetbundleName": "special-story",
-    "startAt": 1758902400000,
-    "endAt": 1758988799000,
+    "startAt": 1758643200000,
+    "endAt": 1758729599000,
     "episodes": [
       {
         "id": 49,
@@ -743,8 +743,8 @@
   {
     "id": 45,
     "assetbundleName": "special-story",
-    "startAt": 1758988800000,
-    "endAt": 1759075199000,
+    "startAt": 1758729600000,
+    "endAt": 1758815999000,
     "episodes": [
       {
         "id": 50,
@@ -764,8 +764,8 @@
   {
     "id": 46,
     "assetbundleName": "special-story",
-    "startAt": 1759075200000,
-    "endAt": 1759161599000,
+    "startAt": 1758816000000,
+    "endAt": 1758902399000,
     "episodes": [
       {
         "id": 51,
@@ -785,8 +785,8 @@
   {
     "id": 47,
     "assetbundleName": "special-story",
-    "startAt": 1759161600000,
-    "endAt": 1759247999000,
+    "startAt": 1758902400000,
+    "endAt": 1758988799000,
     "episodes": [
       {
         "id": 52,
@@ -804,22 +804,127 @@
     ]
   },
   {
-    "id": 48,
-    "assetbundleName": "connect-live-4th-anniversary-story",
-    "startAt": 1759647600000,
-    "endAt": 1759753799000,
+    "id": 49,
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1771138800000,
+    "endAt": 1771941599000,
     "episodes": [
       {
-        "id": 53,
-        "specialStoryId": 48,
+        "id": 54,
+        "specialStoryId": 49,
         "episodeNo": 1,
-        "title": "连线演唱会 4th ANNIVERSARY Brilliant Stage演出前一天剧情",
+        "title": "[初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 序章",
         "specialStoryEpisodeType": "none",
-        "assetbundleName": "story_connect_live_4th_anniversary",
-        "scenarioId": "story_connect_live_4th_anniversary_01",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_op_01",
         "releaseConditionId": 1,
         "isAbleSkip": true,
         "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1771941600000,
+    "endAt": 1772467199000,
+    "episodes": [
+      {
+        "id": 55,
+        "specialStoryId": 50,
+        "episodeNo": 1,
+        "title": "[初音未来：缤纷舞台×偶像梦幻祭2]联动纪念登录剧情 终章",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_ed_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "assetbundleName": "collaboration-es-story",
+    "startAt": 1771657200000,
+    "endAt": 1771847999000,
+    "episodes": [
+      {
+        "id": 56,
+        "specialStoryId": 51,
+        "episodeNo": 1,
+        "title": "[初音未来：缤纷舞台×偶像梦幻祭2]连线演唱会前日谈登录剧情",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_collaboration_es",
+        "scenarioId": "collaboration_es_prequel_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "assetbundleName": "wl-2nd-event-pre-story",
+    "startAt": 1774843200000,
+    "endAt": 1776686399000,
+    "episodes": [
+      {
+        "id": 57,
+        "specialStoryId": 52,
+        "episodeNo": 1,
+        "title": "连接世界活动前日谈登录剧情",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_wl_2nd_pre",
+        "scenarioId": "wl_2nd_pre_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": false,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "assetbundleName": "aprilfool-story-2025",
+    "startAt": 1774972800000,
+    "endAt": 1775059199000,
+    "episodes": [
+      {
+        "id": 58,
+        "specialStoryId": 53,
+        "episodeNo": 1,
+        "title": "愚人节2026前导动画",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2025",
+        "scenarioId": "aprilfool_2025_01",
+        "releaseConditionId": 1,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
+        "rewardResourceBoxIds": []
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "assetbundleName": "aprilfool-story-2025",
+    "startAt": 1775059200000,
+    "endAt": 1775145599000,
+    "episodes": [
+      {
+        "id": 59,
+        "specialStoryId": 54,
+        "episodeNo": 1,
+        "title": "愚人节2026后日谈动画",
+        "specialStoryEpisodeType": "none",
+        "assetbundleName": "story_aprilfool_2025",
+        "scenarioId": "aprilfool_2025_02",
+        "releaseConditionId": 1000300,
+        "isAbleSkip": true,
+        "isActionSetRefresh": true,
         "rewardResourceBoxIds": []
       }
     ]

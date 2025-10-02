@@ -1116,6 +1116,12 @@
     "quantity": 1000
   },
   {
+    "billingShopItemId": 60005,
+    "resourceType": "jewel",
+    "resourceId": 1,
+    "quantity": 0
+  },
+  {
     "billingShopItemId": 16,
     "resourceType": "paid_jewel",
     "resourceId": 1,
@@ -1563,7 +1569,7 @@
     "billingShopItemId": 51054,
     "resourceType": "paid_jewel",
     "resourceId": 1,
-    "quantity": 3000
+    "quantity": 1500
   },
   {
     "billingShopItemId": 51055,
@@ -1606,5 +1612,95 @@
     "resourceType": "jewel",
     "resourceId": 1,
     "quantity": 100
+  },
+  {
+    "billingShopItemId": 51062,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 1500
+  },
+  {
+    "billingShopItemId": 51063,
+    "resourceType": "jewel",
+    "resourceId": 1,
+    "quantity": 500
+  },
+  {
+    "billingShopItemId": 51064,
+    "resourceType": "jewel",
+    "resourceId": 1,
+    "quantity": 500
+  },
+  {
+    "billingShopItemId": 51065,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 300
+  },
+  {
+    "billingShopItemId": 51066,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 1500
+  },
+  {
+    "billingShopItemId": 51067,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 4500
+  },
+  {
+    "billingShopItemId": 10167,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 1500
+  },
+  {
+    "billingShopItemId": 10168,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 3000
+  },
+  {
+    "billingShopItemId": 10169,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 6000
+  },
+  {
+    "billingShopItemId": 10170,
+    "resourceType": "paid_jewel",
+    "resourceId": 1,
+    "quantity": 9000
+  },
+  {
+    "billingShopItemId": 400001,
+    "resourceType": "material",
+    "resourceId": 1008,
+    "quantity": 1
+  },
+  {
+    "billingShopItemId": 400002,
+    "resourceType": "material",
+    "resourceId": 1009,
+    "quantity": 1
+  },
+  {
+    "billingShopItemId": 400003,
+    "resourceType": "material",
+    "resourceId": 1002,
+    "quantity": 1
+  },
+  {
+    "billingShopItemId": 400004,
+    "resourceType": "material",
+    "resourceId": 1008,
+    "quantity": 1
+  },
+  {
+    "billingShopItemId": 400000,
+    "resourceType": "material",
+    "resourceId": 1010,
+    "quantity": 1
   }
 ]

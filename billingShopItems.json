@@ -10,7 +10,8 @@
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_1",
     "resourceBoxId": 2,
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_2",
     "resourceBoxId": 3,
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_3",
     "resourceBoxId": 4,
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_4",
     "resourceBoxId": 5,
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 5,
@@ -62,7 +66,8 @@
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_5",
     "resourceBoxId": 6,
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 6,
@@ -75,7 +80,8 @@
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_6",
     "resourceBoxId": 7,
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_7",
     "resourceBoxId": 8,
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 16,
@@ -102,7 +109,8 @@
     "assetbundleName": "shop_12",
     "resourceBoxId": 21,
     "startAt": 1475218800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 18,
@@ -117,7 +125,8 @@
     "assetbundleName": "shop_62",
     "resourceBoxId": 16,
     "startAt": 1746028800000,
-    "endAt": 4083926399000
+    "endAt": 4083926399000,
+    "billingShopTabChildId": 4000
   },
   {
     "id": 24,
@@ -132,7 +141,8 @@
     "assetbundleName": "shop_62",
     "resourceBoxId": 90001,
     "startAt": 1746028800000,
-    "endAt": 4083926399000
+    "endAt": 4083926399000,
+    "billingShopTabChildId": 4000
   },
   {
     "id": 33,
@@ -146,7 +156,8 @@
     "assetbundleName": "shop_33",
     "resourceBoxId": 33,
     "startAt": 1475218800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 45,
@@ -161,7 +172,9 @@
     "assetbundleName": "shop_2001",
     "resourceBoxId": 39,
     "label": "仅限购买1次",
-    "startAt": 1188500979000
+    "startAt": 1188500979000,
+    "endAt": 1758902399000,
+    "billingShopTabChildId": 2100
   },
   {
     "id": 46,
@@ -176,7 +189,9 @@
     "assetbundleName": "shop_2002",
     "resourceBoxId": 40,
     "label": "仅限购买1次",
-    "startAt": 1188500979000
+    "startAt": 1188500979000,
+    "endAt": 1758902399000,
+    "billingShopTabChildId": 2100
   },
   {
     "id": 47,
@@ -191,7 +206,9 @@
     "assetbundleName": "shop_2003",
     "resourceBoxId": 41,
     "label": "仅限购买1次",
-    "startAt": 1188500979000
+    "startAt": 1188500979000,
+    "endAt": 1758902399000,
+    "billingShopTabChildId": 2100
   },
   {
     "id": 48,
@@ -206,49 +223,57 @@
     "assetbundleName": "shop_76",
     "resourceBoxId": 42,
     "label": "仅限购买1次",
-    "startAt": 1188500979000
+    "startAt": 1188500979000,
+    "endAt": 1758902399000,
+    "billingShopTabChildId": 2100
   },
   {
     "id": 67,
     "seq": 1,
     "billingShopItemType": "colorful_pass_v2",
     "billingProductGroupId": 67,
-    "name": "缤纷通行证～BASIC～",
+    "name": "缤纷月卡～基础版～",
     "description": "付费水晶×360\n水晶（免费）×1000※仅限首次购买\n30天水晶（免费）×20\n1周1次缤纷通行证招募免费\n1天1次付费招募可招募2次\n挑战积分获得量变为2倍\n演出积分获得量变为2倍",
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "day",
     "billableLimitResetIntervalValue": 180,
     "assetbundleName": "shop_68",
-    "resourceBoxId": 40001
+    "resourceBoxId": 40001,
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 6000
   },
   {
     "id": 68,
     "seq": 1,
     "billingShopItemType": "colorful_pass_v2",
     "billingProductGroupId": 68,
-    "name": "缤纷通行证～DELUXE～",
+    "name": "缤纷月卡～豪华版～",
     "description": "付费水晶×610\n水晶（免费）×1000※仅限首次购买\n30天水晶（免费）×40\n演出能量上限15→30\n1周1次缤纷通行证招募免费\n1天1次付费招募可招募2次\n挑战积分获得量变为2倍\n演出积分获得量变为2倍",
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "day",
     "billableLimitResetIntervalValue": 180,
     "assetbundleName": "shop_69",
-    "resourceBoxId": 40003
+    "resourceBoxId": 40003,
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 6000
   },
   {
     "id": 69,
     "seq": 1,
     "billingShopItemType": "colorful_pass_v2",
     "billingProductGroupId": 69,
-    "name": "缤纷通行证～PRECIOUS～",
+    "name": "缤纷月卡～珍藏版～",
     "description": "付费水晶×2860\n水晶（免费）×1000※仅限首次购买\n30天水晶（免费）×100\n演出能量上限15→30\n1周1次缤纷通行证招募免费\n1天1次付费招募可招募2次\n挑战积分获得量变为2倍\n演出积分获得量变为2倍\n1天1次免费招募\n自动演出次数1天10次→99次",
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "day",
     "billableLimitResetIntervalValue": 180,
     "assetbundleName": "shop_70",
-    "resourceBoxId": 40002
+    "resourceBoxId": 40002,
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 6000
   },
   {
     "id": 501,
@@ -264,7 +289,8 @@
     "label": "期間限定",
     "startAt": 1669824000000,
     "endAt": 1672502399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 502,
@@ -280,7 +306,8 @@
     "label": "期間限定",
     "startAt": 1669824000000,
     "endAt": 1672502399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 503,
@@ -296,7 +323,8 @@
     "label": "期間限定",
     "startAt": 1669824000000,
     "endAt": 1672502399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 504,
@@ -312,7 +340,8 @@
     "label": "期間限定",
     "startAt": 1669824000000,
     "endAt": 1672502399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 505,
@@ -328,7 +357,8 @@
     "label": "期間限定",
     "startAt": 1669824000000,
     "endAt": 1672502399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 522,
@@ -344,7 +374,8 @@
     "label": "期間限定",
     "startAt": 1675180800000,
     "endAt": 1677599999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 523,
@@ -360,7 +391,8 @@
     "label": "期間限定",
     "startAt": 1675180800000,
     "endAt": 1677599999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 524,
@@ -376,7 +408,8 @@
     "label": "期間限定",
     "startAt": 1675180800000,
     "endAt": 1677599999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 525,
@@ -392,7 +425,8 @@
     "label": "期間限定",
     "startAt": 1675180800000,
     "endAt": 1677599999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 526,
@@ -408,7 +442,8 @@
     "label": "期間限定",
     "startAt": 1675180800000,
     "endAt": 1677599999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 527,
@@ -424,7 +459,8 @@
     "label": "期間限定",
     "startAt": 1677600000000,
     "endAt": 1680278399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 528,
@@ -440,7 +476,8 @@
     "label": "期間限定",
     "startAt": 1677600000000,
     "endAt": 1680278399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 529,
@@ -456,7 +493,8 @@
     "label": "期間限定",
     "startAt": 1677600000000,
     "endAt": 1680278399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 530,
@@ -472,7 +510,8 @@
     "label": "期間限定",
     "startAt": 1677600000000,
     "endAt": 1680278399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 531,
@@ -488,7 +527,8 @@
     "label": "期間限定",
     "startAt": 1677600000000,
     "endAt": 1680278399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 532,
@@ -504,7 +544,8 @@
     "label": "期間限定",
     "startAt": 1680278400000,
     "endAt": 1682870399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 533,
@@ -520,7 +561,8 @@
     "label": "期間限定",
     "startAt": 1680278400000,
     "endAt": 1682870399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 534,
@@ -536,7 +578,8 @@
     "label": "期間限定",
     "startAt": 1680278400000,
     "endAt": 1682870399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 535,
@@ -552,7 +595,8 @@
     "label": "期間限定",
     "startAt": 1680278400000,
     "endAt": 1682870399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 536,
@@ -568,7 +612,8 @@
     "label": "期間限定",
     "startAt": 1680278400000,
     "endAt": 1682870399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 546,
@@ -584,7 +629,8 @@
     "label": "期間限定",
     "startAt": 1682870400000,
     "endAt": 1685548799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 547,
@@ -600,7 +646,8 @@
     "label": "期間限定",
     "startAt": 1682870400000,
     "endAt": 1685548799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 548,
@@ -616,7 +663,8 @@
     "label": "期間限定",
     "startAt": 1682870400000,
     "endAt": 1685548799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 549,
@@ -632,7 +680,8 @@
     "label": "期間限定",
     "startAt": 1682870400000,
     "endAt": 1685548799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 550,
@@ -648,7 +697,8 @@
     "label": "期間限定",
     "startAt": 1682870400000,
     "endAt": 1685548799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 551,
@@ -664,7 +714,8 @@
     "label": "期間限定",
     "startAt": 1685548800000,
     "endAt": 1688140799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 552,
@@ -680,7 +731,8 @@
     "label": "期間限定",
     "startAt": 1685548800000,
     "endAt": 1688140799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 553,
@@ -696,7 +748,8 @@
     "label": "期間限定",
     "startAt": 1685548800000,
     "endAt": 1688140799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 554,
@@ -712,7 +765,8 @@
     "label": "期間限定",
     "startAt": 1685548800000,
     "endAt": 1688140799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 555,
@@ -728,7 +782,8 @@
     "label": "期間限定",
     "startAt": 1685548800000,
     "endAt": 1688140799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 1102,
@@ -741,7 +796,8 @@
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_1001",
     "resourceBoxId": 1102,
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 7000,
@@ -754,7 +810,8 @@
     "billableLimitResetIntervalType": "monthly",
     "assetbundleName": "shop_7000",
     "resourceBoxId": 7000,
-    "startAt": 1745553600000
+    "startAt": 1745553600000,
+    "billingShopTabChildId": 2000
   },
   {
     "id": 10001,
@@ -768,7 +825,8 @@
     "assetbundleName": "shop_10149",
     "resourceBoxId": 43,
     "startAt": 1188500940000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 10002,
@@ -782,7 +840,8 @@
     "assetbundleName": "shop_10148",
     "resourceBoxId": 44,
     "startAt": 1188500940000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 10003,
@@ -796,7 +855,8 @@
     "assetbundleName": "shop_10156",
     "resourceBoxId": 237,
     "startAt": 1188500940000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 10004,
@@ -810,7 +870,8 @@
     "assetbundleName": "shop_10004",
     "resourceBoxId": 46,
     "startAt": 1188500940000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 10005,
@@ -824,7 +885,8 @@
     "assetbundleName": "shop_10005",
     "resourceBoxId": 47,
     "startAt": 1188500940000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 10006,
@@ -840,7 +902,8 @@
     "label": "期間限定",
     "startAt": 1664553600000,
     "endAt": 1667231999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10007,
@@ -856,7 +919,8 @@
     "label": "期間限定",
     "startAt": 1664553600000,
     "endAt": 1667231999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10008,
@@ -872,7 +936,8 @@
     "label": "期間限定",
     "startAt": 1664553600000,
     "endAt": 1667231999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10009,
@@ -888,7 +953,8 @@
     "label": "期間限定",
     "startAt": 1664553600000,
     "endAt": 1667231999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10010,
@@ -904,7 +970,8 @@
     "label": "期間限定",
     "startAt": 1664553600000,
     "endAt": 1667231999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10013,
@@ -920,7 +987,8 @@
     "label": "期間限定",
     "startAt": 1667232000000,
     "endAt": 1669823999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10014,
@@ -936,7 +1004,8 @@
     "label": "期間限定",
     "startAt": 1667232000000,
     "endAt": 1669823999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10015,
@@ -952,7 +1021,8 @@
     "label": "期間限定",
     "startAt": 1667232000000,
     "endAt": 1669823999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10016,
@@ -968,7 +1038,8 @@
     "label": "期間限定",
     "startAt": 1667232000000,
     "endAt": 1669823999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10017,
@@ -984,7 +1055,8 @@
     "label": "期間限定",
     "startAt": 1667232000000,
     "endAt": 1669823999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10067,
@@ -1000,7 +1072,8 @@
     "label": "期間限定",
     "startAt": 1688140800000,
     "endAt": 1690819199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10068,
@@ -1016,7 +1089,8 @@
     "label": "期間限定",
     "startAt": 1688140800000,
     "endAt": 1690819199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10069,
@@ -1032,7 +1106,8 @@
     "label": "期間限定",
     "startAt": 1688140800000,
     "endAt": 1690819199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10070,
@@ -1048,7 +1123,8 @@
     "label": "期間限定",
     "startAt": 1688140800000,
     "endAt": 1690819199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10071,
@@ -1064,7 +1140,8 @@
     "label": "期間限定",
     "startAt": 1688140800000,
     "endAt": 1690819199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10072,
@@ -1081,7 +1158,8 @@
     "label": "期間限定",
     "startAt": 1690819200000,
     "endAt": 1693497599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10073,
@@ -1098,7 +1176,8 @@
     "label": "期間限定",
     "startAt": 1690819200000,
     "endAt": 1693497599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10074,
@@ -1115,7 +1194,8 @@
     "label": "期間限定",
     "startAt": 1690819200000,
     "endAt": 1693497599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10075,
@@ -1132,7 +1212,8 @@
     "label": "期間限定",
     "startAt": 1690819200000,
     "endAt": 1693497599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10076,
@@ -1149,7 +1230,8 @@
     "label": "期間限定",
     "startAt": 1690819200000,
     "endAt": 1693497599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10087,
@@ -1166,7 +1248,8 @@
     "label": "期間限定",
     "startAt": 1693497600000,
     "endAt": 1695052799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10088,
@@ -1183,7 +1266,8 @@
     "label": "期間限定",
     "startAt": 1693497600000,
     "endAt": 1695052799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10089,
@@ -1200,7 +1284,8 @@
     "label": "期間限定",
     "startAt": 1693497600000,
     "endAt": 1695052799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10090,
@@ -1217,7 +1302,8 @@
     "label": "期間限定",
     "startAt": 1693497600000,
     "endAt": 1695052799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10091,
@@ -1234,7 +1320,8 @@
     "label": "期間限定",
     "startAt": 1693497600000,
     "endAt": 1695052799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 10161,
@@ -1247,11 +1334,80 @@
     "assetbundleName": "shop_10161",
     "resourceBoxId": 272,
     "startAt": 1727575200000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
+    "id": 10167,
+    "seq": 45927,
+    "billingShopItemType": "value_set",
+    "name": "Your World礼包 基础版",
+    "description": "招募券×5\n心愿碎片×300\n练习谱（高级）×5\n魔法线×30\n魔法布×300\n表情交换券×3\n硬币×100,000",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10167",
+    "resourceBoxId": 332,
+    "bonusResourceBoxId": 71,
+    "startAt": 1758902400000,
+    "endAt": 1760198399000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
+    "id": 10168,
+    "seq": 45927,
+    "billingShopItemType": "value_set",
+    "name": "Your World礼包 标准版",
+    "description": "招募券×10\n心愿碎片×1,000\n练习谱（高级）×10\n技能升级谱（中级）×5\n奇迹晶石×50\n歌手卡交换券×2\n硬币×300,000\n演出能量饮料（大）×5",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10168",
+    "resourceBoxId": 333,
+    "bonusResourceBoxId": 72,
+    "startAt": 1758902400000,
+    "endAt": 1760198399000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
+    "id": 10169,
+    "seq": 45927,
+    "billingShopItemType": "value_set",
+    "name": "Your World礼包 豪华版",
+    "description": "招募券×20\n心愿结晶×1\n练习谱（高级）×20\n技能升级谱（高级）×4\n奇迹晶石×100\n各种碎片×5,000\n奇迹种子×100\n歌手卡交换券×2\n硬币×500,000\n演出能量饮料（大）×10",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10169",
+    "resourceBoxId": 334,
+    "bonusResourceBoxId": 73,
+    "startAt": 1758902400000,
+    "endAt": 1760198399000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
+    "id": 10170,
+    "seq": 45927,
+    "billingShopItemType": "value_set",
+    "name": "Your World礼包 白金版",
+    "description": "招募券×30\n心愿结晶×2\n练习谱（高级）×30\n技能升级谱（高级）×6\n奇迹晶石×200\n各种晶石×500\n奇迹种子×150\n心愿之露×10\n硬币×1,000,000\n演出能量饮料（大）×15",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_10170",
+    "resourceBoxId": 335,
+    "bonusResourceBoxId": 74,
+    "startAt": 1758902400000,
+    "endAt": 1760198399000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 50002,
-    "seq": 45877,
+    "seq": 45876,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50002,
     "name": "「一歌喜欢的食物」礼包",
@@ -1261,12 +1417,13 @@
     "assetbundleName": "shop_birthdayfood_0811_25",
     "resourceBoxId": 50002,
     "label": "仅限购买1次",
-    "startAt": 1754582400000,
-    "endAt": 1755446399000
+    "startAt": 1754496000000,
+    "endAt": 1755446399000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50003,
-    "seq": 45783,
+    "seq": 45782,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50003,
     "name": "「咲希喜欢的食物」礼包",
@@ -1276,12 +1433,13 @@
     "assetbundleName": "shop_birthdayfood_0509_25",
     "resourceBoxId": 50003,
     "label": "仅限购买1次",
-    "startAt": 1746460800000,
-    "endAt": 1747324799000
+    "startAt": 1746374400000,
+    "endAt": 1747324799000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50004,
-    "seq": 45954,
+    "seq": 45953,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50004,
     "name": "「穗波喜欢的食物」礼包",
@@ -1291,12 +1449,13 @@
     "assetbundleName": "shop_birthdayfood_1027_25",
     "resourceBoxId": 50004,
     "label": "仅限购买1次",
-    "startAt": 1761235200000,
-    "endAt": 1762099199000
+    "startAt": 1761148800000,
+    "endAt": 1762099199000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50005,
-    "seq": 46027,
+    "seq": 46026,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50005,
     "name": "「志步喜欢的食物」礼包",
@@ -1306,12 +1465,13 @@
     "assetbundleName": "shop_birthdayfood_0108_25",
     "resourceBoxId": 50005,
     "label": "仅限购买1次",
-    "startAt": 1767542400000,
-    "endAt": 1768406399000
+    "startAt": 1767456000000,
+    "endAt": 1768406399000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50006,
-    "seq": 45932,
+    "seq": 45931,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50006,
     "name": "「遥喜欢的食物」礼包",
@@ -1321,12 +1481,13 @@
     "assetbundleName": "shop_birthdayfood_1005_26",
     "resourceBoxId": 50006,
     "label": "仅限购买1次",
-    "startAt": 1759334400000,
-    "endAt": 1760198399000
+    "startAt": 1759248000000,
+    "endAt": 1760198399000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50007,
-    "seq": 46097,
+    "seq": 46096,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50007,
     "name": "「爱莉喜欢的食物」礼包",
@@ -1336,12 +1497,13 @@
     "assetbundleName": "shop_birthdayfood_0319_26",
     "resourceBoxId": 50007,
     "label": "仅限购买1次",
-    "startAt": 1773590400000,
-    "endAt": 1774454399000
+    "startAt": 1773504000000,
+    "endAt": 1774454399000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50008,
-    "seq": 45994,
+    "seq": 45993,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50008,
     "name": "「雫喜欢的食物」礼包",
@@ -1351,12 +1513,13 @@
     "assetbundleName": "shop_birthdayfood_1206_25",
     "resourceBoxId": 50008,
     "label": "仅限购买1次",
-    "startAt": 1764691200000,
-    "endAt": 1765555199000
+    "startAt": 1764604800000,
+    "endAt": 1765555199000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50009,
-    "seq": 46080,
+    "seq": 46079,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50009,
     "name": "「心羽喜欢的食物」礼包",
@@ -1366,12 +1529,13 @@
     "assetbundleName": "shop_birthdayfood_0302_26",
     "resourceBoxId": 50009,
     "label": "仅限购买1次",
-    "startAt": 1772121600000,
-    "endAt": 1772985599000
+    "startAt": 1772035200000,
+    "endAt": 1772985599000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50010,
-    "seq": 45861,
+    "seq": 45860,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50010,
     "name": "「杏喜欢的食物」礼包",
@@ -1381,12 +1545,13 @@
     "assetbundleName": "shop_birthdayfood_0726_25",
     "resourceBoxId": 50010,
     "label": "仅限购买1次",
-    "startAt": 1753200000000,
-    "endAt": 1754063999000
+    "startAt": 1753113600000,
+    "endAt": 1754063999000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50011,
-    "seq": 45970,
+    "seq": 45969,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50011,
     "name": "「彰人喜欢的食物」礼包",
@@ -1396,12 +1561,13 @@
     "assetbundleName": "shop_birthdayfood_1112_25",
     "resourceBoxId": 50011,
     "label": "仅限购买1次",
-    "startAt": 1762617600000,
-    "endAt": 1763481599000
+    "startAt": 1762531200000,
+    "endAt": 1763481599000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50012,
-    "seq": 45799,
+    "seq": 45798,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50012,
     "name": "「冬弥喜欢的食物」礼包",
@@ -1411,12 +1577,13 @@
     "assetbundleName": "shop_birthdayfood_0525_25",
     "resourceBoxId": 50012,
     "label": "仅限购买1次",
-    "startAt": 1747843200000,
-    "endAt": 1748707199000
+    "startAt": 1747756800000,
+    "endAt": 1748707199000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50013,
-    "seq": 45791,
+    "seq": 45790,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50013,
     "name": "「司喜欢的食物」礼包",
@@ -1426,12 +1593,13 @@
     "assetbundleName": "shop_birthdayfood_0517_25",
     "resourceBoxId": 50013,
     "label": "仅限购买1次",
-    "startAt": 1747152000000,
-    "endAt": 1748015999000
+    "startAt": 1747065600000,
+    "endAt": 1748015999000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50014,
-    "seq": 45906,
+    "seq": 45905,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50014,
     "name": "「笑梦喜欢的食物」礼包",
@@ -1441,12 +1609,13 @@
     "assetbundleName": "shop_birthdayfood_0909_25",
     "resourceBoxId": 50014,
     "label": "仅限购买1次",
-    "startAt": 1757088000000,
-    "endAt": 1757951999000
+    "startAt": 1757001600000,
+    "endAt": 1757951999000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50015,
-    "seq": 45855,
+    "seq": 45854,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50015,
     "name": "「宁宁喜欢的食物」礼包",
@@ -1456,12 +1625,13 @@
     "assetbundleName": "shop_birthdayfood_0720_25",
     "resourceBoxId": 50015,
     "label": "仅限购买1次",
-    "startAt": 1752681600000,
-    "endAt": 1753545599000
+    "startAt": 1752595200000,
+    "endAt": 1753545599000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50016,
-    "seq": 45829,
+    "seq": 45828,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50016,
     "name": "「类喜欢的食物」礼包",
@@ -1471,12 +1641,13 @@
     "assetbundleName": "shop_birthdayfood_0624_25",
     "resourceBoxId": 50016,
     "label": "仅限购买1次",
-    "startAt": 1750435200000,
-    "endAt": 1751299199000
+    "startAt": 1750348800000,
+    "endAt": 1751299199000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50017,
-    "seq": 46060,
+    "seq": 46059,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50017,
     "name": "「奏喜欢的食物」礼包",
@@ -1486,12 +1657,13 @@
     "assetbundleName": "shop_birthdayfood_0210_26",
     "resourceBoxId": 50017,
     "label": "仅限购买1次",
-    "startAt": 1770393600000,
-    "endAt": 1771257599000
+    "startAt": 1770307200000,
+    "endAt": 1771257599000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50018,
-    "seq": 46046,
+    "seq": 46045,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50018,
     "name": "「真冬喜欢的食物」礼包",
@@ -1501,12 +1673,13 @@
     "assetbundleName": "shop_birthdayfood_0127_26",
     "resourceBoxId": 50018,
     "label": "仅限购买1次",
-    "startAt": 1769184000000,
-    "endAt": 1770047999000
+    "startAt": 1769097600000,
+    "endAt": 1770047999000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50019,
-    "seq": 45774,
+    "seq": 45773,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 6213,
     "name": "「绘名喜欢的食物」礼包",
@@ -1516,12 +1689,13 @@
     "assetbundleName": "shop_birthdayfood_0430",
     "resourceBoxId": 50019,
     "label": "仅限购买1次",
-    "startAt": 1745683200000,
-    "endAt": 1746547199000
+    "startAt": 1745596800000,
+    "endAt": 1746547199000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50020,
-    "seq": 45893,
+    "seq": 45892,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50020,
     "name": "「瑞希喜欢的食物」礼包",
@@ -1531,12 +1705,13 @@
     "assetbundleName": "shop_birthdayfood_0827_25",
     "resourceBoxId": 50020,
     "label": "仅限购买1次",
-    "startAt": 1755964800000,
-    "endAt": 1756828799000
+    "startAt": 1755878400000,
+    "endAt": 1756828799000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50021,
-    "seq": 45897,
+    "seq": 45896,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50021,
     "name": "「未来的纪念日礼物」礼包",
@@ -1546,12 +1721,13 @@
     "assetbundleName": "shop_birthdayfood_0831_25",
     "resourceBoxId": 50021,
     "label": "仅限购买1次",
-    "startAt": 1756310400000,
-    "endAt": 1757174399000
+    "startAt": 1756224000000,
+    "endAt": 1757174399000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50022,
-    "seq": 46015,
+    "seq": 46014,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50022,
     "name": "「铃的纪念日礼物」礼包",
@@ -1561,12 +1737,13 @@
     "assetbundleName": "shop_birthdayfood_1227_25",
     "resourceBoxId": 50022,
     "label": "仅限购买1次",
-    "startAt": 1766505600000,
-    "endAt": 1767369599000
+    "startAt": 1766419200000,
+    "endAt": 1767369599000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50023,
-    "seq": 46015,
+    "seq": 46014,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50023,
     "name": "「连的纪念日礼物」礼包",
@@ -1576,12 +1753,13 @@
     "assetbundleName": "shop_birthdayfood_1227_25",
     "resourceBoxId": 50023,
     "label": "仅限购买1次",
-    "startAt": 1766505600000,
-    "endAt": 1767369599000
+    "startAt": 1766419200000,
+    "endAt": 1767369599000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50024,
-    "seq": 46049,
+    "seq": 46048,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50024,
     "name": "「流歌的纪念日礼物」礼包",
@@ -1591,12 +1769,13 @@
     "assetbundleName": "shop_birthdayfood_0130_26",
     "resourceBoxId": 50024,
     "label": "仅限购买1次",
-    "startAt": 1769443200000,
-    "endAt": 1770307199000
+    "startAt": 1769356800000,
+    "endAt": 1770307199000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50025,
-    "seq": 45963,
+    "seq": 45962,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50025,
     "name": "「MEIKO的纪念日礼物」礼包",
@@ -1606,12 +1785,13 @@
     "assetbundleName": "shop_birthdayfood_1105_25",
     "resourceBoxId": 50025,
     "label": "仅限购买1次",
-    "startAt": 1762012800000,
-    "endAt": 1762876799000
+    "startAt": 1761926400000,
+    "endAt": 1762876799000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50026,
-    "seq": 46067,
+    "seq": 46066,
     "billingShopItemType": "value_set",
     "billingProductGroupId": 50026,
     "name": "「KAITO的纪念日礼物」礼包",
@@ -1621,12 +1801,13 @@
     "assetbundleName": "shop_birthdayfood_0217_26",
     "resourceBoxId": 50026,
     "label": "仅限购买1次",
-    "startAt": 1770998400000,
-    "endAt": 1771862399000
+    "startAt": 1770912000000,
+    "endAt": 1771862399000,
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50102,
-    "seq": 45876,
+    "seq": 45875,
     "billingShopItemType": "value_set",
     "name": "一歌虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1635,13 +1816,14 @@
     "assetbundleName": "shop_birthdayvirtual_0811_25",
     "resourceBoxId": 50102,
     "label": "仅限购买1次",
-    "startAt": 1754582400000,
+    "startAt": 1754496000000,
     "endAt": 1755446399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50103,
-    "seq": 45782,
+    "seq": 45781,
     "billingShopItemType": "value_set",
     "name": "咲希虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1650,13 +1832,14 @@
     "assetbundleName": "shop_birthdayvirtual_0509_25",
     "resourceBoxId": 50103,
     "label": "仅限购买1次",
-    "startAt": 1746460800000,
+    "startAt": 1746374400000,
     "endAt": 1747324799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50104,
-    "seq": 45953,
+    "seq": 45952,
     "billingShopItemType": "value_set",
     "name": "穗波虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1665,13 +1848,14 @@
     "assetbundleName": "shop_birthdayvirtual_1027_25",
     "resourceBoxId": 50104,
     "label": "仅限购买1次",
-    "startAt": 1761235200000,
+    "startAt": 1761148800000,
     "endAt": 1762099199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50105,
-    "seq": 46026,
+    "seq": 46025,
     "billingShopItemType": "value_set",
     "name": "志步虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1680,13 +1864,14 @@
     "assetbundleName": "shop_birthdayvirtual_0108_25",
     "resourceBoxId": 50105,
     "label": "仅限购买1次",
-    "startAt": 1767542400000,
+    "startAt": 1767456000000,
     "endAt": 1768406399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50106,
-    "seq": 45931,
+    "seq": 45930,
     "billingShopItemType": "value_set",
     "name": "遥虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1695,13 +1880,14 @@
     "assetbundleName": "shop_birthdayvirtual_1005_26",
     "resourceBoxId": 50106,
     "label": "仅限购买1次",
-    "startAt": 1759334400000,
+    "startAt": 1759248000000,
     "endAt": 1760198399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50107,
-    "seq": 46096,
+    "seq": 46095,
     "billingShopItemType": "value_set",
     "name": "爱莉虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1710,13 +1896,14 @@
     "assetbundleName": "shop_birthdayvirtual_0319_26",
     "resourceBoxId": 50107,
     "label": "仅限购买1次",
-    "startAt": 1773590400000,
+    "startAt": 1773504000000,
     "endAt": 1774454399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50108,
-    "seq": 45993,
+    "seq": 45992,
     "billingShopItemType": "value_set",
     "name": "雫虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1725,13 +1912,14 @@
     "assetbundleName": "shop_birthdayvirtual_1206_25",
     "resourceBoxId": 50108,
     "label": "仅限购买1次",
-    "startAt": 1764691200000,
+    "startAt": 1764604800000,
     "endAt": 1765555199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50109,
-    "seq": 46079,
+    "seq": 46078,
     "billingShopItemType": "value_set",
     "name": "心羽虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1740,13 +1928,14 @@
     "assetbundleName": "shop_birthdayvirtual_0302_26",
     "resourceBoxId": 50109,
     "label": "仅限购买1次",
-    "startAt": 1772121600000,
+    "startAt": 1772035200000,
     "endAt": 1772985599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50110,
-    "seq": 45860,
+    "seq": 45859,
     "billingShopItemType": "value_set",
     "name": "杏虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1755,13 +1944,14 @@
     "assetbundleName": "shop_birthdayvirtual_0726_25",
     "resourceBoxId": 50110,
     "label": "仅限购买1次",
-    "startAt": 1753200000000,
+    "startAt": 1753113600000,
     "endAt": 1754063999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50111,
-    "seq": 45969,
+    "seq": 45968,
     "billingShopItemType": "value_set",
     "name": "彰人虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1770,13 +1960,14 @@
     "assetbundleName": "shop_birthdayvirtual_1112_25",
     "resourceBoxId": 50111,
     "label": "仅限购买1次",
-    "startAt": 1762617600000,
+    "startAt": 1762531200000,
     "endAt": 1763481599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50112,
-    "seq": 45798,
+    "seq": 45797,
     "billingShopItemType": "value_set",
     "name": "冬弥虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1785,13 +1976,14 @@
     "assetbundleName": "shop_birthdayvirtual_0525_25",
     "resourceBoxId": 50112,
     "label": "仅限购买1次",
-    "startAt": 1747843200000,
+    "startAt": 1747756800000,
     "endAt": 1748707199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50113,
-    "seq": 45790,
+    "seq": 45789,
     "billingShopItemType": "value_set",
     "name": "司虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1800,13 +1992,14 @@
     "assetbundleName": "shop_birthdayvirtual_0517_25",
     "resourceBoxId": 50113,
     "label": "仅限购买1次",
-    "startAt": 1747152000000,
+    "startAt": 1747065600000,
     "endAt": 1748015999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50114,
-    "seq": 45905,
+    "seq": 45904,
     "billingShopItemType": "value_set",
     "name": "笑梦虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1815,13 +2008,14 @@
     "assetbundleName": "shop_birthdayvirtual_0909_25",
     "resourceBoxId": 50114,
     "label": "仅限购买1次",
-    "startAt": 1757088000000,
+    "startAt": 1757001600000,
     "endAt": 1757951999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50115,
-    "seq": 45854,
+    "seq": 45853,
     "billingShopItemType": "value_set",
     "name": "宁宁虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1830,13 +2024,14 @@
     "assetbundleName": "shop_birthdayvirtual_0720_25",
     "resourceBoxId": 50115,
     "label": "仅限购买1次",
-    "startAt": 1752681600000,
+    "startAt": 1752595200000,
     "endAt": 1753545599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50116,
-    "seq": 45828,
+    "seq": 45827,
     "billingShopItemType": "value_set",
     "name": "类虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1845,13 +2040,14 @@
     "assetbundleName": "shop_birthdayvirtual_0624_25",
     "resourceBoxId": 50116,
     "label": "仅限购买1次",
-    "startAt": 1750435200000,
+    "startAt": 1750348800000,
     "endAt": 1751299199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50117,
-    "seq": 46059,
+    "seq": 46058,
     "billingShopItemType": "value_set",
     "name": "奏虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1860,13 +2056,14 @@
     "assetbundleName": "shop_birthdayvirtual_0210_26",
     "resourceBoxId": 50117,
     "label": "仅限购买1次",
-    "startAt": 1770393600000,
+    "startAt": 1770307200000,
     "endAt": 1771257599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50118,
-    "seq": 46045,
+    "seq": 46044,
     "billingShopItemType": "value_set",
     "name": "真冬虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1875,13 +2072,14 @@
     "assetbundleName": "shop_birthdayvirtual_0127_26",
     "resourceBoxId": 50118,
     "label": "仅限购买1次",
-    "startAt": 1769184000000,
+    "startAt": 1769097600000,
     "endAt": 1770047999000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50119,
-    "seq": 45773,
+    "seq": 45772,
     "billingShopItemType": "value_set",
     "name": "绘名虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1890,13 +2088,14 @@
     "assetbundleName": "shop_birthdayvirtual_0430",
     "resourceBoxId": 50119,
     "label": "仅限购买1次",
-    "startAt": 1745683200000,
+    "startAt": 1745596800000,
     "endAt": 1746547199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50120,
-    "seq": 45892,
+    "seq": 45891,
     "billingShopItemType": "value_set",
     "name": "瑞希虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1905,13 +2104,14 @@
     "assetbundleName": "shop_birthdayvirtual_0827_25",
     "resourceBoxId": 50120,
     "label": "仅限购买1次",
-    "startAt": 1755964800000,
+    "startAt": 1755878400000,
     "endAt": 1756828799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50121,
-    "seq": 45896,
+    "seq": 45895,
     "billingShopItemType": "value_set",
     "name": "未来虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1920,13 +2120,14 @@
     "assetbundleName": "shop_birthdayvirtual_0831_25",
     "resourceBoxId": 50121,
     "label": "仅限购买1次",
-    "startAt": 1756310400000,
+    "startAt": 1756224000000,
     "endAt": 1757174399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50122,
-    "seq": 46014,
+    "seq": 46013,
     "billingShopItemType": "value_set",
     "name": "铃虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1935,13 +2136,14 @@
     "assetbundleName": "shop_birthdayvirtual_1227_25",
     "resourceBoxId": 50122,
     "label": "仅限购买1次",
-    "startAt": 1766505600000,
+    "startAt": 1766419200000,
     "endAt": 1767369599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50123,
-    "seq": 46014,
+    "seq": 46013,
     "billingShopItemType": "value_set",
     "name": "连虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1950,13 +2152,14 @@
     "assetbundleName": "shop_birthdayvirtual_1227_25",
     "resourceBoxId": 50123,
     "label": "仅限购买1次",
-    "startAt": 1766505600000,
+    "startAt": 1766419200000,
     "endAt": 1767369599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50124,
-    "seq": 46048,
+    "seq": 46047,
     "billingShopItemType": "value_set",
     "name": "流歌虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1965,13 +2168,14 @@
     "assetbundleName": "shop_birthdayvirtual_0130_26",
     "resourceBoxId": 50124,
     "label": "仅限购买1次",
-    "startAt": 1769443200000,
+    "startAt": 1769356800000,
     "endAt": 1770307199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50125,
-    "seq": 45962,
+    "seq": 45961,
     "billingShopItemType": "value_set",
     "name": "MEIKO虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1980,13 +2184,14 @@
     "assetbundleName": "shop_birthdayvirtual_1105_25",
     "resourceBoxId": 50125,
     "label": "仅限购买1次",
-    "startAt": 1762012800000,
+    "startAt": 1761926400000,
     "endAt": 1762876799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 50126,
-    "seq": 46066,
+    "seq": 46065,
     "billingShopItemType": "value_set",
     "name": "KAITO虚拟演唱会应援礼包",
     "billableLimitType": "count",
@@ -1995,9 +2200,10 @@
     "assetbundleName": "shop_birthdayvirtual_0217_26",
     "resourceBoxId": 50126,
     "label": "仅限购买1次",
-    "startAt": 1770998400000,
+    "startAt": 1770912000000,
     "endAt": 1771862399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2500
   },
   {
     "id": 51027,
@@ -2012,7 +2218,8 @@
     "resourceBoxId": 91033,
     "label": "仅限购买1次",
     "startAt": 1746028800000,
-    "endAt": 1746979199000
+    "endAt": 1746979199000,
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51028,
@@ -2027,7 +2234,8 @@
     "resourceBoxId": 91034,
     "label": "仅限购买1次",
     "startAt": 1746028800000,
-    "endAt": 1746979199000
+    "endAt": 1746979199000,
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51029,
@@ -2042,7 +2250,8 @@
     "resourceBoxId": 91035,
     "label": "仅限购买1次",
     "startAt": 1746028800000,
-    "endAt": 1746979199000
+    "endAt": 1746979199000,
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51030,
@@ -2057,7 +2266,8 @@
     "label": "仅限购买1次",
     "startAt": 1746028800000,
     "endAt": 1746979199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51031,
@@ -2072,7 +2282,8 @@
     "label": "仅限购买1次",
     "startAt": 1746028800000,
     "endAt": 1746979199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51032,
@@ -2087,7 +2298,8 @@
     "resourceBoxId": 91036,
     "label": "仅限购买1次",
     "startAt": 1746028800000,
-    "endAt": 1746979199000
+    "endAt": 1746979199000,
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51033,
@@ -2102,7 +2314,8 @@
     "assetbundleName": "shop_7006",
     "resourceBoxId": 7001,
     "startAt": 1747497600000,
-    "endAt": 4102415999000
+    "endAt": 4102415999000,
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51034,
@@ -2117,7 +2330,8 @@
     "resourceBoxId": 91050,
     "startAt": 1748620800000,
     "endAt": 1749571199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51035,
@@ -2132,7 +2346,8 @@
     "assetbundleName": "shop_7008",
     "resourceBoxId": 91051,
     "startAt": 1748620800000,
-    "endAt": 1749571199000
+    "endAt": 1749571199000,
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51036,
@@ -2147,7 +2362,8 @@
     "assetbundleName": "shop_7001",
     "resourceBoxId": 91052,
     "startAt": 1748620800000,
-    "endAt": 1749571199000
+    "endAt": 1749571199000,
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51037,
@@ -2162,7 +2378,8 @@
     "resourceBoxId": 91053,
     "startAt": 1748620800000,
     "endAt": 1749571199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51038,
@@ -2177,7 +2394,8 @@
     "resourceBoxId": 91054,
     "startAt": 1748620800000,
     "endAt": 1749571199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51039,
@@ -2192,7 +2410,8 @@
     "assetbundleName": "shop_51039",
     "resourceBoxId": 51039,
     "startAt": 1751688000000,
-    "endAt": 1753027199000
+    "endAt": 1753027199000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 51040,
@@ -2207,7 +2426,8 @@
     "assetbundleName": "shop_51040",
     "resourceBoxId": 51040,
     "startAt": 1751688000000,
-    "endAt": 1753027199000
+    "endAt": 1753027199000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 51041,
@@ -2222,7 +2442,8 @@
     "resourceBoxId": 51041,
     "startAt": 1751688000000,
     "endAt": 1753027199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51042,
@@ -2237,7 +2458,8 @@
     "resourceBoxId": 51042,
     "startAt": 1751688000000,
     "endAt": 1753027199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51043,
@@ -2252,7 +2474,8 @@
     "resourceBoxId": 51043,
     "startAt": 1751688000000,
     "endAt": 1753027199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51044,
@@ -2267,7 +2490,8 @@
     "resourceBoxId": 51044,
     "startAt": 1751688000000,
     "endAt": 1753027199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51045,
@@ -2282,7 +2506,8 @@
     "resourceBoxId": 51045,
     "startAt": 1751688000000,
     "endAt": 1753027199000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51046,
@@ -2298,7 +2523,8 @@
     "label": "仅限购买2次",
     "startAt": 1753243200000,
     "endAt": 1754236799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51047,
@@ -2314,7 +2540,8 @@
     "label": "仅限购买2次",
     "startAt": 1753243200000,
     "endAt": 1754236799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51048,
@@ -2330,7 +2557,8 @@
     "label": "仅限购买2次",
     "startAt": 1753243200000,
     "endAt": 1754236799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51049,
@@ -2346,7 +2574,8 @@
     "label": "仅限购买1次",
     "startAt": 1753243200000,
     "endAt": 1754236799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51050,
@@ -2362,7 +2591,8 @@
     "label": "仅限购买1次",
     "startAt": 1753243200000,
     "endAt": 1754236799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51051,
@@ -2377,9 +2607,9 @@
     "assetbundleName": "shop_51051",
     "resourceBoxId": 51051,
     "bonusResourceBoxId": 51051,
-    "label": "仅限购买1次",
-    "startAt": 1756450800000,
-    "endAt": 1757260799000
+    "startAt": 1756440000000,
+    "endAt": 1757260799000,
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51052,
@@ -2388,14 +2618,14 @@
     "name": "七夕养成礼包",
     "description": "招募票券×1\n练习谱（中级）×30",
     "billableLimitType": "count",
-    "billableLimitValue": 1,
+    "billableLimitValue": 3,
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_51052",
     "resourceBoxId": 51052,
-    "label": "仅限购买1次",
-    "startAt": 1756450800000,
+    "startAt": 1756440000000,
     "endAt": 1757260799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51053,
@@ -2404,30 +2634,31 @@
     "name": "七夕区域礼包",
     "description": "招募票券×5\n奇异种子×30\n硬币×300,000",
     "billableLimitType": "count",
-    "billableLimitValue": 1,
+    "billableLimitValue": 2,
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_51053",
     "resourceBoxId": 51053,
-    "label": "仅限购买1次",
-    "startAt": 1756450800000,
+    "startAt": 1756440000000,
     "endAt": 1757260799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51054,
     "seq": 45899,
     "billingShopItemType": "value_set",
-    "name": "七夕主题服装",
-    "description": "七夕主题服装（台服在2023年8月首次上线的），男女全色",
+    "name": "「闪耀星辰连衣裙」服装礼包",
+    "description": "「闪耀星辰连衣裙」全色套装",
     "billableLimitType": "count",
     "billableLimitValue": 1,
     "billableLimitResetIntervalType": "none",
     "assetbundleName": "shop_51054",
     "resourceBoxId": 51054,
     "label": "仅限购买1次",
-    "startAt": 1756450800000,
+    "startAt": 1756440000000,
     "endAt": 1757260799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 51055,
@@ -2441,7 +2672,8 @@
     "assetbundleName": "shop_51055",
     "resourceBoxId": 51055,
     "startAt": 1756353600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2800
   },
   {
     "id": 51056,
@@ -2455,7 +2687,8 @@
     "assetbundleName": "shop_51056",
     "resourceBoxId": 51056,
     "startAt": 1756353600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2800
   },
   {
     "id": 51057,
@@ -2469,7 +2702,8 @@
     "assetbundleName": "shop_51057",
     "resourceBoxId": 51057,
     "startAt": 1756353600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2800
   },
   {
     "id": 51058,
@@ -2483,7 +2717,8 @@
     "assetbundleName": "shop_51058",
     "resourceBoxId": 51058,
     "startAt": 1756353600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2800
   },
   {
     "id": 51059,
@@ -2497,7 +2732,9 @@
     "assetbundleName": "shop_51059",
     "resourceBoxId": 51059,
     "startAt": 1756353600000,
-    "purchaseOption": "exchange"
+    "endAt": 1756871999000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2800
   },
   {
     "id": 51060,
@@ -2511,7 +2748,8 @@
     "assetbundleName": "shop_51060",
     "resourceBoxId": 51060,
     "startAt": 1756353600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2800
   },
   {
     "id": 51061,
@@ -2525,7 +2763,197 @@
     "assetbundleName": "shop_51061",
     "resourceBoxId": 51061,
     "startAt": 1756353600000,
-    "purchaseOption": "exchange"
+    "endAt": 1756871999000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2800
+  },
+  {
+    "id": 51062,
+    "seq": 45899,
+    "billingShopItemType": "value_set",
+    "name": "「闪耀星辰礼服」服装礼包",
+    "description": "「闪耀星辰礼服」全色套装",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51062",
+    "resourceBoxId": 51062,
+    "label": "仅限购买1次",
+    "startAt": 1756440000000,
+    "endAt": 1757260799000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
+    "id": 51063,
+    "seq": 13,
+    "billingShopItemType": "value_set",
+    "name": "练习乐谱（高级）",
+    "description": "练习乐谱（高级）×10",
+    "billableLimitType": "count",
+    "billableLimitValue": 10,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_51063",
+    "resourceBoxId": 51063,
+    "startAt": 1756872000000,
+    "endAt": 4102415999000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2800
+  },
+  {
+    "id": 51064,
+    "seq": 11,
+    "billingShopItemType": "value_set",
+    "name": "奇迹晶石",
+    "description": "奇迹晶石×50",
+    "billableLimitType": "count",
+    "billableLimitValue": 10,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_51064",
+    "resourceBoxId": 51064,
+    "startAt": 1756872000000,
+    "endAt": 4102415999000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2800
+  },
+  {
+    "id": 51065,
+    "seq": 45918,
+    "billingShopItemType": "value_set",
+    "name": "「嘉年华」综合力礼包",
+    "description": "招募票券×1\n奇迹宝石×100\n练习乐谱（中级）×10",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51046",
+    "resourceBoxId": 51065,
+    "startAt": 1758110400000,
+    "endAt": 1758643199000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
+    "id": 51066,
+    "seq": 45918,
+    "billingShopItemType": "value_set",
+    "name": "「嘉年华」装扮礼包",
+    "description": "招募票券×5\n表情交换券×3\n魔法布×300\n魔法线×30",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51047",
+    "resourceBoxId": 51066,
+    "startAt": 1758110400000,
+    "endAt": 1758643199000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
+    "id": 51067,
+    "seq": 45918,
+    "billingShopItemType": "value_set",
+    "name": "「嘉年华」心愿礼包",
+    "description": "招募票券×15\n心愿结晶×1\n心愿之露×5",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51048",
+    "resourceBoxId": 51067,
+    "startAt": 1758110400000,
+    "endAt": 1758643199000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
+  },
+  {
+    "id": 51068,
+    "seq": 45927,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 51068,
+    "name": "塔罗主题服装：ⅩⅪ・Ⅸ",
+    "description": "ⅩⅪ：寰宇之音\nⅨ：尘雾引灯",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51068",
+    "resourceBoxId": 51068,
+    "startAt": 1758902400000,
+    "endAt": 1760198399000,
+    "billingShopTabChildId": 2000
+  },
+  {
+    "id": 51069,
+    "seq": 45927,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 51069,
+    "name": "入住邀约礼包",
+    "description": "招募券×1\n★3 [仰望天空尽头] 星乃一歌",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51069",
+    "resourceBoxId": 51069,
+    "startAt": 1758902400000,
+    "billingShopTabChildId": 2100
+  },
+  {
+    "id": 51070,
+    "seq": 45927,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 51070,
+    "name": "入住★3礼包",
+    "description": "招募券×2\n★3成员自选券×2",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51070",
+    "resourceBoxId": 51070,
+    "startAt": 1758902400000,
+    "billingShopTabChildId": 2100
+  },
+  {
+    "id": 51071,
+    "seq": 45927,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 51071,
+    "name": "入住养成礼包",
+    "description": "招募券×3\n练习谱（中级）×50\n奇迹晶石×50\n各种晶石×100",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51071",
+    "resourceBoxId": 51071,
+    "startAt": 1758902400000,
+    "billingShopTabChildId": 2100
+  },
+  {
+    "id": 51072,
+    "seq": 45927,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 51072,
+    "name": "入住应援礼包",
+    "description": "招募券×10\n音乐卡×200\n表情兑换券×3",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51072",
+    "resourceBoxId": 51072,
+    "startAt": 1758902400000,
+    "billingShopTabChildId": 2100
+  },
+  {
+    "id": 51073,
+    "seq": 45927,
+    "billingShopItemType": "value_set",
+    "billingProductGroupId": 51073,
+    "name": "入住★4礼包",
+    "description": "招募券×10\n[新手应援]必定获得1名★4成员10连招募券×1",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "none",
+    "assetbundleName": "shop_51073",
+    "resourceBoxId": 51073,
+    "startAt": 1758902400000,
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60000,
@@ -2540,7 +2968,8 @@
     "assetbundleName": "shop_62",
     "resourceBoxId": 16,
     "startAt": 1740758400000,
-    "endAt": 1746028799000
+    "endAt": 1746028799000,
+    "billingShopTabChildId": 4000
   },
   {
     "id": 60001,
@@ -2556,7 +2985,8 @@
     "resourceBoxId": 90001,
     "bonusResourceBoxId": 90001,
     "startAt": 1740758400000,
-    "endAt": 1746028799000
+    "endAt": 1746028799000,
+    "billingShopTabChildId": 4000
   },
   {
     "id": 60003,
@@ -2571,7 +3001,8 @@
     "assetbundleName": "shop_62",
     "resourceBoxId": 90004,
     "startAt": 1746028800000,
-    "endAt": 4083926399000
+    "endAt": 4083926399000,
+    "billingShopTabChildId": 4000
   },
   {
     "id": 60004,
@@ -2587,7 +3018,24 @@
     "resourceBoxId": 90004,
     "bonusResourceBoxId": 90001,
     "startAt": 1740758400000,
-    "endAt": 1746028799000
+    "endAt": 1746028799000,
+    "billingShopTabChildId": 4000
+  },
+  {
+    "id": 60005,
+    "seq": 4,
+    "billingShopItemType": "live_mission_pass_upgrade_after_mysekai_mission_pass",
+    "name": "白金任务通行证・升级包（优惠）",
+    "description": "付费水晶×620\n心愿碎片×500\n免费水晶×800\n限定服装（其他3种颜色）\n演出积分×3900",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "shop_62",
+    "resourceBoxId": 90004,
+    "startAt": 1758844800000,
+    "endAt": 4083926399000,
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 4000
   },
   {
     "id": 60011,
@@ -2603,7 +3051,8 @@
     "resourceBoxId": 90005,
     "bonusResourceBoxId": 90005,
     "label": "仅限购买1次",
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 60012,
@@ -2619,7 +3068,8 @@
     "resourceBoxId": 90006,
     "bonusResourceBoxId": 90006,
     "label": "仅限购买1次",
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 60013,
@@ -2635,7 +3085,8 @@
     "resourceBoxId": 90007,
     "bonusResourceBoxId": 90007,
     "label": "仅限购买1次",
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 60014,
@@ -2651,7 +3102,8 @@
     "resourceBoxId": 90008,
     "bonusResourceBoxId": 90008,
     "label": "仅限购买1次",
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 60015,
@@ -2667,7 +3119,8 @@
     "resourceBoxId": 90009,
     "bonusResourceBoxId": 90009,
     "label": "仅限购买1次",
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 60016,
@@ -2683,7 +3136,8 @@
     "resourceBoxId": 90010,
     "bonusResourceBoxId": 90010,
     "label": "仅限购买1次",
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 60017,
@@ -2699,7 +3153,8 @@
     "resourceBoxId": 90011,
     "bonusResourceBoxId": 90011,
     "label": "仅限购买1次",
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 60018,
@@ -2715,7 +3170,8 @@
     "resourceBoxId": 90012,
     "bonusResourceBoxId": 90012,
     "label": "仅限购买1次",
-    "startAt": 1188503999000
+    "startAt": 1188503999000,
+    "billingShopTabChildId": 101
   },
   {
     "id": 60019,
@@ -2730,7 +3186,9 @@
     "assetbundleName": "shop_6009",
     "resourceBoxId": 90013,
     "label": "仅限购买1次",
-    "startAt": 1188500979000
+    "startAt": 1188500979000,
+    "endAt": 1758902399000,
+    "billingShopTabChildId": 2000
   },
   {
     "id": 60020,
@@ -2744,7 +3202,8 @@
     "assetbundleName": "shop_6010",
     "resourceBoxId": 90014,
     "startAt": 1188500979000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 60021,
@@ -2758,7 +3217,8 @@
     "assetbundleName": "shop_6011",
     "resourceBoxId": 90015,
     "startAt": 1188500979000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 60022,
@@ -2772,7 +3232,8 @@
     "assetbundleName": "shop_6012",
     "resourceBoxId": 90016,
     "startAt": 1188500979000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 60030,
@@ -2788,7 +3249,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60031,
@@ -2804,7 +3266,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60032,
@@ -2820,7 +3283,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60033,
@@ -2836,7 +3300,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60034,
@@ -2852,7 +3317,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60035,
@@ -2868,7 +3334,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60036,
@@ -2884,7 +3351,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60037,
@@ -2900,7 +3368,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60038,
@@ -2916,7 +3385,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60039,
@@ -2932,7 +3402,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60040,
@@ -2948,7 +3419,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60041,
@@ -2964,7 +3436,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60042,
@@ -2980,7 +3453,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60043,
@@ -2996,7 +3470,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60044,
@@ -3012,7 +3487,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60045,
@@ -3028,7 +3504,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60046,
@@ -3044,7 +3521,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60047,
@@ -3060,7 +3538,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60048,
@@ -3076,7 +3555,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60049,
@@ -3092,7 +3572,8 @@
     "label": "仅限购买1次",
     "startAt": 1188500979000,
     "endAt": 4097145599000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2100
   },
   {
     "id": 60050,
@@ -3108,7 +3589,8 @@
     "resourceBoxId": 91020,
     "label": "仅限购买1次",
     "startAt": 1704096000000,
-    "endAt": 1712764799000
+    "endAt": 1712764799000,
+    "billingShopTabChildId": 2000
   },
   {
     "id": 60051,
@@ -3124,7 +3606,8 @@
     "resourceBoxId": 91021,
     "label": "仅限购买1次",
     "startAt": 1740816000000,
-    "endAt": 1744300799000
+    "endAt": 1744300799000,
+    "billingShopTabChildId": 2000
   },
   {
     "id": 60052,
@@ -3140,7 +3623,8 @@
     "resourceBoxId": 91022,
     "label": "仅限购买1次",
     "startAt": 1740816000000,
-    "endAt": 1744300799000
+    "endAt": 1744300799000,
+    "billingShopTabChildId": 2000
   },
   {
     "id": 60053,
@@ -3156,7 +3640,8 @@
     "resourceBoxId": 91023,
     "label": "仅限购买1次",
     "startAt": 1744300800000,
-    "endAt": 1745164799000
+    "endAt": 1745164799000,
+    "billingShopTabChildId": 2000
   },
   {
     "id": 60054,
@@ -3172,7 +3657,8 @@
     "label": "仅限购买1次",
     "startAt": 1744300800000,
     "endAt": 1745164799000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 2000
   },
   {
     "id": 300000,
@@ -3185,7 +3671,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 48,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300001,
@@ -3198,7 +3685,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 49,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300002,
@@ -3211,7 +3699,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 50,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300003,
@@ -3224,7 +3713,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 51,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300004,
@@ -3237,7 +3727,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 52,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300010,
@@ -3250,7 +3741,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 55,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300011,
@@ -3263,7 +3755,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 56,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300012,
@@ -3276,7 +3769,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 57,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300013,
@@ -3289,7 +3783,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 58,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300014,
@@ -3302,7 +3797,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 59,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300020,
@@ -3315,7 +3811,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 60,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300021,
@@ -3328,7 +3825,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 61,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300022,
@@ -3341,7 +3839,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 62,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300023,
@@ -3354,7 +3853,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 63,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300024,
@@ -3367,7 +3867,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 64,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300050,
@@ -3380,7 +3881,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 69,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300051,
@@ -3393,7 +3895,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 70,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300052,
@@ -3406,7 +3909,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 71,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300053,
@@ -3419,7 +3923,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 72,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300054,
@@ -3432,7 +3937,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 73,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300060,
@@ -3445,7 +3951,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 78,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300061,
@@ -3458,7 +3965,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 79,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300062,
@@ -3471,7 +3979,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 80,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300063,
@@ -3484,7 +3993,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 81,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300064,
@@ -3497,7 +4007,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 82,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300070,
@@ -3510,7 +4021,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 83,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300071,
@@ -3523,7 +4035,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 84,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300072,
@@ -3536,7 +4049,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 85,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300073,
@@ -3549,7 +4063,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 86,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300074,
@@ -3562,7 +4077,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 87,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300090,
@@ -3575,7 +4091,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 88,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300091,
@@ -3588,7 +4105,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 89,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300092,
@@ -3601,7 +4119,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 90,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300093,
@@ -3614,7 +4133,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 91,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300094,
@@ -3627,7 +4147,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 92,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300100,
@@ -3640,7 +4161,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 99,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300101,
@@ -3653,7 +4175,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 100,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300102,
@@ -3666,7 +4189,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 101,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300103,
@@ -3679,7 +4203,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 102,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300104,
@@ -3692,7 +4217,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 103,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300110,
@@ -3705,7 +4231,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 104,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300111,
@@ -3718,7 +4245,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 105,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300112,
@@ -3731,7 +4259,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 106,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300113,
@@ -3744,7 +4273,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 107,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300114,
@@ -3757,7 +4287,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 108,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300120,
@@ -3770,7 +4301,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 109,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300121,
@@ -3783,7 +4315,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 110,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300122,
@@ -3796,7 +4329,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 111,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300123,
@@ -3809,7 +4343,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 112,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300124,
@@ -3822,7 +4357,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 113,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300130,
@@ -3835,7 +4371,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 114,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300131,
@@ -3848,7 +4385,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 115,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300132,
@@ -3861,7 +4399,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 116,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300133,
@@ -3874,7 +4413,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 117,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300134,
@@ -3887,7 +4427,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 118,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300140,
@@ -3900,7 +4441,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 119,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300141,
@@ -3913,7 +4455,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 120,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300142,
@@ -3926,7 +4469,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 121,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300143,
@@ -3939,7 +4483,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 122,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300144,
@@ -3952,7 +4497,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 123,
     "startAt": 1695088800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300220,
@@ -3965,7 +4511,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 124,
     "startAt": 1696089600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300221,
@@ -3978,7 +4525,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 125,
     "startAt": 1696089600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300222,
@@ -3991,7 +4539,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 126,
     "startAt": 1696089600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300223,
@@ -4004,7 +4553,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 127,
     "startAt": 1696089600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300224,
@@ -4017,7 +4567,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 128,
     "startAt": 1696089600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300230,
@@ -4030,7 +4581,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 157,
     "startAt": 1698768000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300231,
@@ -4043,7 +4595,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 158,
     "startAt": 1698768000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300232,
@@ -4056,7 +4609,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 159,
     "startAt": 1698768000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300233,
@@ -4069,7 +4623,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 160,
     "startAt": 1698768000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300234,
@@ -4082,7 +4637,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 161,
     "startAt": 1698768000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300240,
@@ -4095,7 +4651,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 162,
     "startAt": 1701360000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300241,
@@ -4108,7 +4665,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 163,
     "startAt": 1701360000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300242,
@@ -4121,7 +4679,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 164,
     "startAt": 1701360000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300243,
@@ -4134,7 +4693,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 165,
     "startAt": 1701360000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300244,
@@ -4147,7 +4707,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 166,
     "startAt": 1701360000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300260,
@@ -4160,7 +4721,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 169,
     "startAt": 1704038400000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300261,
@@ -4173,7 +4735,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 170,
     "startAt": 1704038400000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300262,
@@ -4186,7 +4749,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 171,
     "startAt": 1704038400000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300263,
@@ -4199,7 +4763,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 172,
     "startAt": 1704038400000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300264,
@@ -4212,7 +4777,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 173,
     "startAt": 1704038400000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300270,
@@ -4225,7 +4791,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 178,
     "startAt": 1703952000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300271,
@@ -4238,7 +4805,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 179,
     "startAt": 1703952000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300272,
@@ -4251,7 +4819,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 180,
     "startAt": 1703952000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300273,
@@ -4264,7 +4833,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 181,
     "startAt": 1703952000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300274,
@@ -4277,7 +4847,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 182,
     "startAt": 1703952000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300280,
@@ -4290,7 +4861,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 185,
     "startAt": 1709222400000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300281,
@@ -4303,7 +4875,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 186,
     "startAt": 1709222400000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300282,
@@ -4316,7 +4889,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 187,
     "startAt": 1709222400000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300283,
@@ -4329,7 +4903,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 188,
     "startAt": 1709222400000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300284,
@@ -4342,7 +4917,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 189,
     "startAt": 1709222400000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300320,
@@ -4355,7 +4931,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 195,
     "startAt": 1711900800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300321,
@@ -4368,7 +4945,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 196,
     "startAt": 1711900800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300322,
@@ -4381,7 +4959,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 197,
     "startAt": 1711900800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300323,
@@ -4394,7 +4973,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 198,
     "startAt": 1711900800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300324,
@@ -4407,7 +4987,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 199,
     "startAt": 1711900800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300330,
@@ -4420,7 +5001,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 200,
     "startAt": 1714492800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300331,
@@ -4433,7 +5015,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 201,
     "startAt": 1714492800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300332,
@@ -4446,7 +5029,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 202,
     "startAt": 1714492800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300333,
@@ -4459,7 +5043,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 203,
     "startAt": 1714492800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300334,
@@ -4472,7 +5057,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 204,
     "startAt": 1714492800000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300340,
@@ -4485,7 +5071,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 205,
     "startAt": 1717171200000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300341,
@@ -4498,7 +5085,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 206,
     "startAt": 1717171200000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300342,
@@ -4511,7 +5099,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 207,
     "startAt": 1717171200000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300343,
@@ -4524,7 +5113,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 208,
     "startAt": 1717171200000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300344,
@@ -4537,7 +5127,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 209,
     "startAt": 1717171200000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300350,
@@ -4550,7 +5141,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 210,
     "startAt": 1719763200000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300351,
@@ -4563,7 +5155,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 211,
     "startAt": 1719763200000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300352,
@@ -4576,7 +5169,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 212,
     "startAt": 1719763200000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300353,
@@ -4589,7 +5183,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 213,
     "startAt": 1719763200000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300354,
@@ -4602,7 +5197,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 214,
     "startAt": 1719763200000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300360,
@@ -4615,7 +5211,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 215,
     "startAt": 1722441600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300361,
@@ -4628,7 +5225,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 216,
     "startAt": 1722441600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300362,
@@ -4641,7 +5239,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 217,
     "startAt": 1722441600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300363,
@@ -4654,7 +5253,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 218,
     "startAt": 1722441600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300364,
@@ -4667,7 +5267,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 219,
     "startAt": 1722441600000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300370,
@@ -4680,7 +5281,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 223,
     "startAt": 1725120000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300371,
@@ -4693,7 +5295,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 224,
     "startAt": 1725120000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300372,
@@ -4706,7 +5309,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 225,
     "startAt": 1725120000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300373,
@@ -4719,7 +5323,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 226,
     "startAt": 1725120000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300374,
@@ -4732,7 +5337,8 @@
     "billableLimitResetIntervalType": "none",
     "resourceBoxId": 227,
     "startAt": 1725120000000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300460,
@@ -4749,7 +5355,8 @@
     "label": "期間限定",
     "startAt": 1730185200000,
     "endAt": 1730444399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
   },
   {
     "id": 300461,
@@ -4766,6 +5373,83 @@
     "label": "期間限定",
     "startAt": 1730185200000,
     "endAt": 1730444399000,
-    "purchaseOption": "exchange"
+    "purchaseOption": "exchange",
+    "billingShopTabChildId": 3000
+  },
+  {
+    "id": 400000,
+    "seq": 400000,
+    "billingShopItemType": "mysekai_colorful_pass",
+    "billingProductGroupId": 3001,
+    "name": "「世界」月卡",
+    "description": "直接获得：\n付费水晶×1390\n\n持续30天：\n解锁邀请函\n每天可获得的记忆1个→2个\n体力获得强化\n玩家等级经验值获得量提升\n转换器得到强化\n转换栏位1个→3个，转换时间减半\n解锁秘密商店\n预设布局保存数量3个→10个",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "day",
+    "billableLimitResetIntervalValue": 30,
+    "assetbundleName": "mysekai_colorful_pass",
+    "resourceBoxId": 400,
+    "startAt": 1758844800000,
+    "billingShopTabChildId": 7000
+  },
+  {
+    "id": 400001,
+    "seq": 400001,
+    "billingShopItemType": "mysekai_mission_pass",
+    "billingProductGroupId": 3002,
+    "name": "我的「世界」任务通行证",
+    "description": "【立即获得】\n付费水晶×2010\n心愿碎片×300\n\n【LIVE任务——我的世界通行证】\n当月的玩偶设计图\n空白设计图×2\n电锯×1\n凿岩机×1\n演出能量饮料（大）×50\n心愿碎片×700",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "mysekai_mission_pass",
+    "resourceBoxId": 401,
+    "startAt": 1759248000000,
+    "billingShopTabChildId": 5000
+  },
+  {
+    "id": 400002,
+    "seq": 400002,
+    "billingShopItemType": "live_mission_pass_and_mysekai_mission_pass",
+    "billingProductGroupId": 3003,
+    "name": "我的「世界」任务通行证+白金任务通行证・进阶版组合包",
+    "description": "【立即获得】\n付费水晶×4020\n心愿碎片×800\n免费水晶×800\n限定服装（其他3种颜色）\n演出积分×3900\n\n【LIVE任务——白金任务通行证】\n免费水晶×4200\n心愿碎片×500\n限定服装（原版颜色）\n\n【LIVE任务——我的世界通行证】\n当月的玩偶设计图\n空白设计图×2\n电锯×1\n凿岩机×1\n演出能量饮料（大）×50\n心愿碎片×700",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "mysekai_mission_pass",
+    "resourceBoxId": 402,
+    "startAt": 1759248000000,
+    "billingShopTabChildId": 4000
+  },
+  {
+    "id": 400003,
+    "seq": 400003,
+    "billingShopItemType": "live_mission_pass_after_mysekai_mission_pass",
+    "billingProductGroupId": 3004,
+    "name": "白金任务通行证・进阶版（优惠）",
+    "description": "【立即获得】\n付费水晶×2010\n心愿碎片×500\n免费水晶×800\n限定服装（其他3种颜色）\n演出积分×3900\n\n【LIVE任务——白金任务行】\n免费水晶×4200\n心愿碎皮×500\n限定服装（原版颜色）",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "mysekai_mission_pass",
+    "resourceBoxId": 90001,
+    "startAt": 1759248000000,
+    "billingShopTabChildId": 4000
+  },
+  {
+    "id": 400004,
+    "seq": 400004,
+    "billingShopItemType": "mysekai_mission_pass_after_live_mission_pass",
+    "billingProductGroupId": 3005,
+    "name": "我的「世界」任务通行证（优惠）",
+    "description": "【立即获得】\n付费水晶×2010\n心愿碎片×300\n\n【LIVE任务——我的世界行】\n当月的玩偶设计图\n空白设计图×2\n电锯×1\n凿岩机×1\n演出能量饮料（大）×50\n心愿碎片×700",
+    "billableLimitType": "count",
+    "billableLimitValue": 1,
+    "billableLimitResetIntervalType": "monthly",
+    "assetbundleName": "mysekai_mission_pass",
+    "resourceBoxId": 401,
+    "startAt": 1759248000000,
+    "billingShopTabChildId": 5000
   }
 ]
