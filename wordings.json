@@ -4289,7 +4289,7 @@
   },
   {
     "wordingKey": "MSG_WARNING_LEAVE_CHARACTER",
-    "value": "在这之后的剧情中，\n晓山瑞希将暂时不会出现在“现实世界”中。\n是否要继续观看？"
+    "value": "本剧情播放后，\n晓山瑞希将暂时不会出现在“现实世界”中。\n是否要继续观看？"
   },
   {
     "wordingKey": "MSG_WARNING_SKETCH_OTHER_PLAYER",
@@ -4565,7 +4565,7 @@
   },
   {
     "wordingKey": "SUPPORT_EVENT_BOOST_LIVE_RANK",
-    "value": "粉丝数       倍"
+    "value": "粉丝数         倍"
   },
   {
     "wordingKey": "SUPPORT_EVENT_GRAND_TOTAL",
@@ -5729,7 +5729,7 @@
   },
   {
     "wordingKey": "WORD_CANVAS_FINISHED_FILTER",
-    "value": "制作完成"
+    "value": "已制作"
   },
   {
     "wordingKey": "WORD_CANVAS_FINISH_FILTER",
@@ -19461,7 +19461,7 @@
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_DIVA_RANk_BONUS",
-    "value": "角色收藏等级奖励"
+    "value": "角色收藏等级加成"
   },
   {
     "wordingKey": "WORD_TOTAL_POWER_FIXTURE_BONUS",
