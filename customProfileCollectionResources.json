@@ -653,46 +653,6 @@
   },
   {
     "customProfileResourceType": "collection",
-    "id": 66,
-    "seq": 660,
-    "name": "“CRASH”银彩带",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_tape"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 67,
-    "seq": 670,
-    "name": "“CRASH”演唱会主题标志贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_logo"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 68,
-    "seq": 680,
-    "name": "“CRASH”主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 69,
-    "seq": 690,
-    "name": "“CRASH”挂画",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_tapestry"
-  },
-  {
-    "customProfileResourceType": "collection",
     "id": 70,
     "seq": 700,
     "name": "“CRASH”心羽的徽章",
@@ -787,7 +747,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_kohane_acrylicstand"
+    "fileName": "crash_kohane_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -797,7 +758,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_an_acrylicstand"
+    "fileName": "crash_an_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -807,7 +769,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_akito_acrylicstand"
+    "fileName": "crash_akito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -817,7 +780,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_toya_acrylicstand"
+    "fileName": "crash_toya_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -827,7 +791,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_miku_acrylicstand"
+    "fileName": "crash_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -837,7 +802,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_len_acrylicstand"
+    "fileName": "crash_len_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -847,7 +813,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_luka_acrylicstand"
+    "fileName": "crash_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -857,173 +824,14 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_kaito_acrylicstand"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 86,
-    "seq": 860,
-    "name": "“CRASH”钥匙圈",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_keyholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 87,
-    "seq": 870,
-    "name": "“CRASH”门票收纳夹",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_ticketholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 88,
-    "seq": 880,
-    "name": "“CRASH”毛巾",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/crash",
-    "fileName": "crash_towel"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 89,
-    "seq": 890,
-    "name": "“2nd ANNIVERSARY SPECIAL STAGE”银彩带",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_tape"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 90,
-    "seq": 900,
-    "name": "“2nd ANNIVERSARY SPECIAL STAGE”演唱会主题标志贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_logo"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 91,
-    "seq": 910,
-    "name": "“2nd ANNIVERSARY SPECIAL STAGE”主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 92,
-    "seq": 920,
-    "name": "“2nd ANNIVERSARY SPECIAL STAGE”虚拟歌手 主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_vs_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 93,
-    "seq": 930,
-    "name": "“2nd ANNIVERSARY SPECIAL STAGE”Leo\/need 主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_ln_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 94,
-    "seq": 940,
-    "name": "“2nd ANNIVERSARY SPECIAL STAGE”MORE MORE JUMP！ 主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_mmj_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 95,
-    "seq": 950,
-    "name": "“2nd ANNIVERSARY SPECIAL STAGE”Vivid BAD SQUAD 主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_vbs_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 96,
-    "seq": 960,
-    "name": "“2nd ANNIVERSARY SPECIAL STAGE”Wonderlands×Showtime 主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_wlst_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 97,
-    "seq": 970,
-    "name": "“2nd ANNIVERSARY SPECIAL STAGE”25点，Nightcord见。 主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_25nc_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 98,
-    "seq": 980,
-    "name": "“2nd ANNIVERSARY SPECIAL STAGE”挂画",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_tapestry"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 99,
-    "seq": 990,
-    "name": "“2nd ANNIVERSARY SPECIAL STAGE”钥匙圈",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_keyholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 100,
-    "seq": 1000,
-    "name": "“2nd ANNIVERSARY SPECIAL STAGE”门票收纳夹",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_ticketholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 101,
-    "seq": 1010,
-    "name": "“2nd ANNIVERSARY SPECIAL STAGE”毛巾",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_towel"
+    "fileName": "crash_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 102,
     "seq": 1020,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」未来的徽章",
+    "name": "「SPECIAL STAGE」未来的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1034,7 +842,7 @@
     "customProfileResourceType": "collection",
     "id": 103,
     "seq": 1030,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」铃的徽章",
+    "name": "「SPECIAL STAGE」铃的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1045,7 +853,7 @@
     "customProfileResourceType": "collection",
     "id": 104,
     "seq": 1040,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」连的徽章",
+    "name": "「SPECIAL STAGE」连的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1056,7 +864,7 @@
     "customProfileResourceType": "collection",
     "id": 105,
     "seq": 1050,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」流歌的徽章",
+    "name": "「SPECIAL STAGE」流歌的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1067,7 +875,7 @@
     "customProfileResourceType": "collection",
     "id": 106,
     "seq": 1060,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」MEIKO的徽章",
+    "name": "「SPECIAL STAGE」MEIKO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1078,7 +886,7 @@
     "customProfileResourceType": "collection",
     "id": 107,
     "seq": 1070,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」KAITO的徽章",
+    "name": "「SPECIAL STAGE」KAITO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1089,67 +897,73 @@
     "customProfileResourceType": "collection",
     "id": 108,
     "seq": 1080,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」未来的亚克力立牌",
+    "name": "「SPECIAL STAGE」未来的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_vs_miku_acrylicstand"
+    "fileName": "2ndanniversary_vs_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 109,
     "seq": 1090,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」铃的亚克力立牌",
+    "name": "「SPECIAL STAGE」铃的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_vs_rin_acrylicstand"
+    "fileName": "2ndanniversary_vs_rin_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 110,
     "seq": 1100,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」连的亚克力立牌",
+    "name": "「SPECIAL STAGE」连的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_vs_len_acrylicstand"
+    "fileName": "2ndanniversary_vs_len_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 111,
     "seq": 1110,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」流歌的亚克力立牌",
+    "name": "「SPECIAL STAGE」流歌的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_vs_luka_acrylicstand"
+    "fileName": "2ndanniversary_vs_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 112,
     "seq": 1120,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」MEIKO的亚克力立牌",
+    "name": "「SPECIAL STAGE」MEIKO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_vs_meiko_acrylicstand"
+    "fileName": "2ndanniversary_vs_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 113,
     "seq": 1130,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」KAITO的亚克力立牌",
+    "name": "「SPECIAL STAGE」KAITO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_vs_kaito_acrylicstand"
+    "fileName": "2ndanniversary_vs_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 114,
     "seq": 1140,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」一歌的徽章",
+    "name": "「SPECIAL STAGE」一歌的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1160,7 +974,7 @@
     "customProfileResourceType": "collection",
     "id": 115,
     "seq": 1150,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」咲希的徽章",
+    "name": "「SPECIAL STAGE」咲希的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1171,7 +985,7 @@
     "customProfileResourceType": "collection",
     "id": 116,
     "seq": 1160,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」穗波的徽章",
+    "name": "「SPECIAL STAGE」穗波的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1182,7 +996,7 @@
     "customProfileResourceType": "collection",
     "id": 117,
     "seq": 1170,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」志步的徽章",
+    "name": "「SPECIAL STAGE」志步的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1193,7 +1007,7 @@
     "customProfileResourceType": "collection",
     "id": 118,
     "seq": 1180,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」未来的徽章",
+    "name": "「SPECIAL STAGE」未来的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1204,7 +1018,7 @@
     "customProfileResourceType": "collection",
     "id": 119,
     "seq": 1190,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」流歌的徽章",
+    "name": "「SPECIAL STAGE」流歌的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1215,67 +1029,73 @@
     "customProfileResourceType": "collection",
     "id": 120,
     "seq": 1200,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」一歌的亚克力立牌",
+    "name": "「SPECIAL STAGE」一歌的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_ln_ichika_acrylicstand"
+    "fileName": "2ndanniversary_ln_ichika_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 121,
     "seq": 1210,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」咲希的亚克力立牌",
+    "name": "「SPECIAL STAGE」咲希的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_ln_saki_acrylicstand"
+    "fileName": "2ndanniversary_ln_saki_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 122,
     "seq": 1220,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」穗波的亚克力立牌",
+    "name": "「SPECIAL STAGE」穗波的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_ln_honami_acrylicstand"
+    "fileName": "2ndanniversary_ln_honami_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 123,
     "seq": 1230,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」志步的亚克力立牌",
+    "name": "「SPECIAL STAGE」志步的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_ln_shiho_acrylicstand"
+    "fileName": "2ndanniversary_ln_shiho_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 124,
     "seq": 1240,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」未来的亚克力立牌",
+    "name": "「SPECIAL STAGE」未来的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_ln_miku_acrylicstand"
+    "fileName": "2ndanniversary_ln_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 125,
     "seq": 1250,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」流歌的亚克力立牌",
+    "name": "「SPECIAL STAGE」流歌的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_ln_luka_acrylicstand"
+    "fileName": "2ndanniversary_ln_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 126,
     "seq": 1260,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」实乃理的徽章",
+    "name": "「SPECIAL STAGE」实乃理的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1286,7 +1106,7 @@
     "customProfileResourceType": "collection",
     "id": 127,
     "seq": 1270,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」遥的徽章",
+    "name": "「SPECIAL STAGE」遥的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1297,7 +1117,7 @@
     "customProfileResourceType": "collection",
     "id": 128,
     "seq": 1280,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」爱莉的徽章",
+    "name": "「SPECIAL STAGE」爱莉的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1308,7 +1128,7 @@
     "customProfileResourceType": "collection",
     "id": 129,
     "seq": 1290,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」雫的徽章",
+    "name": "「SPECIAL STAGE」雫的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1319,7 +1139,7 @@
     "customProfileResourceType": "collection",
     "id": 130,
     "seq": 1300,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」流歌的徽章",
+    "name": "「SPECIAL STAGE」流歌的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1330,7 +1150,7 @@
     "customProfileResourceType": "collection",
     "id": 131,
     "seq": 1310,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」KAITO的徽章",
+    "name": "「SPECIAL STAGE」KAITO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1341,67 +1161,73 @@
     "customProfileResourceType": "collection",
     "id": 132,
     "seq": 1320,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」实乃理的亚克力立牌",
+    "name": "「SPECIAL STAGE」实乃理的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_mmj_minori_acrylicstand"
+    "fileName": "2ndanniversary_mmj_minori_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 133,
     "seq": 1330,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」遥的亚克力立牌",
+    "name": "「SPECIAL STAGE」遥的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_mmj_haruka_acrylicstand"
+    "fileName": "2ndanniversary_mmj_haruka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 134,
     "seq": 1340,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」爱莉的亚克力立牌",
+    "name": "「SPECIAL STAGE」爱莉的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_mmj_airi_acrylicstand"
+    "fileName": "2ndanniversary_mmj_airi_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 135,
     "seq": 1350,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」雫的亚克力立牌",
+    "name": "「SPECIAL STAGE」雫的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_mmj_shizuku_acrylicstand"
+    "fileName": "2ndanniversary_mmj_shizuku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 136,
     "seq": 1360,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」流歌的亚克力立牌",
+    "name": "「SPECIAL STAGE」流歌的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_mmj_luka_acrylicstand"
+    "fileName": "2ndanniversary_mmj_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 137,
     "seq": 1370,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」KAITO的亚克力立牌",
+    "name": "「SPECIAL STAGE」KAITO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_mmj_kaito_acrylicstand"
+    "fileName": "2ndanniversary_mmj_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 138,
     "seq": 1380,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」心羽的徽章",
+    "name": "「SPECIAL STAGE」心羽的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1412,7 +1238,7 @@
     "customProfileResourceType": "collection",
     "id": 139,
     "seq": 1390,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」杏的徽章",
+    "name": "「SPECIAL STAGE」杏的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1423,7 +1249,7 @@
     "customProfileResourceType": "collection",
     "id": 140,
     "seq": 1400,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」彰人的徽章",
+    "name": "「SPECIAL STAGE」彰人的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1434,7 +1260,7 @@
     "customProfileResourceType": "collection",
     "id": 141,
     "seq": 1410,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」冬弥的徽章",
+    "name": "「SPECIAL STAGE」冬弥的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1445,7 +1271,7 @@
     "customProfileResourceType": "collection",
     "id": 142,
     "seq": 1420,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」铃的徽章",
+    "name": "「SPECIAL STAGE」铃的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1456,7 +1282,7 @@
     "customProfileResourceType": "collection",
     "id": 143,
     "seq": 1430,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」MEIKO的徽章",
+    "name": "「SPECIAL STAGE」MEIKO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1467,67 +1293,73 @@
     "customProfileResourceType": "collection",
     "id": 144,
     "seq": 1440,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」心羽的亚克力立牌",
+    "name": "「SPECIAL STAGE」心羽的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_vbs_kohane_acrylicstand"
+    "fileName": "2ndanniversary_vbs_kohane_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 145,
     "seq": 1450,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」杏的亚克力立牌",
+    "name": "「SPECIAL STAGE」杏的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_vbs_an_acrylicstand"
+    "fileName": "2ndanniversary_vbs_an_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 146,
     "seq": 1460,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」彰人的亚克力立牌",
+    "name": "「SPECIAL STAGE」彰人的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_vbs_akito_acrylicstand"
+    "fileName": "2ndanniversary_vbs_akito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 147,
     "seq": 1470,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」冬弥的亚克力立牌",
+    "name": "「SPECIAL STAGE」冬弥的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_vbs_toya_acrylicstand"
+    "fileName": "2ndanniversary_vbs_toya_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 148,
     "seq": 1480,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」铃的亚克力立牌",
+    "name": "「SPECIAL STAGE」铃的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_vbs_rin_acrylicstand"
+    "fileName": "2ndanniversary_vbs_rin_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 149,
     "seq": 1490,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」MEIKO的亚克力立牌",
+    "name": "「SPECIAL STAGE」MEIKO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_vbs_meiko_acrylicstand"
+    "fileName": "2ndanniversary_vbs_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 150,
     "seq": 1500,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」司的徽章",
+    "name": "「SPECIAL STAGE」司的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1538,7 +1370,7 @@
     "customProfileResourceType": "collection",
     "id": 151,
     "seq": 1510,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」笑梦的徽章",
+    "name": "「SPECIAL STAGE」笑梦的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1549,7 +1381,7 @@
     "customProfileResourceType": "collection",
     "id": 152,
     "seq": 1520,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」宁宁的徽章",
+    "name": "「SPECIAL STAGE」宁宁的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1560,7 +1392,7 @@
     "customProfileResourceType": "collection",
     "id": 153,
     "seq": 1530,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」类的徽章",
+    "name": "「SPECIAL STAGE」类的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1571,7 +1403,7 @@
     "customProfileResourceType": "collection",
     "id": 154,
     "seq": 1540,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」连的徽章",
+    "name": "「SPECIAL STAGE」连的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1582,7 +1414,7 @@
     "customProfileResourceType": "collection",
     "id": 155,
     "seq": 1550,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」KAITO的徽章",
+    "name": "「SPECIAL STAGE」KAITO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1593,67 +1425,73 @@
     "customProfileResourceType": "collection",
     "id": 156,
     "seq": 1560,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」司的亚克力立牌",
+    "name": "「SPECIAL STAGE」司的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_wlst_tsukasa_acrylicstand"
+    "fileName": "2ndanniversary_wlst_tsukasa_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 157,
     "seq": 1570,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」笑梦的亚克力立牌",
+    "name": "「SPECIAL STAGE」笑梦的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_wlst_emu_acrylicstand"
+    "fileName": "2ndanniversary_wlst_emu_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 158,
     "seq": 1580,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」宁宁的亚克力立牌",
+    "name": "「SPECIAL STAGE」宁宁的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_wlst_nene_acrylicstand"
+    "fileName": "2ndanniversary_wlst_nene_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 159,
     "seq": 1590,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」类的亚克力立牌",
+    "name": "「SPECIAL STAGE」类的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_wlst_rui_acrylicstand"
+    "fileName": "2ndanniversary_wlst_rui_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 160,
     "seq": 1600,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」连的亚克力立牌",
+    "name": "「SPECIAL STAGE」连的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_wlst_len_acrylicstand"
+    "fileName": "2ndanniversary_wlst_len_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 161,
     "seq": 1610,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」KAITO的亚克力立牌",
+    "name": "「SPECIAL STAGE」KAITO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_wlst_kaito_acrylicstand"
+    "fileName": "2ndanniversary_wlst_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 162,
     "seq": 1620,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」奏的徽章",
+    "name": "「SPECIAL STAGE」奏的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1664,7 +1502,7 @@
     "customProfileResourceType": "collection",
     "id": 163,
     "seq": 1630,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」真冬的徽章",
+    "name": "「SPECIAL STAGE」真冬的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1675,7 +1513,7 @@
     "customProfileResourceType": "collection",
     "id": 164,
     "seq": 1640,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」绘名的徽章",
+    "name": "「SPECIAL STAGE」绘名的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1686,7 +1524,7 @@
     "customProfileResourceType": "collection",
     "id": 165,
     "seq": 1650,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」瑞希的徽章",
+    "name": "「SPECIAL STAGE」瑞希的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1697,7 +1535,7 @@
     "customProfileResourceType": "collection",
     "id": 166,
     "seq": 1660,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」未来的徽章",
+    "name": "「SPECIAL STAGE」未来的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1708,7 +1546,7 @@
     "customProfileResourceType": "collection",
     "id": 167,
     "seq": 1670,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」MEIKO的徽章",
+    "name": "「SPECIAL STAGE」MEIKO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
@@ -1719,61 +1557,67 @@
     "customProfileResourceType": "collection",
     "id": 168,
     "seq": 1680,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」奏的亚克力立牌",
+    "name": "「SPECIAL STAGE」奏的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_25nc_kanade_acrylicstand"
+    "fileName": "2ndanniversary_25nc_kanade_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 169,
     "seq": 1690,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」真冬的亚克力立牌",
+    "name": "「SPECIAL STAGE」真冬的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_25nc_mafuyu_acrylicstand"
+    "fileName": "2ndanniversary_25nc_mafuyu_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 170,
     "seq": 1700,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」绘名的亚克力立牌",
+    "name": "「SPECIAL STAGE」绘名的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_25nc_ena_acrylicstand"
+    "fileName": "2ndanniversary_25nc_ena_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 171,
     "seq": 1710,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」瑞希的亚克力立牌",
+    "name": "「SPECIAL STAGE」瑞希的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_25nc_mizuki_acrylicstand"
+    "fileName": "2ndanniversary_25nc_mizuki_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 172,
     "seq": 1720,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」未来的亚克力立牌",
+    "name": "「SPECIAL STAGE」未来的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_25nc_miku_acrylicstand"
+    "fileName": "2ndanniversary_25nc_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 173,
     "seq": 1730,
-    "name": "「2nd ANNIVERSARY SPECIAL STAGE」MEIKO的亚克力立牌",
+    "name": "「SPECIAL STAGE」MEIKO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/2ndanniversary",
-    "fileName": "2ndanniversary_25nc_meiko_acrylicstand"
+    "fileName": "2ndanniversary_25nc_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2429,76 +2273,6 @@
   },
   {
     "customProfileResourceType": "collection",
-    "id": 239,
-    "seq": 2390,
-    "name": "“JUMPIN！”银彩带",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_tape"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 240,
-    "seq": 2400,
-    "name": "“JUMPIN！”演唱会主题标志贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_logo"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 241,
-    "seq": 2410,
-    "name": "“JUMPIN！”主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 242,
-    "seq": 2420,
-    "name": "“JUMPIN！”挂画",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_tapestry"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 243,
-    "seq": 2430,
-    "name": "“JUMPIN！”钥匙圈",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_keyholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 244,
-    "seq": 2440,
-    "name": "“JUMPIN！”门票收纳夹",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_ticketholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 245,
-    "seq": 2450,
-    "name": "“JUMPIN！”毛巾",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_towel"
-  },
-  {
-    "customProfileResourceType": "collection",
     "id": 246,
     "seq": 2460,
     "name": "“JUMPIN！”实乃理的徽章",
@@ -2593,7 +2367,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_minori_acrylicstand"
+    "fileName": "jumpin_minori_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2603,7 +2378,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_haruka_acrylicstand"
+    "fileName": "jumpin_haruka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2613,7 +2389,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_airi_acrylicstand"
+    "fileName": "jumpin_airi_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2623,7 +2400,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_shizuku_acrylicstand"
+    "fileName": "jumpin_shizuku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2633,7 +2411,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_miku_acrylicstand"
+    "fileName": "jumpin_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2643,7 +2422,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_rin_acrylicstand"
+    "fileName": "jumpin_rin_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2653,7 +2433,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_len_acrylicstand"
+    "fileName": "jumpin_len_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2663,77 +2444,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/jumpin",
-    "fileName": "jumpin_meiko_acrylicstand"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 262,
-    "seq": 2620,
-    "name": "「SPARKLE」银彩带",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_tape"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 263,
-    "seq": 2630,
-    "name": "「SPARKLE」演唱会主题标志贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_logo"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 264,
-    "seq": 2640,
-    "name": "「SPARKLE」主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 265,
-    "seq": 2650,
-    "name": "「SPARKLE」挂画",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_tapestry"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 266,
-    "seq": 2660,
-    "name": "「SPARKLE」钥匙圈",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_keyholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 267,
-    "seq": 2670,
-    "name": "「SPARKLE」门票收纳夹",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_ticketholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 268,
-    "seq": 2680,
-    "name": "「SPARKLE」毛巾",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_towel"
+    "fileName": "jumpin_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2831,7 +2543,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_ichika_acrylicstand"
+    "fileName": "sparkle_ichika_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2841,7 +2554,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_saki_acrylicstand"
+    "fileName": "sparkle_saki_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2851,7 +2565,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_honami_acrylicstand"
+    "fileName": "sparkle_honami_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2861,7 +2576,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_shiho_acrylicstand"
+    "fileName": "sparkle_shiho_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2871,7 +2587,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_miku_acrylicstand"
+    "fileName": "sparkle_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2881,7 +2598,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_luka_acrylicstand"
+    "fileName": "sparkle_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2891,7 +2609,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_meiko_acrylicstand"
+    "fileName": "sparkle_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -2901,77 +2620,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/sparkle",
-    "fileName": "sparkle_kaito_acrylicstand"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 285,
-    "seq": 2850,
-    "name": "「moment」银彩带",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_tape"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 286,
-    "seq": 2860,
-    "name": "「moment」演唱会主题标志贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_logo"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 287,
-    "seq": 2870,
-    "name": "「moment」主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 288,
-    "seq": 2880,
-    "name": "「moment」挂画",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_tapestry"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 289,
-    "seq": 2890,
-    "name": "「moment」钥匙圈",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_keyholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 290,
-    "seq": 2900,
-    "name": "「moment」门票收纳夹",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_ticketholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 291,
-    "seq": 2910,
-    "name": "「moment」毛巾",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_towel"
+    "fileName": "sparkle_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3069,7 +2719,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_kanade_acrylicstand"
+    "fileName": "moment_kanade_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3079,7 +2730,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_mafuyu_acrylicstand"
+    "fileName": "moment_mafuyu_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3089,7 +2741,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_ena_acrylicstand"
+    "fileName": "moment_ena_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3099,7 +2752,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_mizuki_acrylicstand"
+    "fileName": "moment_mizuki_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3109,7 +2763,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_miku_acrylicstand"
+    "fileName": "moment_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3119,7 +2774,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_rin_acrylicstand"
+    "fileName": "moment_rin_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3129,7 +2785,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_len_acrylicstand"
+    "fileName": "moment_len_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3139,77 +2796,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/moment",
-    "fileName": "moment_meiko_acrylicstand"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 308,
-    "seq": 3080,
-    "name": "「STORIES」银彩带",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_tape"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 309,
-    "seq": 3090,
-    "name": "「STORIES」演唱会主题标志贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_logo"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 310,
-    "seq": 3100,
-    "name": "「STORIES」主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 311,
-    "seq": 3110,
-    "name": "「STORIES」挂画",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_tapestry"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 312,
-    "seq": 3120,
-    "name": "「STORIES」钥匙圈",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_keyholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 313,
-    "seq": 3130,
-    "name": "「STORIES」门票收纳夹",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_ticketholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 314,
-    "seq": 3140,
-    "name": "「STORIES」毛巾",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_towel"
+    "fileName": "moment_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3307,7 +2895,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_tsukasa_acrylicstand"
+    "fileName": "stories_tsukasa_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3317,7 +2906,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_emu_acrylicstand"
+    "fileName": "stories_emu_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3327,7 +2917,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_nene_acrylicstand"
+    "fileName": "stories_nene_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3337,7 +2928,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_rui_acrylicstand"
+    "fileName": "stories_rui_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3347,7 +2939,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_miku_acrylicstand"
+    "fileName": "stories_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3357,7 +2950,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_rin_acrylicstand"
+    "fileName": "stories_rin_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3367,7 +2961,8 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_luka_acrylicstand"
+    "fileName": "stories_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -3377,143 +2972,14 @@
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/stories",
-    "fileName": "stories_kaito_acrylicstand"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 331,
-    "seq": 3310,
-    "name": "「3rd ANNIVERSARY Memorial Stage」银彩带",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_tape"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 332,
-    "seq": 3320,
-    "name": "「3rd ANNIVERSARY Memorial Stage」演唱会主题标志贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_logo"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 333,
-    "seq": 3330,
-    "name": "「3rd ANNIVERSARY Memorial Stage」主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 334,
-    "seq": 3340,
-    "name": "「3rd ANNIVERSARY Memorial Stage」虚拟歌手 主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vs_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 335,
-    "seq": 3350,
-    "name": "「3rd ANNIVERSARY Memorial Stage」Leo\/need 主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_leo_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 336,
-    "seq": 3360,
-    "name": "「3rd ANNIVERSARY Memorial Stage」MORE MORE JUMP！ 主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_mmj_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 337,
-    "seq": 3370,
-    "name": "「3rd ANNIVERSARY Memorial Stage」Vivid BAD SQUAD 主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vbs_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 338,
-    "seq": 3380,
-    "name": "「3rd ANNIVERSARY Memorial Stage」Wonderlands×Showtime 主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_wds_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 339,
-    "seq": 3390,
-    "name": "「3rd ANNIVERSARY Memorial Stage」25点，Nightcord见。 主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_nig_keyvisual"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 340,
-    "seq": 3400,
-    "name": "「3rd ANNIVERSARY Memorial Stage」挂画",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_tapestry"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 341,
-    "seq": 3410,
-    "name": "「3rd ANNIVERSARY Memorial Stage」钥匙圈",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_keyholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 342,
-    "seq": 3420,
-    "name": "「3rd ANNIVERSARY Memorial Stage」门票收纳夹",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_ticketholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 343,
-    "seq": 3430,
-    "name": "「3rd ANNIVERSARY Memorial Stage」毛巾",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_towel"
+    "fileName": "stories_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 344,
     "seq": 3440,
-    "name": "「3rd ANNIVERSARY Memorial Stage」未来的徽章",
+    "name": "「Memorial Stage」未来的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3524,7 +2990,7 @@
     "customProfileResourceType": "collection",
     "id": 345,
     "seq": 3450,
-    "name": "「3rd ANNIVERSARY Memorial Stage」铃的徽章",
+    "name": "「Memorial Stage」铃的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3535,7 +3001,7 @@
     "customProfileResourceType": "collection",
     "id": 346,
     "seq": 3460,
-    "name": "「3rd ANNIVERSARY Memorial Stage」连的徽章",
+    "name": "「Memorial Stage」连的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3546,7 +3012,7 @@
     "customProfileResourceType": "collection",
     "id": 347,
     "seq": 3470,
-    "name": "「3rd ANNIVERSARY Memorial Stage」流歌的徽章",
+    "name": "「Memorial Stage」流歌的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3557,7 +3023,7 @@
     "customProfileResourceType": "collection",
     "id": 348,
     "seq": 3480,
-    "name": "「3rd ANNIVERSARY Memorial Stage」MEIKO的徽章",
+    "name": "「Memorial Stage」MEIKO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3568,7 +3034,7 @@
     "customProfileResourceType": "collection",
     "id": 349,
     "seq": 3490,
-    "name": "「3rd ANNIVERSARY Memorial Stage」KAITO的徽章",
+    "name": "「Memorial Stage」KAITO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3579,67 +3045,73 @@
     "customProfileResourceType": "collection",
     "id": 350,
     "seq": 3500,
-    "name": "「3rd ANNIVERSARY Memorial Stage」未来的亚克力立牌",
+    "name": "「Memorial Stage」未来的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vs_miku_acrylicstand"
+    "fileName": "3rdanniversary_vs_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 351,
     "seq": 3510,
-    "name": "「3rd ANNIVERSARY Memorial Stage」铃的亚克力立牌",
+    "name": "「Memorial Stage」铃的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vs_rin_acrylicstand"
+    "fileName": "3rdanniversary_vs_rin_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 352,
     "seq": 3520,
-    "name": "「3rd ANNIVERSARY Memorial Stage」连的亚克力立牌",
+    "name": "「Memorial Stage」连的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vs_len_acrylicstand"
+    "fileName": "3rdanniversary_vs_len_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 353,
     "seq": 3530,
-    "name": "「3rd ANNIVERSARY Memorial Stage」流歌的亚克力立牌",
+    "name": "「Memorial Stage」流歌的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vs_luka_acrylicstand"
+    "fileName": "3rdanniversary_vs_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 354,
     "seq": 3540,
-    "name": "「3rd ANNIVERSARY Memorial Stage」MEIKO的亚克力立牌",
+    "name": "「Memorial Stage」MEIKO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vs_meiko_acrylicstand"
+    "fileName": "3rdanniversary_vs_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 355,
     "seq": 3550,
-    "name": "「3rd ANNIVERSARY Memorial Stage」KAITO的亚克力立牌",
+    "name": "「Memorial Stage」KAITO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vs_kaito_acrylicstand"
+    "fileName": "3rdanniversary_vs_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 356,
     "seq": 3560,
-    "name": "「3rd ANNIVERSARY Memorial Stage」一歌的徽章",
+    "name": "「Memorial Stage」一歌的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3650,7 +3122,7 @@
     "customProfileResourceType": "collection",
     "id": 357,
     "seq": 3570,
-    "name": "「3rd ANNIVERSARY Memorial Stage」咲希的徽章",
+    "name": "「Memorial Stage」咲希的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3661,7 +3133,7 @@
     "customProfileResourceType": "collection",
     "id": 358,
     "seq": 3580,
-    "name": "「3rd ANNIVERSARY Memorial Stage」穗波的徽章",
+    "name": "「Memorial Stage」穗波的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3672,7 +3144,7 @@
     "customProfileResourceType": "collection",
     "id": 359,
     "seq": 3590,
-    "name": "「3rd ANNIVERSARY Memorial Stage」志步的徽章",
+    "name": "「Memorial Stage」志步的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3683,7 +3155,7 @@
     "customProfileResourceType": "collection",
     "id": 360,
     "seq": 3600,
-    "name": "「3rd ANNIVERSARY Memorial Stage」未来的徽章",
+    "name": "「Memorial Stage」未来的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3694,7 +3166,7 @@
     "customProfileResourceType": "collection",
     "id": 361,
     "seq": 3610,
-    "name": "「3rd ANNIVERSARY Memorial Stage」铃的徽章",
+    "name": "「Memorial Stage」铃的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3705,7 +3177,7 @@
     "customProfileResourceType": "collection",
     "id": 362,
     "seq": 3620,
-    "name": "「3rd ANNIVERSARY Memorial Stage」连的徽章",
+    "name": "「Memorial Stage」连的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3716,7 +3188,7 @@
     "customProfileResourceType": "collection",
     "id": 363,
     "seq": 3630,
-    "name": "「3rd ANNIVERSARY Memorial Stage」流歌的徽章",
+    "name": "「Memorial Stage」流歌的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3727,7 +3199,7 @@
     "customProfileResourceType": "collection",
     "id": 364,
     "seq": 3640,
-    "name": "「3rd ANNIVERSARY Memorial Stage」MEIKO的徽章",
+    "name": "「Memorial Stage」MEIKO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3738,7 +3210,7 @@
     "customProfileResourceType": "collection",
     "id": 365,
     "seq": 3650,
-    "name": "「3rd ANNIVERSARY Memorial Stage」KAITO的徽章",
+    "name": "「Memorial Stage」KAITO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3749,107 +3221,117 @@
     "customProfileResourceType": "collection",
     "id": 366,
     "seq": 3660,
-    "name": "「3rd ANNIVERSARY Memorial Stage」一歌的亚克力立牌",
+    "name": "「Memorial Stage」一歌的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_leo_ichika_acrylicstand"
+    "fileName": "3rdanniversary_leo_ichika_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 367,
     "seq": 3670,
-    "name": "「3rd ANNIVERSARY Memorial Stage」咲希的亚克力立牌",
+    "name": "「Memorial Stage」咲希的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_leo_saki_acrylicstand"
+    "fileName": "3rdanniversary_leo_saki_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 368,
     "seq": 3680,
-    "name": "「3rd ANNIVERSARY Memorial Stage」穗波的亚克力立牌",
+    "name": "「Memorial Stage」穗波的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_leo_honami_acrylicstand"
+    "fileName": "3rdanniversary_leo_honami_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 369,
     "seq": 3690,
-    "name": "「3rd ANNIVERSARY Memorial Stage」志步的亚克力立牌",
+    "name": "「Memorial Stage」志步的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_leo_shiho_acrylicstand"
+    "fileName": "3rdanniversary_leo_shiho_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 370,
     "seq": 3700,
-    "name": "「3rd ANNIVERSARY Memorial Stage」未来的亚克力立牌",
+    "name": "「Memorial Stage」未来的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_leo_miku_acrylicstand"
+    "fileName": "3rdanniversary_leo_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 371,
     "seq": 3710,
-    "name": "「3rd ANNIVERSARY Memorial Stage」铃的亚克力立牌",
+    "name": "「Memorial Stage」铃的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_leo_rin_acrylicstand"
+    "fileName": "3rdanniversary_leo_rin_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 372,
     "seq": 3720,
-    "name": "「3rd ANNIVERSARY Memorial Stage」连的亚克力立牌",
+    "name": "「Memorial Stage」连的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_leo_len_acrylicstand"
+    "fileName": "3rdanniversary_leo_len_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 373,
     "seq": 3730,
-    "name": "「3rd ANNIVERSARY Memorial Stage」流歌的亚克力立牌",
+    "name": "「Memorial Stage」流歌的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_leo_luka_acrylicstand"
+    "fileName": "3rdanniversary_leo_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 374,
     "seq": 3740,
-    "name": "「3rd ANNIVERSARY Memorial Stage」MEIKO的亚克力立牌",
+    "name": "「Memorial Stage」MEIKO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_leo_meiko_acrylicstand"
+    "fileName": "3rdanniversary_leo_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 375,
     "seq": 3750,
-    "name": "「3rd ANNIVERSARY Memorial Stage」KAITO的亚克力立牌",
+    "name": "「Memorial Stage」KAITO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_leo_kaito_acrylicstand"
+    "fileName": "3rdanniversary_leo_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 376,
     "seq": 3760,
-    "name": "「3rd ANNIVERSARY Memorial Stage」实乃理的徽章",
+    "name": "「Memorial Stage」实乃理的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3860,7 +3342,7 @@
     "customProfileResourceType": "collection",
     "id": 377,
     "seq": 3770,
-    "name": "「3rd ANNIVERSARY Memorial Stage」遥的徽章",
+    "name": "「Memorial Stage」遥的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3871,7 +3353,7 @@
     "customProfileResourceType": "collection",
     "id": 378,
     "seq": 3780,
-    "name": "「3rd ANNIVERSARY Memorial Stage」爱莉的徽章",
+    "name": "「Memorial Stage」爱莉的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3882,7 +3364,7 @@
     "customProfileResourceType": "collection",
     "id": 379,
     "seq": 3790,
-    "name": "「3rd ANNIVERSARY Memorial Stage」雫的徽章",
+    "name": "「Memorial Stage」雫的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3893,7 +3375,7 @@
     "customProfileResourceType": "collection",
     "id": 380,
     "seq": 3800,
-    "name": "「3rd ANNIVERSARY Memorial Stage」未来的徽章",
+    "name": "「Memorial Stage」未来的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3904,7 +3386,7 @@
     "customProfileResourceType": "collection",
     "id": 381,
     "seq": 3810,
-    "name": "「3rd ANNIVERSARY Memorial Stage」铃的徽章",
+    "name": "「Memorial Stage」铃的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3915,7 +3397,7 @@
     "customProfileResourceType": "collection",
     "id": 382,
     "seq": 3820,
-    "name": "「3rd ANNIVERSARY Memorial Stage」连的徽章",
+    "name": "「Memorial Stage」连的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3926,7 +3408,7 @@
     "customProfileResourceType": "collection",
     "id": 383,
     "seq": 3830,
-    "name": "「3rd ANNIVERSARY Memorial Stage」流歌的徽章",
+    "name": "「Memorial Stage」流歌的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3937,7 +3419,7 @@
     "customProfileResourceType": "collection",
     "id": 384,
     "seq": 3840,
-    "name": "「3rd ANNIVERSARY Memorial Stage」MEIKO的徽章",
+    "name": "「Memorial Stage」MEIKO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3948,7 +3430,7 @@
     "customProfileResourceType": "collection",
     "id": 385,
     "seq": 3850,
-    "name": "「3rd ANNIVERSARY Memorial Stage」KAITO的徽章",
+    "name": "「Memorial Stage」KAITO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -3959,107 +3441,117 @@
     "customProfileResourceType": "collection",
     "id": 386,
     "seq": 3860,
-    "name": "「3rd ANNIVERSARY Memorial Stage」实乃理的亚克力立牌",
+    "name": "「Memorial Stage」实乃理的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_mmj_minori_acrylicstand"
+    "fileName": "3rdanniversary_mmj_minori_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 387,
     "seq": 3870,
-    "name": "「3rd ANNIVERSARY Memorial Stage」遥的亚克力立牌",
+    "name": "「Memorial Stage」遥的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_mmj_haruka_acrylicstand"
+    "fileName": "3rdanniversary_mmj_haruka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 388,
     "seq": 3880,
-    "name": "「3rd ANNIVERSARY Memorial Stage」爱莉的亚克力立牌",
+    "name": "「Memorial Stage」爱莉的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_mmj_airi_acrylicstand"
+    "fileName": "3rdanniversary_mmj_airi_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 389,
     "seq": 3890,
-    "name": "「3rd ANNIVERSARY Memorial Stage」雫的亚克力立牌",
+    "name": "「Memorial Stage」雫的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_mmj_shizuku_acrylicstand"
+    "fileName": "3rdanniversary_mmj_shizuku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 390,
     "seq": 3900,
-    "name": "「3rd ANNIVERSARY Memorial Stage」未来的亚克力立牌",
+    "name": "「Memorial Stage」未来的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_mmj_miku_acrylicstand"
+    "fileName": "3rdanniversary_mmj_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 391,
     "seq": 3910,
-    "name": "「3rd ANNIVERSARY Memorial Stage」铃的亚克力立牌",
+    "name": "「Memorial Stage」铃的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_mmj_rin_acrylicstand"
+    "fileName": "3rdanniversary_mmj_rin_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 392,
     "seq": 3920,
-    "name": "「3rd ANNIVERSARY Memorial Stage」连的亚克力立牌",
+    "name": "「Memorial Stage」连的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_mmj_len_acrylicstand"
+    "fileName": "3rdanniversary_mmj_len_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 393,
     "seq": 3930,
-    "name": "「3rd ANNIVERSARY Memorial Stage」流歌的亚克力立牌",
+    "name": "「Memorial Stage」流歌的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_mmj_luka_acrylicstand"
+    "fileName": "3rdanniversary_mmj_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 394,
     "seq": 3940,
-    "name": "「3rd ANNIVERSARY Memorial Stage」MEIKO的亚克力立牌",
+    "name": "「Memorial Stage」MEIKO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_mmj_meiko_acrylicstand"
+    "fileName": "3rdanniversary_mmj_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 395,
     "seq": 3950,
-    "name": "「3rd ANNIVERSARY Memorial Stage」KAITO的亚克力立牌",
+    "name": "「Memorial Stage」KAITO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_mmj_kaito_acrylicstand"
+    "fileName": "3rdanniversary_mmj_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 396,
     "seq": 3960,
-    "name": "「3rd ANNIVERSARY Memorial Stage」心羽的徽章",
+    "name": "「Memorial Stage」心羽的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4070,7 +3562,7 @@
     "customProfileResourceType": "collection",
     "id": 397,
     "seq": 3970,
-    "name": "「3rd ANNIVERSARY Memorial Stage」杏的徽章",
+    "name": "「Memorial Stage」杏的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4081,7 +3573,7 @@
     "customProfileResourceType": "collection",
     "id": 398,
     "seq": 3980,
-    "name": "「3rd ANNIVERSARY Memorial Stage」彰人的徽章",
+    "name": "「Memorial Stage」彰人的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4092,7 +3584,7 @@
     "customProfileResourceType": "collection",
     "id": 399,
     "seq": 3990,
-    "name": "「3rd ANNIVERSARY Memorial Stage」冬弥的徽章",
+    "name": "「Memorial Stage」冬弥的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4103,7 +3595,7 @@
     "customProfileResourceType": "collection",
     "id": 400,
     "seq": 4000,
-    "name": "「3rd ANNIVERSARY Memorial Stage」未来的徽章",
+    "name": "「Memorial Stage」未来的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4114,7 +3606,7 @@
     "customProfileResourceType": "collection",
     "id": 401,
     "seq": 4010,
-    "name": "「3rd ANNIVERSARY Memorial Stage」铃的徽章",
+    "name": "「Memorial Stage」铃的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4125,7 +3617,7 @@
     "customProfileResourceType": "collection",
     "id": 402,
     "seq": 4020,
-    "name": "「3rd ANNIVERSARY Memorial Stage」连的徽章",
+    "name": "「Memorial Stage」连的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4136,7 +3628,7 @@
     "customProfileResourceType": "collection",
     "id": 403,
     "seq": 4030,
-    "name": "「3rd ANNIVERSARY Memorial Stage」流歌的徽章",
+    "name": "「Memorial Stage」流歌的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4147,7 +3639,7 @@
     "customProfileResourceType": "collection",
     "id": 404,
     "seq": 4040,
-    "name": "「3rd ANNIVERSARY Memorial Stage」MEIKO的徽章",
+    "name": "「Memorial Stage」MEIKO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4158,7 +3650,7 @@
     "customProfileResourceType": "collection",
     "id": 405,
     "seq": 4050,
-    "name": "「3rd ANNIVERSARY Memorial Stage」KAITO的徽章",
+    "name": "「Memorial Stage」KAITO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4169,107 +3661,117 @@
     "customProfileResourceType": "collection",
     "id": 406,
     "seq": 4060,
-    "name": "「3rd ANNIVERSARY Memorial Stage」心羽的亚克力立牌",
+    "name": "「Memorial Stage」心羽的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vbs_kohane_acrylicstand"
+    "fileName": "3rdanniversary_vbs_kohane_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 407,
     "seq": 4070,
-    "name": "「3rd ANNIVERSARY Memorial Stage」杏的亚克力立牌",
+    "name": "「Memorial Stage」杏的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vbs_an_acrylicstand"
+    "fileName": "3rdanniversary_vbs_an_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 408,
     "seq": 4080,
-    "name": "「3rd ANNIVERSARY Memorial Stage」彰人的亚克力立牌",
+    "name": "「Memorial Stage」彰人的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vbs_akito_acrylicstand"
+    "fileName": "3rdanniversary_vbs_akito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 409,
     "seq": 4090,
-    "name": "「3rd ANNIVERSARY Memorial Stage」冬弥的亚克力立牌",
+    "name": "「Memorial Stage」冬弥的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vbs_toya_acrylicstand"
+    "fileName": "3rdanniversary_vbs_toya_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 410,
     "seq": 4100,
-    "name": "「3rd ANNIVERSARY Memorial Stage」未来的亚克力立牌",
+    "name": "「Memorial Stage」未来的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vbs_miku_acrylicstand"
+    "fileName": "3rdanniversary_vbs_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 411,
     "seq": 4110,
-    "name": "「3rd ANNIVERSARY Memorial Stage」铃的亚克力立牌",
+    "name": "「Memorial Stage」铃的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vbs_rin_acrylicstand"
+    "fileName": "3rdanniversary_vbs_rin_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 412,
     "seq": 4120,
-    "name": "「3rd ANNIVERSARY Memorial Stage」连的亚克力立牌",
+    "name": "「Memorial Stage」连的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vbs_len_acrylicstand"
+    "fileName": "3rdanniversary_vbs_len_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 413,
     "seq": 4130,
-    "name": "「3rd ANNIVERSARY Memorial Stage」流歌的亚克力立牌",
+    "name": "「Memorial Stage」流歌的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vbs_luka_acrylicstand"
+    "fileName": "3rdanniversary_vbs_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 414,
     "seq": 4140,
-    "name": "「3rd ANNIVERSARY Memorial Stage」MEIKO的亚克力立牌",
+    "name": "「Memorial Stage」MEIKO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vbs_meiko_acrylicstand"
+    "fileName": "3rdanniversary_vbs_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 415,
     "seq": 4150,
-    "name": "「3rd ANNIVERSARY Memorial Stage」KAITO的亚克力立牌",
+    "name": "「Memorial Stage」KAITO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_vbs_kaito_acrylicstand"
+    "fileName": "3rdanniversary_vbs_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 416,
     "seq": 4160,
-    "name": "「3rd ANNIVERSARY Memorial Stage」司的徽章",
+    "name": "「Memorial Stage」司的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4280,7 +3782,7 @@
     "customProfileResourceType": "collection",
     "id": 417,
     "seq": 4170,
-    "name": "「3rd ANNIVERSARY Memorial Stage」笑梦的徽章",
+    "name": "「Memorial Stage」笑梦的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4291,7 +3793,7 @@
     "customProfileResourceType": "collection",
     "id": 418,
     "seq": 4180,
-    "name": "「3rd ANNIVERSARY Memorial Stage」宁宁的徽章",
+    "name": "「Memorial Stage」宁宁的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4302,7 +3804,7 @@
     "customProfileResourceType": "collection",
     "id": 419,
     "seq": 4190,
-    "name": "「3rd ANNIVERSARY Memorial Stage」类的徽章",
+    "name": "「Memorial Stage」类的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4313,7 +3815,7 @@
     "customProfileResourceType": "collection",
     "id": 420,
     "seq": 4200,
-    "name": "「3rd ANNIVERSARY Memorial Stage」未来的徽章",
+    "name": "「Memorial Stage」未来的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4324,7 +3826,7 @@
     "customProfileResourceType": "collection",
     "id": 421,
     "seq": 4210,
-    "name": "「3rd ANNIVERSARY Memorial Stage」铃的徽章",
+    "name": "「Memorial Stage」铃的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4335,7 +3837,7 @@
     "customProfileResourceType": "collection",
     "id": 422,
     "seq": 4220,
-    "name": "「3rd ANNIVERSARY Memorial Stage」连的徽章",
+    "name": "「Memorial Stage」连的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4346,7 +3848,7 @@
     "customProfileResourceType": "collection",
     "id": 423,
     "seq": 4230,
-    "name": "「3rd ANNIVERSARY Memorial Stage」流歌的徽章",
+    "name": "「Memorial Stage」流歌的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4357,7 +3859,7 @@
     "customProfileResourceType": "collection",
     "id": 424,
     "seq": 4240,
-    "name": "「3rd ANNIVERSARY Memorial Stage」MEIKO的徽章",
+    "name": "「Memorial Stage」MEIKO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4368,7 +3870,7 @@
     "customProfileResourceType": "collection",
     "id": 425,
     "seq": 4250,
-    "name": "「3rd ANNIVERSARY Memorial Stage」KAITO的徽章",
+    "name": "「Memorial Stage」KAITO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4379,107 +3881,117 @@
     "customProfileResourceType": "collection",
     "id": 426,
     "seq": 4260,
-    "name": "「3rd ANNIVERSARY Memorial Stage」司的亚克力立牌",
+    "name": "「Memorial Stage」司的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_wds_tsukasa_acrylicstand"
+    "fileName": "3rdanniversary_wds_tsukasa_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 427,
     "seq": 4270,
-    "name": "「3rd ANNIVERSARY Memorial Stage」笑梦的亚克力立牌",
+    "name": "「Memorial Stage」笑梦的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_wds_emu_acrylicstand"
+    "fileName": "3rdanniversary_wds_emu_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 428,
     "seq": 4280,
-    "name": "「3rd ANNIVERSARY Memorial Stage」宁宁的亚克力立牌",
+    "name": "「Memorial Stage」宁宁的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_wds_nene_acrylicstand"
+    "fileName": "3rdanniversary_wds_nene_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 429,
     "seq": 4290,
-    "name": "「3rd ANNIVERSARY Memorial Stage」类的亚克力立牌",
+    "name": "「Memorial Stage」类的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_wds_rui_acrylicstand"
+    "fileName": "3rdanniversary_wds_rui_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 430,
     "seq": 4300,
-    "name": "「3rd ANNIVERSARY Memorial Stage」未来的亚克力立牌",
+    "name": "「Memorial Stage」未来的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_wds_miku_acrylicstand"
+    "fileName": "3rdanniversary_wds_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 431,
     "seq": 4310,
-    "name": "「3rd ANNIVERSARY Memorial Stage」铃的亚克力立牌",
+    "name": "「Memorial Stage」铃的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_wds_rin_acrylicstand"
+    "fileName": "3rdanniversary_wds_rin_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 432,
     "seq": 4320,
-    "name": "「3rd ANNIVERSARY Memorial Stage」连的亚克力立牌",
+    "name": "「Memorial Stage」连的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_wds_len_acrylicstand"
+    "fileName": "3rdanniversary_wds_len_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 433,
     "seq": 4330,
-    "name": "「3rd ANNIVERSARY Memorial Stage」流歌的亚克力立牌",
+    "name": "「Memorial Stage」流歌的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_wds_luka_acrylicstand"
+    "fileName": "3rdanniversary_wds_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 434,
     "seq": 4340,
-    "name": "「3rd ANNIVERSARY Memorial Stage」MEIKO的亚克力立牌",
+    "name": "「Memorial Stage」MEIKO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_wds_meiko_acrylicstand"
+    "fileName": "3rdanniversary_wds_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 435,
     "seq": 4350,
-    "name": "「3rd ANNIVERSARY Memorial Stage」KAITO的亚克力立牌",
+    "name": "「Memorial Stage」KAITO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_wds_kaito_acrylicstand"
+    "fileName": "3rdanniversary_wds_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 436,
     "seq": 4360,
-    "name": "「3rd ANNIVERSARY Memorial Stage」奏的徽章",
+    "name": "「Memorial Stage」奏的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4490,7 +4002,7 @@
     "customProfileResourceType": "collection",
     "id": 437,
     "seq": 4370,
-    "name": "「3rd ANNIVERSARY Memorial Stage」真冬的徽章",
+    "name": "「Memorial Stage」真冬的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4501,7 +4013,7 @@
     "customProfileResourceType": "collection",
     "id": 438,
     "seq": 4380,
-    "name": "「3rd ANNIVERSARY Memorial Stage」绘名的徽章",
+    "name": "「Memorial Stage」绘名的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4512,7 +4024,7 @@
     "customProfileResourceType": "collection",
     "id": 439,
     "seq": 4390,
-    "name": "「3rd ANNIVERSARY Memorial Stage」瑞希的徽章",
+    "name": "「Memorial Stage」瑞希的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4523,7 +4035,7 @@
     "customProfileResourceType": "collection",
     "id": 440,
     "seq": 4400,
-    "name": "「3rd ANNIVERSARY Memorial Stage」未来的徽章",
+    "name": "「Memorial Stage」未来的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4534,7 +4046,7 @@
     "customProfileResourceType": "collection",
     "id": 441,
     "seq": 4410,
-    "name": "「3rd ANNIVERSARY Memorial Stage」铃的徽章",
+    "name": "「Memorial Stage」铃的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4545,7 +4057,7 @@
     "customProfileResourceType": "collection",
     "id": 442,
     "seq": 4420,
-    "name": "「3rd ANNIVERSARY Memorial Stage」连的徽章",
+    "name": "「Memorial Stage」连的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4556,7 +4068,7 @@
     "customProfileResourceType": "collection",
     "id": 443,
     "seq": 4430,
-    "name": "「3rd ANNIVERSARY Memorial Stage」流歌的徽章",
+    "name": "「Memorial Stage」流歌的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4567,7 +4079,7 @@
     "customProfileResourceType": "collection",
     "id": 444,
     "seq": 4440,
-    "name": "「3rd ANNIVERSARY Memorial Stage」MEIKO的徽章",
+    "name": "「Memorial Stage」MEIKO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4578,7 +4090,7 @@
     "customProfileResourceType": "collection",
     "id": 445,
     "seq": 4450,
-    "name": "「3rd ANNIVERSARY Memorial Stage」KAITO的徽章",
+    "name": "「Memorial Stage」KAITO的徽章",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
@@ -4589,101 +4101,111 @@
     "customProfileResourceType": "collection",
     "id": 446,
     "seq": 4460,
-    "name": "「3rd ANNIVERSARY Memorial Stage」奏的亚克力立牌",
+    "name": "「Memorial Stage」奏的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_nig_kanade_acrylicstand"
+    "fileName": "3rdanniversary_nig_kanade_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 447,
     "seq": 4470,
-    "name": "「3rd ANNIVERSARY Memorial Stage」真冬的亚克力立牌",
+    "name": "「Memorial Stage」真冬的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_nig_mafuyu_acrylicstand"
+    "fileName": "3rdanniversary_nig_mafuyu_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 448,
     "seq": 4480,
-    "name": "「3rd ANNIVERSARY Memorial Stage」绘名的亚克力立牌",
+    "name": "「Memorial Stage」绘名的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_nig_ena_acrylicstand"
+    "fileName": "3rdanniversary_nig_ena_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 449,
     "seq": 4490,
-    "name": "「3rd ANNIVERSARY Memorial Stage」瑞希的亚克力立牌",
+    "name": "「Memorial Stage」瑞希的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_nig_mizuki_acrylicstand"
+    "fileName": "3rdanniversary_nig_mizuki_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 450,
     "seq": 4500,
-    "name": "「3rd ANNIVERSARY Memorial Stage」未来的亚克力立牌",
+    "name": "「Memorial Stage」未来的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_nig_miku_acrylicstand"
+    "fileName": "3rdanniversary_nig_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 451,
     "seq": 4510,
-    "name": "「3rd ANNIVERSARY Memorial Stage」铃的亚克力立牌",
+    "name": "「Memorial Stage」铃的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_nig_rin_acrylicstand"
+    "fileName": "3rdanniversary_nig_rin_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 452,
     "seq": 4520,
-    "name": "「3rd ANNIVERSARY Memorial Stage」连的亚克力立牌",
+    "name": "「Memorial Stage」连的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_nig_len_acrylicstand"
+    "fileName": "3rdanniversary_nig_len_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 453,
     "seq": 4530,
-    "name": "「3rd ANNIVERSARY Memorial Stage」流歌的亚克力立牌",
+    "name": "「Memorial Stage」流歌的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_nig_luka_acrylicstand"
+    "fileName": "3rdanniversary_nig_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 454,
     "seq": 4540,
-    "name": "「3rd ANNIVERSARY Memorial Stage」MEIKO的亚克力立牌",
+    "name": "「Memorial Stage」MEIKO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_nig_meiko_acrylicstand"
+    "fileName": "3rdanniversary_nig_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
     "id": 455,
     "seq": 4550,
-    "name": "「3rd ANNIVERSARY Memorial Stage」KAITO的亚克力立牌",
+    "name": "「Memorial Stage」KAITO的亚克力立牌",
     "pronunciation": "かり",
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/3rdanniversary",
-    "fileName": "3rdanniversary_nig_kaito_acrylicstand"
+    "fileName": "3rdanniversary_nig_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -5389,105 +4911,6 @@
   },
   {
     "customProfileResourceType": "collection",
-    "id": 526,
-    "seq": 5260,
-    "name": "“RESONANCE BEATS!!”银彩带",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
-    "fileName": "lon_vbs_tape",
-    "customProfileResourceCollectionType": "silver_tape"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 527,
-    "seq": 5270,
-    "name": "“RESONANCE BEATS!!”演唱会主题标志贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
-    "fileName": "lon_vbs_logo",
-    "customProfileResourceCollectionType": "sticker"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 528,
-    "seq": 5280,
-    "name": "“RESONANCE BEATS!!”主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
-    "fileName": "lon_vbs_keyvisual",
-    "customProfileResourceCollectionType": "sticker"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 529,
-    "seq": 5290,
-    "name": "“RESONANCE BEATS!!”Leo\/need 主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
-    "fileName": "lon_vbs_lon_keyvisual",
-    "customProfileResourceCollectionType": "sticker"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 530,
-    "seq": 5300,
-    "name": "“RESONANCE BEATS!!”Vivid BAD SQUAD 主视觉图贴纸",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
-    "fileName": "lon_vbs_vbs_keyvisual",
-    "customProfileResourceCollectionType": "sticker"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 531,
-    "seq": 5310,
-    "name": "“RESONANCE BEATS!!”挂画",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
-    "fileName": "lon_vbs_tapestry",
-    "customProfileResourceCollectionType": "tapestry"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 532,
-    "seq": 5320,
-    "name": "“RESONANCE BEATS!!”钥匙圈",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
-    "fileName": "lon_vbs_keyholder",
-    "customProfileResourceCollectionType": "keyholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 533,
-    "seq": 5330,
-    "name": "“RESONANCE BEATS!!”门票收纳夹",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
-    "fileName": "lon_vbs_ticketholder",
-    "customProfileResourceCollectionType": "ticket_holder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 534,
-    "seq": 5340,
-    "name": "“RESONANCE BEATS!!”毛巾",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
-    "fileName": "lon_vbs_towel",
-    "customProfileResourceCollectionType": "towel"
-  },
-  {
-    "customProfileResourceType": "collection",
     "id": 535,
     "seq": 5350,
     "name": "“RESONANCE BEATS!!”一歌的徽章",
@@ -5605,7 +5028,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_lon_len_canbadge",
-    "customProfileResourceCollectionType": "can_badge"
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -5616,7 +5039,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_lon_luka_canbadge",
-    "customProfileResourceCollectionType": "can_badge"
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -5627,7 +5050,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_lon_meiko_canbadge",
-    "customProfileResourceCollectionType": "can_badge"
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -5638,7 +5061,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_lon_kaito_canbadge",
-    "customProfileResourceCollectionType": "can_badge"
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -5649,7 +5072,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_vbs_miku_canbadge",
-    "customProfileResourceCollectionType": "can_badge"
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -5660,7 +5083,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_vbs_rin_canbadge",
-    "customProfileResourceCollectionType": "can_badge"
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -5671,7 +5094,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_vbs_len_canbadge",
-    "customProfileResourceCollectionType": "can_badge"
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -5682,7 +5105,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_vbs_luka_canbadge",
-    "customProfileResourceCollectionType": "can_badge"
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -5693,7 +5116,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_vbs_meiko_canbadge",
-    "customProfileResourceCollectionType": "can_badge"
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -5704,7 +5127,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_vbs_kaito_canbadge",
-    "customProfileResourceCollectionType": "can_badge"
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
@@ -5715,7 +5138,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_lon_ichika_acrylicstand",
-    "customProfileResourceCollectionType": "acrylic_stand"
+    "customProfileResourceCollectionType": "can_badge"
   },
   {
     "customProfileResourceType": "collection",
@@ -5726,7 +5149,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_lon_saki_acrylicstand",
-    "customProfileResourceCollectionType": "acrylic_stand"
+    "customProfileResourceCollectionType": "can_badge"
   },
   {
     "customProfileResourceType": "collection",
@@ -5737,7 +5160,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_lon_honami_acrylicstand",
-    "customProfileResourceCollectionType": "acrylic_stand"
+    "customProfileResourceCollectionType": "can_badge"
   },
   {
     "customProfileResourceType": "collection",
@@ -5748,7 +5171,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_lon_shiho_acrylicstand",
-    "customProfileResourceCollectionType": "acrylic_stand"
+    "customProfileResourceCollectionType": "can_badge"
   },
   {
     "customProfileResourceType": "collection",
@@ -5759,7 +5182,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_vbs_kohane_acrylicstand",
-    "customProfileResourceCollectionType": "acrylic_stand"
+    "customProfileResourceCollectionType": "can_badge"
   },
   {
     "customProfileResourceType": "collection",
@@ -5770,7 +5193,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_vbs_an_acrylicstand",
-    "customProfileResourceCollectionType": "acrylic_stand"
+    "customProfileResourceCollectionType": "can_badge"
   },
   {
     "customProfileResourceType": "collection",
@@ -5781,7 +5204,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_vbs_akito_acrylicstand",
-    "customProfileResourceCollectionType": "acrylic_stand"
+    "customProfileResourceCollectionType": "can_badge"
   },
   {
     "customProfileResourceType": "collection",
@@ -5792,7 +5215,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_vbs_toya_acrylicstand",
-    "customProfileResourceCollectionType": "acrylic_stand"
+    "customProfileResourceCollectionType": "can_badge"
   },
   {
     "customProfileResourceType": "collection",
@@ -5803,7 +5226,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_lon_miku_acrylicstand",
-    "customProfileResourceCollectionType": "acrylic_stand"
+    "customProfileResourceCollectionType": "can_badge"
   },
   {
     "customProfileResourceType": "collection",
@@ -5814,7 +5237,7 @@
     "resourceLoadType": "assetbundle",
     "resourceLoadVal": "custom_profile\/collection\/resonance-beats",
     "fileName": "lon_vbs_lon_rin_acrylicstand",
-    "customProfileResourceCollectionType": "acrylic_stand"
+    "customProfileResourceCollectionType": "can_badge"
   },
   {
     "customProfileResourceType": "collection",
@@ -7160,17 +6583,6 @@
   },
   {
     "customProfileResourceType": "collection",
-    "id": 699,
-    "seq": 6990,
-    "name": "「半周年纪念」银彩带",
-    "pronunciation": "かり",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/4thanniversary",
-    "fileName": "4thanniversary_tape",
-    "customProfileResourceCollectionType": "silver_tape"
-  },
-  {
-    "customProfileResourceType": "collection",
     "id": 700,
     "seq": 7000,
     "name": "「半周年纪念」初音未来的纪念银彩带",
@@ -8120,105 +7532,6 @@
   },
   {
     "customProfileResourceType": "collection",
-    "id": 792,
-    "seq": 7920,
-    "name": "“Ensemble in SEKAI”银彩带",
-    "pronunciation": "あんさんぶるいんせかいぎんてーぷ",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/collab001",
-    "fileName": "collab_es_tape",
-    "customProfileResourceCollectionType": "silver_tape"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 793,
-    "seq": 7930,
-    "name": "“Ensemble in SEKAI”演唱会主题标志贴纸",
-    "pronunciation": "あんさんぶるいんせかいらいぶろごすてっかー",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/collab001",
-    "fileName": "collab_es_logo",
-    "customProfileResourceCollectionType": "sticker"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 794,
-    "seq": 7940,
-    "name": "“Ensemble in SEKAI”主视觉图贴纸",
-    "pronunciation": "あんさんぶるいんせかいきーびじゅあるすてっかー",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/collab001",
-    "fileName": "collab_es_keyvisual",
-    "customProfileResourceCollectionType": "sticker"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 795,
-    "seq": 7950,
-    "name": "“Ensemble in SEKAI”初音未来：缤纷舞台主视觉图贴纸",
-    "pronunciation": "あんさんぶるいんせかいぷろせかきーびじゅあるすてっかー",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/collab001",
-    "fileName": "collab_es_pjsekai_keyvisual",
-    "customProfileResourceCollectionType": "sticker"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 796,
-    "seq": 7960,
-    "name": "“Ensemble in SEKAI”偶像梦幻祭2主视觉图贴纸",
-    "pronunciation": "あんさんぶるいんせかいあんすたきーびじゅあるすてっかー",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/collab001",
-    "fileName": "collab_es_es_keyvisual",
-    "customProfileResourceCollectionType": "sticker"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 797,
-    "seq": 7970,
-    "name": "“Ensemble in SEKAI”挂画",
-    "pronunciation": "あんさんぶるいんせかいたぺすとりー",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/collab001",
-    "fileName": "collab_es_tapestry",
-    "customProfileResourceCollectionType": "tapestry"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 798,
-    "seq": 7980,
-    "name": "“Ensemble in SEKAI”钥匙圈",
-    "pronunciation": "あんさんぶるいんせかいきーほるだー",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/collab001",
-    "fileName": "collab_es_keyholder",
-    "customProfileResourceCollectionType": "keyholder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 799,
-    "seq": 7990,
-    "name": "“Ensemble in SEKAI”门票收纳夹",
-    "pronunciation": "あんさんぶるいんせかいちけっとほるだー",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/collab001",
-    "fileName": "collab_es_ticketholder",
-    "customProfileResourceCollectionType": "ticket_holder"
-  },
-  {
-    "customProfileResourceType": "collection",
-    "id": 800,
-    "seq": 8000,
-    "name": "“Ensemble in SEKAI”毛巾",
-    "pronunciation": "あんさんぶるいんせかいたおる",
-    "resourceLoadType": "assetbundle",
-    "resourceLoadVal": "custom_profile\/collection\/collab001",
-    "fileName": "collab_es_towel",
-    "customProfileResourceCollectionType": "towel"
-  },
-  {
-    "customProfileResourceType": "collection",
     "id": 801,
     "seq": 8010,
     "name": "“Ensemble in SEKAI”彰人的徽章",
@@ -8479,6 +7792,358 @@
   },
   {
     "customProfileResourceType": "collection",
+    "id": 834,
+    "seq": 8340,
+    "name": "「Dreamscape」奏的徽章",
+    "pronunciation": "どりーむすけーぷかなでのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_kanade_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 835,
+    "seq": 8350,
+    "name": "「Dreamscape」真冬的徽章",
+    "pronunciation": "どりーむすけーぷまふゆのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_mafuyu_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 836,
+    "seq": 8360,
+    "name": "「Dreamscape」绘名的徽章",
+    "pronunciation": "どりーむすけーぷえなのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_ena_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 837,
+    "seq": 8370,
+    "name": "「Dreamscape」瑞希的徽章",
+    "pronunciation": "どりーむすけーぷみずきのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_mizuki_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 838,
+    "seq": 8380,
+    "name": "「Dreamscape」初音未来的徽章",
+    "pronunciation": "どりーむすけーぷみくのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_miku_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 839,
+    "seq": 8390,
+    "name": "「Dreamscape」镜音铃的徽章",
+    "pronunciation": "どりーむすけーぷりんのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_rin_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 840,
+    "seq": 8400,
+    "name": "「Dreamscape」镜音连的徽章",
+    "pronunciation": "どりーむすけーぷれんのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_len_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 841,
+    "seq": 8410,
+    "name": "「Dreamscape」流歌的徽章",
+    "pronunciation": "どりーむすけーぷるかのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_luka_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 842,
+    "seq": 8420,
+    "name": "「Dreamscape」MEIKO的徽章",
+    "pronunciation": "どりーむすけーぷめいこのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_meiko_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 843,
+    "seq": 8430,
+    "name": "「Dreamscape」KAITO的徽章",
+    "pronunciation": "どりーむすけーぷかいとのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_kaito_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 844,
+    "seq": 8440,
+    "name": "「Dreamscape」奏的亚克力立牌",
+    "pronunciation": "どりーむすけーぷかなでのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_kanade_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 845,
+    "seq": 8450,
+    "name": "「Dreamscape」真冬的亚克力立牌",
+    "pronunciation": "どりーむすけーぷまふゆのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_mafuyu_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 846,
+    "seq": 8460,
+    "name": "「Dreamscape」绘名的亚克力立牌",
+    "pronunciation": "どりーむすけーぷえなのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_ena_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 847,
+    "seq": 8470,
+    "name": "「Dreamscape」瑞希的亚克力立牌",
+    "pronunciation": "どりーむすけーぷみずきのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_mizuki_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 848,
+    "seq": 8480,
+    "name": "「Dreamscape」初音未来的亚克力立牌",
+    "pronunciation": "どりーむすけーぷみくのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 849,
+    "seq": 8490,
+    "name": "「Dreamscape」镜音铃的亚克力立牌",
+    "pronunciation": "どりーむすけーぷりんのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_rin_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 850,
+    "seq": 8500,
+    "name": "「Dreamscape」镜音连的亚克力立牌",
+    "pronunciation": "どりーむすけーぷれんのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_len_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 851,
+    "seq": 8510,
+    "name": "「Dreamscape」流歌的亚克力立牌",
+    "pronunciation": "どりーむすけーぷるかのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 852,
+    "seq": 8520,
+    "name": "「Dreamscape」MEIKO的亚克力立牌",
+    "pronunciation": "どりーむすけーぷめいこのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 853,
+    "seq": 8530,
+    "name": "「Dreamscape」KAITO的亚克力立牌",
+    "pronunciation": "どりーむすけーぷかいとのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_nig_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 854,
+    "seq": 8540,
+    "name": "「Dreamscape」初音未来的徽章",
+    "pronunciation": "どりーむすけーぷみくのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_vs_miku_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 855,
+    "seq": 8550,
+    "name": "「Dreamscape」镜音铃的徽章",
+    "pronunciation": "どりーむすけーぷりんのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_vs_rin_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 856,
+    "seq": 8560,
+    "name": "「Dreamscape」镜音连的徽章",
+    "pronunciation": "どりーむすけーぷれんのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_vs_len_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 857,
+    "seq": 8570,
+    "name": "「Dreamscape」流歌的徽章",
+    "pronunciation": "どりーむすけーぷるかのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_vs_luka_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 858,
+    "seq": 8580,
+    "name": "「Dreamscape」MEIKO的徽章",
+    "pronunciation": "どりーむすけーぷめいこのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_vs_meiko_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 859,
+    "seq": 8590,
+    "name": "「Dreamscape」KAITO的徽章",
+    "pronunciation": "どりーむすけーぷかいとのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_vs_kaito_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 860,
+    "seq": 8600,
+    "name": "「Dreamscape」初音未来的亚克力立牌",
+    "pronunciation": "どりーむすけーぷみくのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_vs_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 861,
+    "seq": 8610,
+    "name": "「Dreamscape」镜音铃的亚克力立牌",
+    "pronunciation": "どりーむすけーぷりんのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_vs_rin_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 862,
+    "seq": 8620,
+    "name": "「Dreamscape」镜音连的亚克力立牌",
+    "pronunciation": "どりーむすけーぷれんのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_vs_len_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 863,
+    "seq": 8630,
+    "name": "「Dreamscape」流歌的亚克力立牌",
+    "pronunciation": "どりーむすけーぷるかのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_vs_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 864,
+    "seq": 8640,
+    "name": "「Dreamscape」MEIKO的亚克力立牌",
+    "pronunciation": "どりーむすけーぷめいこのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_vs_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 865,
+    "seq": 8650,
+    "name": "「Dreamscape」KAITO的亚克力立牌",
+    "pronunciation": "どりーむすけーぷかいとのあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/dreamscape",
+    "fileName": "dreamscape_vs_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
     "id": 866,
     "seq": 8660,
     "name": "女神异闻录5 皇家版联动纪念插画贴纸",
@@ -8487,6 +8152,930 @@
     "resourceLoadVal": "custom_profile\/collection\/collab002",
     "fileName": "collab_p5r_keyvisual",
     "customProfileResourceCollectionType": "sticker"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 867,
+    "seq": 8680,
+    "name": "「5th ANNIVERSARY 感谢庆典」虚拟歌手 主视觉图贴纸",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいばーちゃるしんがーきーびじゅあるすてっかー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_keyvisual",
+    "customProfileResourceCollectionType": "sticker"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 868,
+    "seq": 8690,
+    "name": "「5th ANNIVERSARY 感谢庆典」Leo\/need 主视觉图贴纸",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいれおにーどきーびじゅあるすてっかー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_leo_keyvisual",
+    "customProfileResourceCollectionType": "sticker"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 869,
+    "seq": 8700,
+    "name": "「5th ANNIVERSARY 感谢庆典」MORE MORE JUMP！ 主视觉图贴纸",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいもあもあじゃんぷきーびじゅあるすてっかー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_mmj_keyvisual",
+    "customProfileResourceCollectionType": "sticker"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 870,
+    "seq": 8710,
+    "name": "「5th ANNIVERSARY 感谢庆典」Vivid BAD SQUAD 主视觉图贴纸",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいびびっどばっどすくぁっどきーびじゅあるすてっかー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vbs_keyvisual",
+    "customProfileResourceCollectionType": "sticker"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 871,
+    "seq": 8720,
+    "name": "「5th ANNIVERSARY 感谢庆典」Wonderlands×Showtime 主视觉图贴纸",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいわんだーらんずしょうたいむきーびじゅあるすてっかー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_wds_keyvisual",
+    "customProfileResourceCollectionType": "sticker"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 872,
+    "seq": 8730,
+    "name": "「5th ANNIVERSARY 感谢庆典」25点，Nightcord见。 主视觉图贴纸",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいにじゅうごじないとこーどできーびじゅあるすてっかー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_nig_keyvisual",
+    "customProfileResourceCollectionType": "sticker"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 873,
+    "seq": 8740,
+    "name": "「5th ANNIVERSARY 感谢庆典」未来的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいみくのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_miku_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 874,
+    "seq": 8750,
+    "name": "「5th ANNIVERSARY 感谢庆典」铃的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいりんのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_rin_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 875,
+    "seq": 8760,
+    "name": "「5th ANNIVERSARY 感谢庆典」连的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいれんのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_len_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 876,
+    "seq": 8770,
+    "name": "「5th ANNIVERSARY 感谢庆典」流歌的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいるかのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_luka_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 877,
+    "seq": 8780,
+    "name": "「5th ANNIVERSARY 感谢庆典」MEIKO的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいめいこのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_meiko_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 878,
+    "seq": 8790,
+    "name": "「5th ANNIVERSARY 感谢庆典」KAITO的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいかいとのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_kaito_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 879,
+    "seq": 8800,
+    "name": "「5th ANNIVERSARY 感谢庆典」初音未来的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいみくのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_miku_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 880,
+    "seq": 8810,
+    "name": "「5th ANNIVERSARY 感谢庆典」镜音铃的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいりんのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_rin_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 881,
+    "seq": 8820,
+    "name": "「5th ANNIVERSARY 感谢庆典」镜音连的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいれんのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_len_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 882,
+    "seq": 8830,
+    "name": "「5th ANNIVERSARY 感谢庆典」流歌的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいるかのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_luka_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 883,
+    "seq": 8840,
+    "name": "「5th ANNIVERSARY 感谢庆典」MEIKO的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいめいこのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_meiko_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 884,
+    "seq": 8850,
+    "name": "「5th ANNIVERSARY 感谢庆典」KAITO的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいかいとのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_kaito_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 885,
+    "seq": 8860,
+    "name": "「5th ANNIVERSARY 感谢庆典」未来卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいみくのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_miku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 886,
+    "seq": 8870,
+    "name": "「5th ANNIVERSARY 感谢庆典」铃卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいりんのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_rin_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 887,
+    "seq": 8880,
+    "name": "「5th ANNIVERSARY 感谢庆典」连卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいれんのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_len_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 888,
+    "seq": 8890,
+    "name": "「5th ANNIVERSARY 感谢庆典」流歌卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいるかのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_luka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 889,
+    "seq": 8900,
+    "name": "「5th ANNIVERSARY 感谢庆典」MEIKO卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいめいこのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_meiko_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 890,
+    "seq": 8910,
+    "name": "「5th ANNIVERSARY 感谢庆典」KAITO卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいかいとのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vs_kaito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 891,
+    "seq": 8920,
+    "name": "「5th ANNIVERSARY 感谢庆典」一歌的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいいちかのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_leo_ichika_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 892,
+    "seq": 8930,
+    "name": "「5th ANNIVERSARY 感谢庆典」咲希的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいさきのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_leo_saki_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 893,
+    "seq": 8940,
+    "name": "「5th ANNIVERSARY 感谢庆典」穗波的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいほなみのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_leo_honami_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 894,
+    "seq": 8950,
+    "name": "「5th ANNIVERSARY 感谢庆典」志步的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいしほのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_leo_shiho_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 895,
+    "seq": 8960,
+    "name": "「5th ANNIVERSARY 感谢庆典」一歌的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいいちかのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_leo_ichika_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 896,
+    "seq": 8970,
+    "name": "「5th ANNIVERSARY 感谢庆典」咲希的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいさきのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_leo_saki_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 897,
+    "seq": 8980,
+    "name": "「5th ANNIVERSARY 感谢庆典」穗波的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいほなみのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_leo_honami_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 898,
+    "seq": 8990,
+    "name": "「5th ANNIVERSARY 感谢庆典」志步的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいしほのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_leo_shiho_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 899,
+    "seq": 9000,
+    "name": "「5th ANNIVERSARY 感谢庆典」一歌卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいいちかのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_leo_ichika_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 900,
+    "seq": 9010,
+    "name": "「5th ANNIVERSARY 感谢庆典」咲希卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいさきのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_leo_saki_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 901,
+    "seq": 9020,
+    "name": "「5th ANNIVERSARY 感谢庆典」穗波卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいほなみのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_leo_honami_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 902,
+    "seq": 9030,
+    "name": "「5th ANNIVERSARY 感谢庆典」志步卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいしほのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_leo_shiho_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 903,
+    "seq": 9040,
+    "name": "「5th ANNIVERSARY 感谢庆典」实乃理的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいみのりのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_mmj_minori_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 904,
+    "seq": 9050,
+    "name": "「5th ANNIVERSARY 感谢庆典」遥的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいはるかのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_mmj_haruka_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 905,
+    "seq": 9060,
+    "name": "「5th ANNIVERSARY 感谢庆典」爱莉的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいあいりのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_mmj_airi_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 906,
+    "seq": 9070,
+    "name": "「5th ANNIVERSARY 感谢庆典」雫的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいしずくのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_mmj_shizuku_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 907,
+    "seq": 9080,
+    "name": "「5th ANNIVERSARY 感谢庆典」实乃理的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいみのりのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_mmj_minori_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 908,
+    "seq": 9090,
+    "name": "「5th ANNIVERSARY 感谢庆典」遥的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいはるかのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_mmj_haruka_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 909,
+    "seq": 9100,
+    "name": "「5th ANNIVERSARY 感谢庆典」爱莉的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいあいりのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_mmj_airi_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 910,
+    "seq": 9110,
+    "name": "「5th ANNIVERSARY 感谢庆典」雫的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいしずくのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_mmj_shizuku_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 911,
+    "seq": 9120,
+    "name": "「5th ANNIVERSARY 感谢庆典」实乃理卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいみのりのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_mmj_minori_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 912,
+    "seq": 9130,
+    "name": "「5th ANNIVERSARY 感谢庆典」遥卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいはるかのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_mmj_haruka_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 913,
+    "seq": 9140,
+    "name": "「5th ANNIVERSARY 感谢庆典」爱莉卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいあいりのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_mmj_airi_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 914,
+    "seq": 9150,
+    "name": "「5th ANNIVERSARY 感谢庆典」雫卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいしずくのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_mmj_shizuku_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 915,
+    "seq": 9160,
+    "name": "「5th ANNIVERSARY 感谢庆典」心羽的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいこはねのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vbs_kohane_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 916,
+    "seq": 9170,
+    "name": "「5th ANNIVERSARY 感谢庆典」杏的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいあんのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vbs_an_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 917,
+    "seq": 9180,
+    "name": "「5th ANNIVERSARY 感谢庆典」彰人的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいあきとのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vbs_akito_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 918,
+    "seq": 9190,
+    "name": "「5th ANNIVERSARY 感谢庆典」冬弥的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいとうやのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vbs_toya_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 919,
+    "seq": 9200,
+    "name": "「5th ANNIVERSARY 感谢庆典」心羽的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいこはねのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vbs_kohane_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 920,
+    "seq": 9210,
+    "name": "「5th ANNIVERSARY 感谢庆典」杏的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいあんのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vbs_an_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 921,
+    "seq": 9220,
+    "name": "「5th ANNIVERSARY 感谢庆典」彰人的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいあきとのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vbs_akito_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 922,
+    "seq": 9230,
+    "name": "「5th ANNIVERSARY 感谢庆典」冬弥的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいとうやのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vbs_toya_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 923,
+    "seq": 9240,
+    "name": "「5th ANNIVERSARY 感谢庆典」心羽卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいこはねのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vbs_kohane_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 924,
+    "seq": 9250,
+    "name": "「5th ANNIVERSARY 感谢庆典」杏卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいあんのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vbs_an_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 925,
+    "seq": 9260,
+    "name": "「5th ANNIVERSARY 感谢庆典」彰人卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいあきとのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vbs_akito_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 926,
+    "seq": 9270,
+    "name": "「5th ANNIVERSARY 感谢庆典」冬弥卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいとうやのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_vbs_toya_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 927,
+    "seq": 9280,
+    "name": "「5th ANNIVERSARY 感谢庆典」司的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいつかさのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_wds_tsukasa_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 928,
+    "seq": 9290,
+    "name": "「5th ANNIVERSARY 感谢庆典」笑梦的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいえむのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_wds_emu_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 929,
+    "seq": 9300,
+    "name": "「5th ANNIVERSARY 感谢庆典」宁宁的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいねねのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_wds_nene_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 930,
+    "seq": 9310,
+    "name": "「5th ANNIVERSARY 感谢庆典」类的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいるいのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_wds_rui_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 931,
+    "seq": 9320,
+    "name": "「5th ANNIVERSARY 感谢庆典」司的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいつかさのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_wds_tsukasa_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 932,
+    "seq": 9330,
+    "name": "「5th ANNIVERSARY 感谢庆典」笑梦的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいえむのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_wds_emu_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 933,
+    "seq": 9340,
+    "name": "「5th ANNIVERSARY 感谢庆典」宁宁的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいねねのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_wds_nene_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 934,
+    "seq": 9350,
+    "name": "「5th ANNIVERSARY 感谢庆典」类的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいるいのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_wds_rui_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 935,
+    "seq": 9360,
+    "name": "「5th ANNIVERSARY 感谢庆典」司卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいつかさのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_wds_tsukasa_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 936,
+    "seq": 9370,
+    "name": "「5th ANNIVERSARY 感谢庆典」笑梦卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいえむのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_wds_emu_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 937,
+    "seq": 9380,
+    "name": "「5th ANNIVERSARY 感谢庆典」宁宁卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいねねのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_wds_nene_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 938,
+    "seq": 9390,
+    "name": "「5th ANNIVERSARY 感谢庆典」类卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいるいのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_wds_rui_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 939,
+    "seq": 9400,
+    "name": "「5th ANNIVERSARY 感谢庆典」奏的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいかなでのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_nig_kanade_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 940,
+    "seq": 9410,
+    "name": "「5th ANNIVERSARY 感谢庆典」真冬的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいまふゆのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_nig_mafuyu_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 941,
+    "seq": 9420,
+    "name": "「5th ANNIVERSARY 感谢庆典」绘名的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいえなのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_nig_ena_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 942,
+    "seq": 9430,
+    "name": "「5th ANNIVERSARY 感谢庆典」瑞希的挂画",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいみずきのたぺすとりー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_nig_mizuki_tapestry",
+    "customProfileResourceCollectionType": "tapestry"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 943,
+    "seq": 9440,
+    "name": "「5th ANNIVERSARY 感谢庆典」奏的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいかなでのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_nig_kanade_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 944,
+    "seq": 9450,
+    "name": "「5th ANNIVERSARY 感谢庆典」真冬的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいまふゆのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_nig_mafuyu_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 945,
+    "seq": 9460,
+    "name": "「5th ANNIVERSARY 感谢庆典」绘名的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいえなのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_nig_ena_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 946,
+    "seq": 9470,
+    "name": "「5th ANNIVERSARY 感谢庆典」瑞希的徽章",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいみずきのかんばっじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_nig_mizuki_canbadge",
+    "customProfileResourceCollectionType": "can_badge"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 947,
+    "seq": 9480,
+    "name": "「5th ANNIVERSARY 感谢庆典」奏卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいかなでのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_nig_kanade_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 948,
+    "seq": 9490,
+    "name": "「5th ANNIVERSARY 感谢庆典」真冬卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいまふゆのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_nig_mafuyu_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 949,
+    "seq": 9500,
+    "name": "「5th ANNIVERSARY 感谢庆典」绘名卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいえなのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_nig_ena_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
+  },
+  {
+    "customProfileResourceType": "collection",
+    "id": 950,
+    "seq": 9510,
+    "name": "「5th ANNIVERSARY 感谢庆典」瑞希卡牌型亚克力立牌",
+    "pronunciation": "ふぃふすあにばーさりーかんしゃさいみずきのかーどがたあくりるすたんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile\/collection\/5thanniversary",
+    "fileName": "5thanniversary_nig_mizuki_acrylicstand",
+    "customProfileResourceCollectionType": "acrylic_stand"
   },
   {
     "customProfileResourceType": "collection",
