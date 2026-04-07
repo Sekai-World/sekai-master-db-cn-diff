@@ -1,16 +1,5 @@
 [
   {
-    "id": 87,
-    "seq": 600,
-    "assetbundleName": "ab_gacha_tab_15",
-    "childGachaIds": [
-      699,
-      700,
-      701,
-      702
-    ]
-  },
-  {
     "id": 89,
     "seq": 600,
     "assetbundleName": "ab_gacha_tab_16",
@@ -33,14 +22,36 @@
     ]
   },
   {
-    "id": 3002,
-    "seq": 510,
-    "assetbundleName": "ab_gacha_tab_3001",
+    "id": 91,
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_18",
     "childGachaIds": [
-      10000,
-      10001,
-      10002,
-      10003
+      728,
+      729,
+      730,
+      731
+    ]
+  },
+  {
+    "id": 93,
+    "seq": 600,
+    "assetbundleName": "ab_gacha_tab_19",
+    "childGachaIds": [
+      736,
+      737,
+      738,
+      739
+    ]
+  },
+  {
+    "id": 94,
+    "seq": 570,
+    "assetbundleName": "ab_gacha_tab_20",
+    "childGachaIds": [
+      741,
+      742,
+      743,
+      744
     ]
   },
   {
@@ -52,6 +63,28 @@
       10005,
       10006,
       10007
+    ]
+  },
+  {
+    "id": 3005,
+    "seq": 510,
+    "assetbundleName": "ab_gacha_tab_3001",
+    "childGachaIds": [
+      10008,
+      10009,
+      10010,
+      10011
+    ]
+  },
+  {
+    "id": 3006,
+    "seq": 510,
+    "assetbundleName": "ab_gacha_tab_3001",
+    "childGachaIds": [
+      10012,
+      10013,
+      10014,
+      10015
     ]
   }
 ]

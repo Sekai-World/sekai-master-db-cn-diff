@@ -31635,7 +31635,7 @@
     "gridSize": {
       "width": 8,
       "depth": 8,
-      "height": 12
+      "height": 10
     },
     "colorCode": "#F9F9FE",
     "mysekaiFixtureMainGenreId": 2,
@@ -32173,7 +32173,7 @@
   },
   {
     "id": 90001,
-    "mysekaiFixtureType": "house_plant",
+    "mysekaiFixtureType": "normal",
     "name": "迪拉熊",
     "pronunciation": "舞萌|中二联动",
     "flavorText": "迪拉熊",
@@ -32204,7 +32204,7 @@
   },
   {
     "id": 90002,
-    "mysekaiFixtureType": "house_plant",
+    "mysekaiFixtureType": "normal",
     "name": "中二企鹅",
     "pronunciation": "舞萌|中二联动",
     "flavorText": "中二企鹅",
@@ -32431,6 +32431,36 @@
     "mysekaiFixturePlayerActionType": "loop",
     "isGameCharacterAction": false,
     "assetbundleName": "mdl_cncollect_fixture_tea3"
+  },
+  {
+    "id": 90009,
+    "mysekaiFixtureType": "normal",
+    "name": "「世界」巡游音乐巴士 ",
+    "pronunciation": "「世界」巡游音乐巴士",
+    "flavorText": "「世界」巡游音乐巴士 ",
+    "seq": 91001011,
+    "gridSize": {
+      "width": 6,
+      "depth": 11,
+      "height": 8
+    },
+    "mysekaiFixtureMainGenreId": 3,
+    "mysekaiFixtureSubGenreId": 13,
+    "mysekaiFixtureHandleType": "none",
+    "mysekaiSettableSiteType": "home",
+    "mysekaiSettableLayoutType": "floor",
+    "mysekaiFixturePutType": "none",
+    "mysekaiFixtureAnotherColors": [],
+    "mysekaiFixturePutSoundId": 4,
+    "mysekaiFixtureTagGroup": {
+      "id": 90009,
+      "mysekaiFixtureTagId1": 90009
+    },
+    "isAssembled": false,
+    "isDisassembled": false,
+    "mysekaiFixturePlayerActionType": "no_action",
+    "isGameCharacterAction": false,
+    "assetbundleName": "mdl_cn_fixture_1thbus"
   },
   {
     "id": 900002,

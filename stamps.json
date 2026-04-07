@@ -12059,6 +12059,58 @@
     "description": "在表情商店购买"
   },
   {
+    "id": 10074,
+    "stampType": "illustration",
+    "seq": 100740,
+    "name": "[表情]奏：在一起真好啊...",
+    "assetbundleName": "stamp10074",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 17,
+    "gameCharacterUnitId": 17,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1775188800000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10075,
+    "stampType": "illustration",
+    "seq": 100750,
+    "name": "[表情]真冬：诶？",
+    "assetbundleName": "stamp10075",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 18,
+    "gameCharacterUnitId": 18,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1775188800000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10076,
+    "stampType": "illustration",
+    "seq": 100760,
+    "name": "[表情]绘名：花开了啊",
+    "assetbundleName": "stamp10076",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 19,
+    "gameCharacterUnitId": 19,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1775188800000,
+    "description": "在表情商店购买"
+  },
+  {
+    "id": 10077,
+    "stampType": "illustration",
+    "seq": 100770,
+    "name": "[表情]瑞希：记录这一刻吧",
+    "assetbundleName": "stamp10077",
+    "balloonAssetbundleName": "balloon_stamp_01",
+    "characterId1": 20,
+    "gameCharacterUnitId": 20,
+    "archiveDisplayType": "normal",
+    "archivePublishedAt": 1775188800000,
+    "description": "在表情商店购买"
+  },
+  {
     "id": 101021,
     "stampType": "illustration",
     "seq": 7130,
@@ -12393,7 +12445,7 @@
     "characterId1": 2,
     "characterId2": 17,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1784086200000,
+    "archivePublishedAt": 1769830200000,
     "description": "咲希和奏的角色牵绊等级达到66级时获得"
   },
   {
@@ -12471,7 +12523,7 @@
     "characterId1": 2,
     "characterId2": 25,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1777519800000,
+    "archivePublishedAt": 1769830200000,
     "description": "咲希和MEIKO的角色牵绊等级达到66级时获得"
   },
   {
@@ -12575,7 +12627,7 @@
     "characterId1": 3,
     "characterId2": 15,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1777519800000,
+    "archivePublishedAt": 1769830200000,
     "description": "穗波和宁宁的角色牵绊等级达到66级时获得"
   },
   {
@@ -12627,7 +12679,7 @@
     "characterId1": 3,
     "characterId2": 20,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1784086200000,
+    "archivePublishedAt": 1769830200000,
     "description": "穗波和瑞希的角色牵绊等级达到66级时获得"
   },
   {
@@ -13225,7 +13277,7 @@
     "characterId1": 7,
     "characterId2": 16,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1787988600000,
+    "archivePublishedAt": 1769830200000,
     "description": "爱莉和类的角色牵绊等级达到66级时获得"
   },
   {
@@ -13368,7 +13420,7 @@
     "characterId1": 8,
     "characterId2": 16,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1787988600000,
+    "archivePublishedAt": 1769830200000,
     "description": "雫和类的角色牵绊等级达到66级时获得"
   },
   {
@@ -13966,7 +14018,7 @@
     "characterId1": 12,
     "characterId2": 17,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1777519800000,
+    "archivePublishedAt": 1769830200000,
     "description": "冬弥和奏的角色牵绊等级达到66级时获得"
   },
   {
@@ -14161,7 +14213,7 @@
     "characterId1": 13,
     "characterId2": 25,
     "archiveDisplayType": "normal",
-    "archivePublishedAt": 1787988600000,
+    "archivePublishedAt": 1769830200000,
     "description": "司和MEIKO的角色牵绊等级达到66级时获得"
   },
   {

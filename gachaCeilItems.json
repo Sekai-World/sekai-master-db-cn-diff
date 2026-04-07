@@ -514,7 +514,7 @@
   {
     "id": 100,
     "gachaId": 227,
-    "name": "[回响][星乃一歌]HAPPY BIRTHDAY招募贴纸",
+    "name": "[复刻][星乃一歌]HAPPY BIRTHDAY招募贴纸",
     "assetbundleName": "ceil_item_birthday",
     "convertStartAt": 1694934000000,
     "convertResourceBoxId": 2
@@ -1010,7 +1010,7 @@
   {
     "id": 195,
     "gachaId": 350,
-    "name": "[回响][草薙宁宁]HAPPY BIRTHDAY招募贴纸",
+    "name": "[复刻][草薙宁宁]HAPPY BIRTHDAY招募贴纸",
     "assetbundleName": "ceil_item_birthday",
     "convertStartAt": 1724655600000,
     "convertResourceBoxId": 2
@@ -1042,7 +1042,7 @@
   {
     "id": 202,
     "gachaId": 359,
-    "name": "[回响][星乃一歌]HAPPY BIRTHDAY招募贴纸",
+    "name": "[复刻][星乃一歌]HAPPY BIRTHDAY招募贴纸",
     "assetbundleName": "ceil_item_birthday",
     "convertStartAt": 1726556400000,
     "convertResourceBoxId": 2
@@ -1346,9 +1346,9 @@
   {
     "id": 305,
     "gachaId": 496,
-    "name": "[回响]向你呼喊的蓝色之声招募贴纸",
+    "name": "[复刻]向你呼喊的蓝色之声招募贴纸",
     "assetbundleName": "ceil_item_limited",
-    "convertStartAt": 1779865200000,
+    "convertStartAt": 1778471999000,
     "convertResourceBoxId": 2
   },
   {
@@ -1400,11 +1400,27 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 317,
+    "gachaId": 510,
+    "name": "[复刻]Escape from rain招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1779681599000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 318,
     "gachaId": 511,
     "name": "[回响]Sporty Girl♡招募贴纸",
     "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1770263999000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 319,
+    "gachaId": 512,
+    "name": "[复刻]月色下的兔子姐妹招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1780891140000,
     "convertResourceBoxId": 2
   },
   {
@@ -1898,7 +1914,7 @@
   {
     "id": 409,
     "gachaId": 690,
-    "name": "[回响][小豆泽心羽]HAPPY BIRTHDAY招募贴纸",
+    "name": "[复刻][小豆泽心羽]HAPPY BIRTHDAY招募贴纸",
     "assetbundleName": "ceil_item_birthday",
     "convertStartAt": 1775577599000,
     "convertResourceBoxId": 2
@@ -1914,7 +1930,7 @@
   {
     "id": 413,
     "gachaId": 699,
-    "name": "[回响][桃井爱莉]HAPPY BIRTHDAY招募贴纸",
+    "name": "[复刻][桃井爱莉]HAPPY BIRTHDAY招募贴纸",
     "assetbundleName": "ceil_item_birthday",
     "convertStartAt": 1777046399000,
     "convertResourceBoxId": 2
@@ -1936,11 +1952,19 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 417,
+    "gachaId": 712,
+    "name": "[Vivid BAD SQUAD]支援招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1779422400000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 418,
     "gachaId": 713,
     "name": "Glance at Same World招募贴纸",
     "assetbundleName": "ceil_item_limited",
-    "convertStartAt": 1779249600000,
+    "convertStartAt": 1779422399000,
     "convertResourceBoxId": 2
   },
   {
@@ -1956,7 +1980,7 @@
     "gachaId": 720,
     "name": "Blooming Light招募贴纸",
     "assetbundleName": "ceil_item",
-    "convertStartAt": 1780642800000,
+    "convertStartAt": 1780113599000,
     "convertResourceBoxId": 2
   },
   {
@@ -1968,6 +1992,14 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 424,
+    "gachaId": 725,
+    "name": "Papilio Vinculatus招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1780891199000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 426,
     "gachaId": 728,
     "name": "[天马咲希]HAPPY BIRTHDAY招募贴纸",
@@ -1976,10 +2008,26 @@
     "convertResourceBoxId": 2
   },
   {
+    "id": 427,
+    "gachaId": 733,
+    "name": "Dream a Wonder Dream招募贴纸",
+    "assetbundleName": "ceil_item_limited",
+    "convertStartAt": 1781928000000,
+    "convertResourceBoxId": 2
+  },
+  {
     "id": 430,
     "gachaId": 736,
     "name": "[天马司]HAPPY BIRTHDAY招募贴纸",
     "assetbundleName": "ceil_item_birthday",
+    "convertStartAt": 1782792000000,
+    "convertResourceBoxId": 2
+  },
+  {
+    "id": 431,
+    "gachaId": 740,
+    "name": "Starry-eyed Princess招募贴纸",
+    "assetbundleName": "ceil_item",
     "convertStartAt": 1782792000000,
     "convertResourceBoxId": 2
   },
@@ -2042,7 +2090,7 @@
   {
     "id": 446,
     "gachaId": 767,
-    "name": "[回响][草薙宁宁]HAPPY BIRTHDAY招募贴纸",
+    "name": "[复刻][草薙宁宁]HAPPY BIRTHDAY招募贴纸",
     "assetbundleName": "ceil_item_birthday",
     "convertStartAt": 1787641200000,
     "convertResourceBoxId": 2
@@ -2082,7 +2130,7 @@
   {
     "id": 452,
     "gachaId": 783,
-    "name": "[回响][星乃一歌]HAPPY BIRTHDAY招募贴纸",
+    "name": "[复刻][星乃一歌]HAPPY BIRTHDAY招募贴纸",
     "assetbundleName": "ceil_item_birthday",
     "convertStartAt": 1789542000000,
     "convertResourceBoxId": 2
@@ -2117,14 +2165,6 @@
     "name": "对绝望之雨也一笑了之招募贴纸",
     "assetbundleName": "ceil_item_limited",
     "convertStartAt": 1791259200000,
-    "convertResourceBoxId": 2
-  },
-  {
-    "id": 460,
-    "gachaId": 801,
-    "name": "Recollection Festival招募贴纸",
-    "assetbundleName": "ceil_item_limited",
-    "convertStartAt": 1791086400000,
     "convertResourceBoxId": 2
   },
   {
