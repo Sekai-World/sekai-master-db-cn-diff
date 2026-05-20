@@ -119292,6 +119292,39 @@
     ]
   },
   {
+    "id": 20060,
+    "seq": 2000053,
+    "groupId": 30020,
+    "honorRarity": "low",
+    "name": "「世界」的创作者",
+    "assetbundleName": "honor_creator",
+    "startAt": 1779811200000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "参与sns创作征集活动赠送",
+        "startAt": 1779811200000
+      }
+    ]
+  },
+  {
+    "id": 20061,
+    "seq": 2000082,
+    "groupId": 30021,
+    "honorRarity": "low",
+    "name": "「世界」的出游日",
+    "assetbundleName": "honor_competition_202607",
+    "startAt": 1779292800000,
+    "levels": [
+      {
+        "level": 1,
+        "bonus": 0,
+        "description": "参与我的「世界」百景活动赠送"
+      }
+    ]
+  },
+  {
     "id": 3001001,
     "seq": 30010010,
     "groupId": 71,

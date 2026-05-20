@@ -3975,10 +3975,17 @@
   },
   {
     "id": 30020,
-    "name": "世界的创作者",
+    "name": "「世界」的创作者",
     "pronunciation": "fans",
     "honorType": "event",
     "backgroundAssetbundleName": "honor_creator"
+  },
+  {
+    "id": 30021,
+    "name": "「世界」的出游日",
+    "pronunciation": "fans",
+    "honorType": "event",
+    "backgroundAssetbundleName": "honor_competition_202607"
   },
   {
     "id": 100016,
